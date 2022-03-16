@@ -51,7 +51,7 @@ Actually:
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/company/mike-codeur/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/instagram-light.svg)](https://instagram.com/mikecodeur#gh-light-mode-only)
-[![img_contact](./img
+[![img_contact](./img/instagram-dark.svg)](https://instagram.com/mikecodeur#gh-dark-mode-only)
 
 ### Languages and Tools:
 
