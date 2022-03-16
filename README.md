@@ -36,45 +36,7 @@ Actually:
   </a>
 
 
-
 ### Connect with me:
-
-[![img_contact](./img/globe-light.svg)](https://mikecodeur.com#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://mikecodeur.com#gh-dark-mode-only)
-
-
-
-
-![GHstats](https://github-readme-stats.vercel.app/api?username=MikeCodeur&show_icons=true)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [![img_contact](./img/globe-light.svg)](https://mikecodeur.com#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://mikecodeur.com#gh-dark-mode-only)
@@ -89,9 +51,7 @@ Actually:
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/company/mike-codeur/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/instagram-light.svg)](https://instagram.com/mikecodeur#gh-light-mode-only)
-[![img_contact](./img/instagram-dark.svg)](https://instagram.com/mikecodeur#gh-dark-mode-only)
-
-
+[![img_contact](./img
 
 ### Languages and Tools:
 
