@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Workflow Blog Post
 on:
   schedule:
     # Runs action every hour
@@ -14,3 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.mikecodeur.com/feed/"
+

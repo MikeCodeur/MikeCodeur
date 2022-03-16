@@ -1,4 +1,4 @@
-name: Latest YouTube Videos
+name: Latest Mike Codeur YouTube Videos
 on:
   schedule:
     # Runs every hour
