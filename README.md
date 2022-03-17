@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [GITHUB : COMMENT CRÉÉR UN PROFIL AVANCÉ AVEC LES ACTIONS GITHUB  ?](https://www.youtube.com/watch?v=vD-t_IohSbo)
 - [REACT JS EST-IL TROP DIFFICILE ? 3 CAUSES D&#39;ÉCHEC &lpar;retour d&#39;experience&rpar;](https://www.youtube.com/watch?v=iWW_dYh1E18)
 - [DÉVELOPPEUR, FREELANCE ET NOMADE, LE COMBO GAGANT ? - &lpar;LES 3 AVANTAGES&rpar;](https://www.youtube.com/watch?v=sSLjOVdom-w)
 - [5 LIBRAIRIES REACT À CONNAITRE ABSOLUMENT EN 2022 ! &lpar;DÉBUTANTS / INTERMEDIAIRES&rpar;](https://www.youtube.com/watch?v=HS3Q_dKAHZk)
 - [JE RÉPONDS À VOS QUESTIONS &lpar;CHILL AND QNA EP.2&rpar; - ARGENT, CODE, FREELANCE, ENTREPRENARIAT](https://www.youtube.com/watch?v=InEh4fvVWT4)
-- [POURQUOI 90% DES DÉVELOPPEURS AUTODIDACTES ÉCHOUENT ?](https://www.youtube.com/watch?v=KR6t-a2BGOA)
 <!-- YOUTUBE:END -->
 
 <details>
