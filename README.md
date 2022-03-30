@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [CHILL AND QNA – épisode 2](https://www.mikecodeur.com/2022/03/30/chill-and-qna-episode-2/)
 - [CDI VS FREELANCE – SÉCURITÉ VS LIBERTÉ – TOUS FRUSTRÉ !](https://www.mikecodeur.com/2022/03/24/cdi-vs-freelance-securite-vs-liberte-tous-frustre/)
 - [GITHUB : COMMENT CRÉÉR UN PROFIL AVANCÉ AVEC LES ACTIONS GITHUB  ?](https://www.mikecodeur.com/2022/03/17/github-comment-creer-un-profil-avance-avec-les-actions-github/)
 - [REACT JS EST-IL TROP DIFFICILE ? 3 CAUSES D’ÉCHEC &lpar;retour d’experience&rpar;](https://www.mikecodeur.com/2022/03/10/react-js-est-il-trop-difficile-3-causes-dechec-retour-dexperience/)
 - [DÉVELOPPEUR, FREELANCE ET NOMADE, LE COMBO GAGANT ? – &lpar;LES 3 AVANTAGES&rpar;](https://www.mikecodeur.com/2022/03/03/developpeur-freelance-et-nomade-le-combo-gagant-les-3-avantages/)
-- [5 LIBRAIRIES REACT À CONNAITRE ABSOLUMENT EN 2022 ! &lpar;DÉBUTANTS / INTERMEDIAIRES&rpar;](https://www.mikecodeur.com/2022/02/24/5-librairies-react-a-connaitre-absolument-en-2022-debutants-intermediaires/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
