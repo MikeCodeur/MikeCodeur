@@ -99,7 +99,7 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
-- [5 MANIERES DE RATER &lpar;lamentablement&rpar; SES ENTRETIENS D&#39;EMBAUCHES - &lpar;DEVELOPPEURS&rpar;](https://www.youtube.com/watch?v=9x40yDOOux4)
+- [5 MANIERES DE RATER SES ENTRETIENS D&#39;EMBAUCHES - &lpar;DEVELOPPEURS&rpar;](https://www.youtube.com/watch?v=9x40yDOOux4)
 - [CDI VS FREELANCE - SÉCURITÉ VS LIBERTÉ - TOUS FRUSTRÉ !](https://www.youtube.com/watch?v=tvZEym97Stw)
 - [GITHUB : COMMENT CRÉÉR UN PROFIL AVANCÉ AVEC LES ACTIONS GITHUB  ?](https://www.youtube.com/watch?v=vD-t_IohSbo)
 - [REACT JS EST-IL TROP DIFFICILE ? 3 CAUSES D&#39;ÉCHEC &lpar;retour d&#39;experience&rpar;](https://www.youtube.com/watch?v=iWW_dYh1E18)
