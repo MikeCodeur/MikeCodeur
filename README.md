@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [COMMENT LACHER PRISE POUR MIEUX REPARTIR ? &lpar;échecs developpeurs&rpar;](https://www.mikecodeur.com/2022/04/21/comment-lacher-prise-pour-mieux-repartir-echecs-developpeurs/)
 - [5 MANIERES DE RATER &lpar;lamentablement&rpar; SES ENTRETIENS D’EMBAUCHES – &lpar;DEVELOPPEURS&rpar;](https://www.mikecodeur.com/2022/04/07/5-manieres-de-rater-lamentablement-ses-entretiens-dembauches-developpeurs/)
 - [CHILL AND QNA – épisode 2](https://www.mikecodeur.com/2022/03/30/chill-and-qna-episode-2/)
 - [CDI VS FREELANCE – SÉCURITÉ VS LIBERTÉ – TOUS FRUSTRÉ !](https://www.mikecodeur.com/2022/03/24/cdi-vs-freelance-securite-vs-liberte-tous-frustre/)
 - [GITHUB : COMMENT CRÉÉR UN PROFIL AVANCÉ AVEC LES ACTIONS GITHUB  ?](https://www.mikecodeur.com/2022/03/17/github-comment-creer-un-profil-avance-avec-les-actions-github/)
-- [REACT JS EST-IL TROP DIFFICILE ? 3 CAUSES D’ÉCHEC &lpar;retour d’experience&rpar;](https://www.mikecodeur.com/2022/03/10/react-js-est-il-trop-difficile-3-causes-dechec-retour-dexperience/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
