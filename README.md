@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [+93% GRÂCE À L&#39;IMMOBILIER EN COLOMBIE  !](https://www.youtube.com/watch?v=TQGH_dze7eg)
 - [QUELLES ALTERNATIVES AUX ESN/SSII ? &lpar;Développeurs&rpar;](https://www.youtube.com/watch?v=ZoxofvJaQTw)
 - [COMMENT LACHER PRISE POUR MIEUX REPARTIR ? &lpar;échecs developpeurs&rpar;](https://www.youtube.com/watch?v=kLxo_EWW8Dk)
 - [5 MANIERES DE RATER SES ENTRETIENS D&#39;EMBAUCHES - &lpar;DEVELOPPEURS&rpar;](https://www.youtube.com/watch?v=9x40yDOOux4)
 - [CDI VS FREELANCE - SÉCURITÉ VS LIBERTÉ - TOUS FRUSTRÉ !](https://www.youtube.com/watch?v=tvZEym97Stw)
-- [GITHUB : COMMENT CRÉÉR UN PROFIL AVANCÉ AVEC LES ACTIONS GITHUB  ?](https://www.youtube.com/watch?v=vD-t_IohSbo)
 <!-- YOUTUBE:END -->
 
 <details>
