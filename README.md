@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [+93% GRÂCE À L’IMMOBILIER EN COLOMBIE  !](https://www.mikecodeur.com/2022/05/26/93-grace-a-limmobilier-en-colombie/)
 - [QUELLES ALTERNATIVES AUX ESN/SSII ? &lpar;Développeurs&rpar;](https://www.mikecodeur.com/2022/05/13/quelles-alternatives-aux-esn-ssii-developpeurs/)
 - [COMMENT LACHER PRISE POUR MIEUX REPARTIR ? &lpar;échecs developpeurs&rpar;](https://www.mikecodeur.com/2022/04/21/comment-lacher-prise-pour-mieux-repartir-echecs-developpeurs/)
 - [5 MANIERES DE RATER &lpar;lamentablement&rpar; SES ENTRETIENS D’EMBAUCHES – &lpar;DEVELOPPEURS&rpar;](https://www.mikecodeur.com/2022/04/07/5-manieres-de-rater-lamentablement-ses-entretiens-dembauches-developpeurs/)
 - [CHILL AND QNA – épisode 2](https://www.mikecodeur.com/2022/03/30/chill-and-qna-episode-2/)
-- [CDI VS FREELANCE – SÉCURITÉ VS LIBERTÉ – TOUS FRUSTRÉ !](https://www.mikecodeur.com/2022/03/24/cdi-vs-freelance-securite-vs-liberte-tous-frustre/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
