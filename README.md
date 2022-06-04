@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [DEVENIR DEV FRONT REACT EN PARALLÈLE DE SES ÉTUDES – INTERVIEW AXEL](https://www.mikecodeur.com/2022/06/04/devenir-dev-front-react-en-parallele-de-ses-etudes-interview-axel/)
 - [RECONVERSION DEV FRONT REACT JS À 40 ANS, INTERVIEW INGRID](https://www.mikecodeur.com/2022/06/01/reconversion-dev-front-react-js-a-40-ans-interview-ingrid/)
 - [+93% GRÂCE À L’IMMOBILIER EN COLOMBIE  !](https://www.mikecodeur.com/2022/05/26/93-grace-a-limmobilier-en-colombie/)
 - [QUELLES ALTERNATIVES AUX ESN/SSII ? &lpar;Développeurs&rpar;](https://www.mikecodeur.com/2022/05/13/quelles-alternatives-aux-esn-ssii-developpeurs/)
 - [COMMENT LACHER PRISE POUR MIEUX REPARTIR ? &lpar;échecs developpeurs&rpar;](https://www.mikecodeur.com/2022/04/21/comment-lacher-prise-pour-mieux-repartir-echecs-developpeurs/)
-- [5 MANIERES DE RATER &lpar;lamentablement&rpar; SES ENTRETIENS D’EMBAUCHES – &lpar;DEVELOPPEURS&rpar;](https://www.mikecodeur.com/2022/04/07/5-manieres-de-rater-lamentablement-ses-entretiens-dembauches-developpeurs/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
