@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [J’ANALYSE 4 PROJETS DEV FRONT REACT JS](https://www.mikecodeur.com/2022/06/09/janalyse-4-projets-dev-front-react-js/)
 - [DE DIRECTEUR DES VENTES À DEV FRONT END REACT À 43 ANS – INTERVIEW](https://www.mikecodeur.com/2022/06/06/de-directeur-des-ventes-a-dev-front-end-react-a-43-ans-interview/)
 - [DEVENIR DEV FRONT REACT EN PARALLÈLE DE SES ÉTUDES – INTERVIEW AXEL](https://www.mikecodeur.com/2022/06/04/devenir-dev-front-react-en-parallele-de-ses-etudes-interview-axel/)
 - [RECONVERSION DEV FRONT REACT JS À 40 ANS, INTERVIEW INGRID](https://www.mikecodeur.com/2022/06/01/reconversion-dev-front-react-js-a-40-ans-interview-ingrid/)
 - [+93% GRÂCE À L’IMMOBILIER EN COLOMBIE  !](https://www.mikecodeur.com/2022/05/26/93-grace-a-limmobilier-en-colombie/)
-- [QUELLES ALTERNATIVES AUX ESN/SSII ? &lpar;Développeurs&rpar;](https://www.mikecodeur.com/2022/05/13/quelles-alternatives-aux-esn-ssii-developpeurs/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
