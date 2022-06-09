@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [J&#39;ANALYSE 4 PROJETS DEV FRONT REACT JS](https://www.youtube.com/watch?v=7jMmCcRFXAI)
 - [DE DIRECTEUR DES VENTES À DEV FRONT END REACT À 43 ANS - INTERVIEW](https://www.youtube.com/watch?v=0JpsCB5WTJo)
 - [DEVENIR DEV FRONT REACT EN PARALLÈLE DE SES ÉTUDES - INTERVIEW AXEL](https://www.youtube.com/watch?v=Gxjdk2Xk_qQ)
 - [RECONVERSION DEV FRONT REACT JS À 40 ANS, INTERVIEW INGRID](https://www.youtube.com/watch?v=6kQVwBtxajQ)
 - [+93% GRÂCE À L&#39;IMMOBILIER EN COLOMBIE  !](https://www.youtube.com/watch?v=TQGH_dze7eg)
-- [QUELLES ALTERNATIVES AUX ESN/SSII ? &lpar;Développeurs&rpar;](https://www.youtube.com/watch?v=ZoxofvJaQTw)
 <!-- YOUTUBE:END -->
 
 <details>
