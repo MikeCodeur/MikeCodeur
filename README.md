@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [5 extensions Vscode à installer absolument si tu es dev front ! ☝️🔥](https://www.youtube.com/watch?v=MoulRNds4PM)
 - [Les deux grandes manières de facturer un client quand tu es développeur freelance  ? ☝️🔥](https://www.youtube.com/watch?v=WNm1pFWypZ8)
 - [J&#39;ANALYSE 4 PROJETS DEV FRONT REACT JS](https://www.youtube.com/watch?v=7jMmCcRFXAI)
 - [DE DIRECTEUR DES VENTES À DEV FRONT END REACT À 43 ANS - INTERVIEW](https://www.youtube.com/watch?v=0JpsCB5WTJo)
 - [DEVENIR DEV FRONT REACT EN PARALLÈLE DE SES ÉTUDES - INTERVIEW AXEL](https://www.youtube.com/watch?v=Gxjdk2Xk_qQ)
-- [RECONVERSION DEV FRONT REACT JS À 40 ANS, INTERVIEW INGRID](https://www.youtube.com/watch?v=6kQVwBtxajQ)
 <!-- YOUTUBE:END -->
 
 <details>
