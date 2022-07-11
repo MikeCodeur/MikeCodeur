@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Quand tu vas te lancer en tant que développeur freelance, tu vas probablement faire des erreurs ? ☝️](https://www.youtube.com/watch?v=1q1ZXoCbdbo)
 - [Apprendre à coder c’est aussi une question de mindset !](https://www.youtube.com/watch?v=ELRFRPWNtTY)
 - [5 extensions Vscode à installer absolument si tu es dev front ! ☝️🔥](https://www.youtube.com/watch?v=MoulRNds4PM)
 - [Les deux grandes manières de facturer un client quand tu es développeur freelance  ? ☝️🔥](https://www.youtube.com/watch?v=WNm1pFWypZ8)
 - [J&#39;ANALYSE 4 PROJETS DEV FRONT REACT JS](https://www.youtube.com/watch?v=7jMmCcRFXAI)
-- [DE DIRECTEUR DES VENTES À DEV FRONT END REACT À 43 ANS - INTERVIEW](https://www.youtube.com/watch?v=0JpsCB5WTJo)
 <!-- YOUTUBE:END -->
 
 <details>
