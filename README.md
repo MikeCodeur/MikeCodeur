@@ -99,7 +99,7 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
-- [Quand tu vas te lancer en tant que développeur freelance, tu vas probablement faire des erreurs ? ☝️](https://www.youtube.com/watch?v=1q1ZXoCbdbo)
+- [5 erreurs courantes chez les développeurs freelance](https://www.youtube.com/watch?v=1q1ZXoCbdbo)
 - [Apprendre à coder c’est aussi une question de mindset !](https://www.youtube.com/watch?v=ELRFRPWNtTY)
 - [5 extensions Vscode à installer absolument si tu es dev front ! ☝️🔥](https://www.youtube.com/watch?v=MoulRNds4PM)
 - [Les deux grandes manières de facturer un client quand tu es développeur freelance  ? ☝️🔥](https://www.youtube.com/watch?v=WNm1pFWypZ8)
