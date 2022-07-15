@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [5 thèmes tendances pour VSCODE](https://www.mikecodeur.com/2022/07/15/5-themes-tendances-pour-vscode/)
 - [Les E-SIM, une solution pour les devs nomades ?](https://www.mikecodeur.com/2022/07/13/les-e-sim-une-solution-pour-les-devs-nomades/)
 - [Quand tu vas te lancer en tant que développeur freelance, tu vas probablement faire des erreurs ? ☝️](https://www.mikecodeur.com/2022/07/11/quand-tu-vas-te-lancer-en-tant-que-developpeur-freelance-tu-vas-probablement-faire-des-erreurs-%e2%98%9d%ef%b8%8f/)
 - [Apprendre à coder c’est aussi une question de mindset !](https://www.mikecodeur.com/2022/07/08/apprendre-a-coder-cest-aussi-une-question-de-mindset/)
 - [5 extensions chrome à installer absolument si tu es dev front ! ☝️🔥](https://www.mikecodeur.com/2022/07/06/5-extensions-chrome-a-installer-absolument-si-tu-es-dev-front-%e2%98%9d%ef%b8%8f%f0%9f%94%a5/)
-- [Les deux grandes manières de facturer un client quand tu es développeur freelance  ? ☝️🔥](https://www.mikecodeur.com/2022/07/04/les-deux-grandes-manieres-de-facturer-un-client-quand-tu-es-developpeur-freelance-%e2%98%9d%ef%b8%8f%f0%9f%94%a5/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
