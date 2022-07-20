@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Combien gagne un développeur freelance ?](https://www.mikecodeur.com/2022/07/20/combien-gagne-un-developpeur-freelance/)
 - [5 extensions Chrome pour développeur Front End](https://www.mikecodeur.com/2022/07/18/5-extensions-chrome-pour-developpeur-front-end/)
 - [5 thèmes tendances pour VSCODE](https://www.mikecodeur.com/2022/07/15/5-themes-tendances-pour-vscode/)
 - [Les E-SIM, une solution pour les devs nomades ?](https://www.mikecodeur.com/2022/07/13/les-e-sim-une-solution-pour-les-devs-nomades/)
 - [Quand tu vas te lancer en tant que développeur freelance, tu vas probablement faire des erreurs ? ☝️](https://www.mikecodeur.com/2022/07/11/quand-tu-vas-te-lancer-en-tant-que-developpeur-freelance-tu-vas-probablement-faire-des-erreurs-%e2%98%9d%ef%b8%8f/)
-- [Apprendre à coder c’est aussi une question de mindset !](https://www.mikecodeur.com/2022/07/08/apprendre-a-coder-cest-aussi-une-question-de-mindset/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
