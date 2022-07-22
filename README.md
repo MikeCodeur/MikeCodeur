@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Le Cable Management - Zéro câble](https://www.youtube.com/watch?v=th01v6yU4R4)
 - [Combien gagne un développeur freelance ?](https://www.youtube.com/watch?v=E_p2lfEYviQ)
 - [5 extensions Chrome pour développeur Front End](https://www.youtube.com/watch?v=xnsFNl2v2ZI)
 - [5 thèmes tendances pour VSCODE](https://www.youtube.com/watch?v=HiHzwYiyNCA)
 - [Les E-SIM, une solution pour les devs nomades ?](https://www.youtube.com/watch?v=v0TE7Bq4h34)
-- [5 erreurs courantes chez les développeurs freelance](https://www.youtube.com/watch?v=1q1ZXoCbdbo)
 <!-- YOUTUBE:END -->
 
 <details>
