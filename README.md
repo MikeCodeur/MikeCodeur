@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Qu’est-ce qu’un design Pattern ?](https://www.youtube.com/watch?v=CNoMlt7LOmg)
 - [Le Shiny Object Syndrome chez les développeurs](https://www.youtube.com/watch?v=3acnRfJOnCg)
 - [Le Cable Management - Zéro câble](https://www.youtube.com/watch?v=th01v6yU4R4)
 - [Combien gagne un développeur freelance ?](https://www.youtube.com/watch?v=E_p2lfEYviQ)
 - [5 extensions Chrome pour développeur Front End](https://www.youtube.com/watch?v=xnsFNl2v2ZI)
-- [5 thèmes tendances pour VSCODE](https://www.youtube.com/watch?v=HiHzwYiyNCA)
 <!-- YOUTUBE:END -->
 
 <details>
