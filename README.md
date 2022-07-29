@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Un live de 20 843 heures !](https://www.mikecodeur.com/2022/07/29/un-live-de-20-843-heures/)
 - [Qu’est-ce qu’un design Pattern ?](https://www.mikecodeur.com/2022/07/27/quest-ce-quun-design-pattern/)
 - [26 July 2022](https://www.mikecodeur.com/2022/07/26/26-july-2022/)
 - [Le Cable Management – Zéro câble](https://www.mikecodeur.com/2022/07/22/le-cable-management-zero-cable/)
 - [Combien gagne un développeur freelance ?](https://www.mikecodeur.com/2022/07/20/combien-gagne-un-developpeur-freelance/)
-- [5 extensions Chrome pour développeur Front End](https://www.mikecodeur.com/2022/07/18/5-extensions-chrome-pour-developpeur-front-end/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
