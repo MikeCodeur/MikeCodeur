@@ -100,7 +100,7 @@ Actually:
 
 <!-- YOUTUBE:START -->
 - [Picture In Picture sur YouTube](https://www.youtube.com/watch?v=1fF3wqU4XoU)
-- [Faker JS, Pourquoi ce développeur a-t-il saboter son projet ?](https://www.youtube.com/watch?v=FEBfKJm0w6g)
+- [Faker JS, Pourquoi ce développeur a-t-il saboté son projet ?](https://www.youtube.com/watch?v=FEBfKJm0w6g)
 - [Un live de 20 843 heures !](https://www.youtube.com/watch?v=dWHEGKIGZpw)
 - [Qu’est-ce qu’un design Pattern ?](https://www.youtube.com/watch?v=CNoMlt7LOmg)
 - [Le Shiny Object Syndrome chez les développeurs](https://www.youtube.com/watch?v=3acnRfJOnCg)
