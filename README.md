@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Picture In Picture sur YouTube](https://www.mikecodeur.com/2022/08/03/picture-in-picture-sur-youtube/)
 - [Faker JS, Pourquoi ce développeur a-t-il saboter son projet ?](https://www.mikecodeur.com/2022/08/01/faker-js-pourquoi-ce-developpeur-a-t-il-saboter-son-projet/)
 - [Un live de 20 843 heures !](https://www.mikecodeur.com/2022/07/29/un-live-de-20-843-heures/)
 - [Qu’est-ce qu’un design Pattern ?](https://www.mikecodeur.com/2022/07/27/quest-ce-quun-design-pattern/)
 - [26 July 2022](https://www.mikecodeur.com/2022/07/26/26-july-2022/)
-- [Le Cable Management – Zéro câble](https://www.mikecodeur.com/2022/07/22/le-cable-management-zero-cable/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
