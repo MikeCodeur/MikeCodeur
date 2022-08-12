@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Arrête les tutoriels de code !](https://www.mikecodeur.com/2022/08/12/arrete-les-tutoriels-de-code/)
 - [5 plateformes dev freelance](https://www.mikecodeur.com/2022/08/10/5-plateformes-dev-freelance/)
 - [La méthode de Feynman](https://www.mikecodeur.com/2022/08/10/la-methode-de-feynman/)
 - [Sumba Island / Sanubari](https://www.mikecodeur.com/2022/08/07/sumba-island-sanubari/)
 - [CheatSheet développeur : Qu’est ce que c’est ?](https://www.mikecodeur.com/2022/08/05/cheatsheet-developpeur-quest-ce-que-cest/)
-- [Picture In Picture sur YouTube](https://www.mikecodeur.com/2022/08/03/picture-in-picture-sur-youtube/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
