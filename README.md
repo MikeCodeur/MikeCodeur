@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [QUELQUES NEWS !](https://www.youtube.com/watch?v=tEhD1B-yOZ4)
 - [Arrête les tutoriels de code !](https://www.youtube.com/watch?v=LTfGImUBrMc)
 - [5 plateformes dev freelance](https://www.youtube.com/watch?v=gEUTIY2eShU)
 - [La méthode de Feynman](https://www.youtube.com/watch?v=11pC5ETnTr8)
 - [Sumba Island / Sanubari](https://www.youtube.com/watch?v=7xhotnqME8k)
-- [CheatSheet développeur : Qu’est ce que c’est ?](https://www.youtube.com/watch?v=jRlRuujP8ss)
 <!-- YOUTUBE:END -->
 
 <details>
