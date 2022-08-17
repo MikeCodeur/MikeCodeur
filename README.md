@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [4 idées de projets !](https://www.youtube.com/watch?v=iexxH8gICt8)
 - [3 conseils si tu débutes en programmation](https://www.youtube.com/watch?v=2oTpy8Hp_bk)
 - [QUELQUES NEWS !](https://www.youtube.com/watch?v=tEhD1B-yOZ4)
 - [Arrête les tutoriels de code !](https://www.youtube.com/watch?v=LTfGImUBrMc)
 - [5 plateformes dev freelance](https://www.youtube.com/watch?v=gEUTIY2eShU)
-- [La méthode de Feynman](https://www.youtube.com/watch?v=11pC5ETnTr8)
 <!-- YOUTUBE:END -->
 
 <details>
