@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Créer une société à l’étranger](https://www.mikecodeur.com/2022/08/19/creer-une-societe-a-letranger/)
 - [4 idées de projets !](https://www.mikecodeur.com/2022/08/17/4-idees-de-projets/)
 - [3 conseils si tu débutes en programmation](https://www.mikecodeur.com/2022/08/15/3-conseils-si-tu-debutes-en-programmation/)
 - [QUELQUES NEWS !](https://www.mikecodeur.com/2022/08/13/quelques-news/)
 - [Arrête les tutoriels de code !](https://www.mikecodeur.com/2022/08/12/arrete-les-tutoriels-de-code/)
-- [5 plateformes dev freelance](https://www.mikecodeur.com/2022/08/10/5-plateformes-dev-freelance/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
