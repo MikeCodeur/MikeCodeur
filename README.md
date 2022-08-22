@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Code de conduite entre développeurs](https://www.youtube.com/watch?v=GWYIcn8qriE)
 - [Créer une société à l’étranger](https://www.youtube.com/watch?v=AeJ-Hk620AQ)
 - [4 idées de projets React / JS](https://www.youtube.com/watch?v=iexxH8gICt8)
 - [3 conseils si tu débutes en programmation](https://www.youtube.com/watch?v=2oTpy8Hp_bk)
 - [QUELQUES NEWS !](https://www.youtube.com/watch?v=tEhD1B-yOZ4)
-- [Arrête les tutoriels de code !](https://www.youtube.com/watch?v=LTfGImUBrMc)
 <!-- YOUTUBE:END -->
 
 <details>
