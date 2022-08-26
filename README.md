@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [5 outils en ligne pour dev frontend](https://www.mikecodeur.com/2022/08/26/5-outils-en-ligne-pour-dev-frontend/)
 - [5 livres pour développeurs](https://www.mikecodeur.com/2022/08/24/5-livres-pour-developpeurs/)
 - [Code de conduite entre développeurs](https://www.mikecodeur.com/2022/08/22/code-de-conduite-entre-developpeurs/)
 - [Créer une société à l’étranger](https://www.mikecodeur.com/2022/08/19/creer-une-societe-a-letranger/)
 - [4 idées de projets !](https://www.mikecodeur.com/2022/08/17/4-idees-de-projets/)
-- [3 conseils si tu débutes en programmation](https://www.mikecodeur.com/2022/08/15/3-conseils-si-tu-debutes-en-programmation/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
