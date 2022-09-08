@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [JE RÉPONDS À VOS QUESTIONS &lpar;CHILL AND QNA EP.3&rpar; - FREELANCE, CODE, ARGENT](https://www.youtube.com/watch?v=a7nMiZbiEDs)
 - [5 outils en ligne pour dev frontend](https://www.youtube.com/watch?v=LG-tcrAjWls)
 - [5 livres pour développeurs](https://www.youtube.com/watch?v=u3GbhkNDrxM)
 - [Code de conduite entre développeurs](https://www.youtube.com/watch?v=GWYIcn8qriE)
 - [Créer une société à l’étranger](https://www.youtube.com/watch?v=AeJ-Hk620AQ)
-- [4 idées de projets React / JS](https://www.youtube.com/watch?v=iexxH8gICt8)
 <!-- YOUTUBE:END -->
 
 <details>
