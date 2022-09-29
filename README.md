@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [COMMENT DEVENIR DEV FRONT-END REACT FREELANCE ? Interview](https://www.mikecodeur.com/2022/09/29/comment-devenir-dev-front-end-react-freelance-interview/)
 - [LA ROADMAP ULTIME EN 2022](https://www.mikecodeur.com/2022/09/22/la-roadmap-ultime-en-2022/)
 - [JE RÉPONDS À VOS QUESTIONS &lpar;CHILL AND QNA EP.3&rpar; – FREELANCE, CODE, ARGENT](https://www.mikecodeur.com/2022/09/08/je-reponds-a-vos-questions-chill-and-qna-ep-3-freelance-code-argent/)
 - [5 outils en ligne pour dev frontend](https://www.mikecodeur.com/2022/08/26/5-outils-en-ligne-pour-dev-frontend/)
 - [5 livres pour développeurs](https://www.mikecodeur.com/2022/08/24/5-livres-pour-developpeurs/)
-- [Code de conduite entre développeurs](https://www.mikecodeur.com/2022/08/22/code-de-conduite-entre-developpeurs/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
