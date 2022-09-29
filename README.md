@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [COMMENT DEVENIR DEV FRONT-END REACT FREELANCE ? Interview](https://www.youtube.com/watch?v=rB9TgTmJqok)
 - [REACT : LA ROADMAP ULTIME EN 2022](https://www.youtube.com/watch?v=0-zvTivLLOc)
 - [JE RÉPONDS À VOS QUESTIONS &lpar;CHILL AND QNA EP.3&rpar; - FREELANCE, CODE, ARGENT](https://www.youtube.com/watch?v=a7nMiZbiEDs)
 - [5 outils en ligne pour dev frontend](https://www.youtube.com/watch?v=LG-tcrAjWls)
 - [5 livres pour développeurs](https://www.youtube.com/watch?v=u3GbhkNDrxM)
-- [Code de conduite entre développeurs](https://www.youtube.com/watch?v=GWYIcn8qriE)
 <!-- YOUTUBE:END -->
 
 <details>
