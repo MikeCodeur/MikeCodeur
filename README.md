@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [PEUT-ON RÉUSSIR SA RECONVERSION SEUL ? DEV FRONT REACT](https://www.youtube.com/watch?v=FrzkFIYW8Wc)
 - [Netflix, Instagram, FB utilisent toutes cette technologie …](https://www.youtube.com/watch?v=DHjYBydToBs)
 - [Formation développeur généraliste - bonne idée ?](https://www.youtube.com/watch?v=XW1ApdoYUZM)
 - [3 raisons de devenir développeur en 2022 !](https://www.youtube.com/watch?v=br4mD8bi0F8)
 - [COMMENT DEVENIR DEV FRONT-END REACT FREELANCE ? Interview](https://www.youtube.com/watch?v=rB9TgTmJqok)
-- [REACT : LA ROADMAP ULTIME EN 2022](https://www.youtube.com/watch?v=0-zvTivLLOc)
 <!-- YOUTUBE:END -->
 
 <details>
