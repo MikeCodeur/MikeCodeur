@@ -85,11 +85,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer/issues/26) in [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer)
-2. 🗣 Commented on [#26](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer/issues/26) in [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer)
-3. ❗️ Opened issue [#26](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer/issues/26) in [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer)
-4. 💪 Opened PR [#1](https://github.com/MikeCodeur/react-netflix-clone/pull/1) in [MikeCodeur/react-netflix-clone](https://github.com/MikeCodeur/react-netflix-clone)
-5. 🎉 Merged PR [#9](https://github.com/MikeCodeur/react-hooks-avances/pull/9) in [MikeCodeur/react-hooks-avances](https://github.com/MikeCodeur/react-hooks-avances)
+1. ❗️ Closed issue [#11](https://github.com/MikeCodeur/react-tracker-app/issues/11) in [MikeCodeur/react-tracker-app](https://github.com/MikeCodeur/react-tracker-app)
+2. 🗣 Commented on [#11](https://github.com/MikeCodeur/react-tracker-app/issues/11) in [MikeCodeur/react-tracker-app](https://github.com/MikeCodeur/react-tracker-app)
+3. 🎉 Merged PR [#5](https://github.com/MikeCodeur/react-testing/pull/5) in [MikeCodeur/react-testing](https://github.com/MikeCodeur/react-testing)
+4. 💪 Opened PR [#5](https://github.com/MikeCodeur/react-testing/pull/5) in [MikeCodeur/react-testing](https://github.com/MikeCodeur/react-testing)
+5. ❗️ Closed issue [#3](https://github.com/MikeCodeur/react-testing/issues/3) in [MikeCodeur/react-testing](https://github.com/MikeCodeur/react-testing)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
