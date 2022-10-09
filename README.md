@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Réussir tout seul ? Même pas en rêve !](https://www.mikecodeur.com/2022/10/09/reussir-tout-seul-meme-pas-en-reve/)
 - [🔴 LIVE FAQ – RECONVERSION DEV FRONT REACT JAVASCRIPT](https://www.mikecodeur.com/2022/10/08/%f0%9f%94%b4-live-faq-reconversion-dev-front-react-javascript/)
 - [PEUT-ON RÉUSSIR SA RECONVERSION SEUL ? DEV FRONT REACT](https://www.mikecodeur.com/2022/10/06/peut-on-reussir-sa-reconversion-seul-dev-front-react/)
 - [Netflix, Instagram, FB utilisent toutes cette technologie …](https://www.mikecodeur.com/2022/10/05/netflix-instagram-fb-utilisent-toutes-cette-technologie/)
 - [Formation développeur généraliste – bonne idée ?](https://www.mikecodeur.com/2022/10/03/formation-developpeur-generaliste-bonne-idee/)
-- [3 raisons de devenir développeur en 2022 !](https://www.mikecodeur.com/2022/10/01/3-raisons-de-devenir-developpeur-en-2022/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
