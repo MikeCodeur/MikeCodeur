@@ -85,11 +85,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/MikeCodeur/react-tracker-app/issues/11) in [MikeCodeur/react-tracker-app](https://github.com/MikeCodeur/react-tracker-app)
-2. 🗣 Commented on [#11](https://github.com/MikeCodeur/react-tracker-app/issues/11) in [MikeCodeur/react-tracker-app](https://github.com/MikeCodeur/react-tracker-app)
-3. 🎉 Merged PR [#5](https://github.com/MikeCodeur/react-testing/pull/5) in [MikeCodeur/react-testing](https://github.com/MikeCodeur/react-testing)
-4. 💪 Opened PR [#5](https://github.com/MikeCodeur/react-testing/pull/5) in [MikeCodeur/react-testing](https://github.com/MikeCodeur/react-testing)
-5. ❗️ Closed issue [#3](https://github.com/MikeCodeur/react-testing/issues/3) in [MikeCodeur/react-testing](https://github.com/MikeCodeur/react-testing)
+1. 🗣 Commented on [#15](https://github.com/MikeCodeur/react-prerequis-debutants/issues/15) in [MikeCodeur/react-prerequis-debutants](https://github.com/MikeCodeur/react-prerequis-debutants)
+2. 🗣 Commented on [#13](https://github.com/MikeCodeur/react-prerequis-debutants/issues/13) in [MikeCodeur/react-prerequis-debutants](https://github.com/MikeCodeur/react-prerequis-debutants)
+3. 🗣 Commented on [#13](https://github.com/MikeCodeur/react-prerequis-debutants/issues/13) in [MikeCodeur/react-prerequis-debutants](https://github.com/MikeCodeur/react-prerequis-debutants)
+4. ❗️ Closed issue [#11](https://github.com/MikeCodeur/react-tracker-app/issues/11) in [MikeCodeur/react-tracker-app](https://github.com/MikeCodeur/react-tracker-app)
+5. 🗣 Commented on [#11](https://github.com/MikeCodeur/react-tracker-app/issues/11) in [MikeCodeur/react-tracker-app](https://github.com/MikeCodeur/react-tracker-app)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
