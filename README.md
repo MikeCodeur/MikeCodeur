@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [LE PROBLÈME AVEC LES TESTS UNITAIRES !](https://www.youtube.com/watch?v=s9fnZP6X2SQ)
 - [Réussir tout seul ? Même pas en rêve !](https://www.youtube.com/watch?v=Vg_UgtKl79c)
 - [🔴 LIVE FAQ - RECONVERSION DEV FRONT REACT JAVASCRIPT](https://www.youtube.com/watch?v=HkGvoVcm3ig)
 - [PEUT-ON RÉUSSIR SA RECONVERSION SEUL ? DEV FRONT REACT](https://www.youtube.com/watch?v=FrzkFIYW8Wc)
 - [Netflix, Instagram, FB utilisent toutes cette technologie …](https://www.youtube.com/watch?v=DHjYBydToBs)
-- [Formation développeur généraliste - bonne idée ?](https://www.youtube.com/watch?v=XW1ApdoYUZM)
 <!-- YOUTUBE:END -->
 
 <details>
