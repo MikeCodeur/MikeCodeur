@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [COMMENT STEEVE JOBS A TUÉ FLASH ET PROPULSÉ JAVASCRIPT / TYPESCRIPT !](https://www.mikecodeur.com/2022/12/08/comment-steeve-jobs-a-tue-flash-et-propulse-javascript-typescript/)
 - [LE PIRE LANGAGE DE PROGRAMMATION DE L’HISTOIRE ? JAVASCRIPT](https://www.mikecodeur.com/2022/12/01/le-pire-langage-de-programmation-de-lhistoire-javascript/)
 - [DEV, ENTREPRENEUR, NOMADE : LES COULISSES DE MIKE CODEUR &lpar;VLOG&rpar;](https://www.mikecodeur.com/2022/11/17/dev-entrepreneur-nomade-les-coulisses-de-mike-codeur-vlog/)
 - [LE PROBLÈME AVEC LES TESTS UNITAIRES !](https://www.mikecodeur.com/2022/11/03/le-probleme-avec-les-tests-unitaires/)
 - [Réussir tout seul ? Même pas en rêve !](https://www.mikecodeur.com/2022/10/09/reussir-tout-seul-meme-pas-en-reve/)
-- [🔴 LIVE FAQ – RECONVERSION DEV FRONT REACT JAVASCRIPT](https://www.mikecodeur.com/2022/10/08/%f0%9f%94%b4-live-faq-reconversion-dev-front-react-javascript/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
