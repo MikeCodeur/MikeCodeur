@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [COMMENT STEEVE JOBS A TUÉ FLASH ET PROPULSÉ JAVASCRIPT / TYPESCRIPT !](https://www.youtube.com/watch?v=K2JUdZE69JQ)
 - [LE PIRE LANGAGE DE PROGRAMMATION DE L&#39;HISTOIRE ? JAVASCRIPT](https://www.youtube.com/watch?v=pn2hLlYTVJc)
 - [DEV, ENTREPRENEUR, NOMADE : LES COULISSES DE MIKE CODEUR &lpar;VLOG&rpar;](https://www.youtube.com/watch?v=ispKZKIF6N0)
 - [LE PROBLÈME AVEC LES TESTS UNITAIRES !](https://www.youtube.com/watch?v=s9fnZP6X2SQ)
 - [Réussir tout seul ? Même pas en rêve !](https://www.youtube.com/watch?v=Vg_UgtKl79c)
-- [🔴 LIVE FAQ - RECONVERSION DEV FRONT REACT JAVASCRIPT](https://www.youtube.com/watch?v=HkGvoVcm3ig)
 <!-- YOUTUBE:END -->
 
 <details>
