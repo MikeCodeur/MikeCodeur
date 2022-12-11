@@ -99,7 +99,7 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
-- [TypeScript Dev VS JavaScript Dev 😂 #code #dev #typescript #javascript](https://www.youtube.com/watch?v=SRx-SF4wiGA)
+- [TypeScript Dev VS JavaScript Dev en entretien 😂 #code #dev #typescript #javascript](https://www.youtube.com/watch?v=SRx-SF4wiGA)
 - [COMMENT STEEVE JOBS A TUÉ FLASH ET PROPULSÉ JAVASCRIPT / TYPESCRIPT !](https://www.youtube.com/watch?v=K2JUdZE69JQ)
 - [LE PIRE LANGAGE DE PROGRAMMATION DE L&#39;HISTOIRE ? JAVASCRIPT](https://www.youtube.com/watch?v=pn2hLlYTVJc)
 - [DEV, ENTREPRENEUR, NOMADE : LES COULISSES DE MIKE CODEUR &lpar;VLOG&rpar;](https://www.youtube.com/watch?v=ispKZKIF6N0)
