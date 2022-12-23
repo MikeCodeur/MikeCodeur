@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [FAUT-IL APPRENDRE JAVASCRIPT EN 2023 ? DRAMA ?](https://www.youtube.com/watch?v=CGvTpoJhnio)
 - [ChatGPT va tuer les développeurs ☠️ ?](https://www.youtube.com/watch?v=A1La-ao2sHQ)
 - [TypeScript Dev VS JavaScript Dev : en entretien 😂 #code #dev #typescript #javascript](https://www.youtube.com/watch?v=SRx-SF4wiGA)
 - [COMMENT STEEVE JOBS A TUÉ FLASH ET PROPULSÉ JAVASCRIPT / TYPESCRIPT !](https://www.youtube.com/watch?v=K2JUdZE69JQ)
 - [LE PIRE LANGAGE DE PROGRAMMATION DE L&#39;HISTOIRE ? JAVASCRIPT](https://www.youtube.com/watch?v=pn2hLlYTVJc)
-- [DEV, ENTREPRENEUR, NOMADE : LES COULISSES DE MIKE CODEUR &lpar;VLOG&rpar;](https://www.youtube.com/watch?v=ispKZKIF6N0)
 <!-- YOUTUBE:END -->
 
 <details>
