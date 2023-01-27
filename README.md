@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Chat GPT EST STUPIDE ❌ LES DÉVELOPPEURS NE DOIVENT PAS L’UTILISER ?](https://www.mikecodeur.com/2023/01/27/chat-gpt-est-stupide-%e2%9d%8c-les-developpeurs-ne-doivent-pas-lutiliser/)
 - [FAUT-IL APPRENDRE JAVASCRIPT EN 2023 ? DRAMA ?](https://www.mikecodeur.com/2022/12/23/faut-il-apprendre-javascript-en-2023-drama/)
 - [ChatGPT va tuer les développeurs ☠️ ?](https://www.mikecodeur.com/2022/12/15/chatgpt-va-tuer-les-developpeurs-%e2%98%a0%ef%b8%8f/)
 - [TypeScript Dev VS JavaScript Dev 😂 #code #dev #typescript #javascript](https://www.mikecodeur.com/2022/12/11/typescript-dev-vs-javascript-dev-%f0%9f%98%82-code-dev-typescript-javascript/)
 - [COMMENT STEEVE JOBS A TUÉ FLASH ET PROPULSÉ JAVASCRIPT / TYPESCRIPT !](https://www.mikecodeur.com/2022/12/08/comment-steeve-jobs-a-tue-flash-et-propulse-javascript-typescript/)
-- [LE PIRE LANGAGE DE PROGRAMMATION DE L’HISTOIRE ? JAVASCRIPT](https://www.mikecodeur.com/2022/12/01/le-pire-langage-de-programmation-de-lhistoire-javascript/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
