@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [ChatGPT DEVIENT MON SECOND CERVEAU - EXEMPLES CONCRETS DEVELOPPEURS](https://www.youtube.com/watch?v=2BatdgK249c)
 - [Chat GPT EST STUPIDE ❌ LES DÉVELOPPEURS NE DOIVENT PAS L&#39;UTILISER ?](https://www.youtube.com/watch?v=B0FEi8yxF3U)
 - [FAUT-IL APPRENDRE JAVASCRIPT EN 2023 ? DRAMA ?](https://www.youtube.com/watch?v=CGvTpoJhnio)
 - [ChatGPT va tuer les développeurs ☠️ ?](https://www.youtube.com/watch?v=A1La-ao2sHQ)
 - [TypeScript Dev VS JavaScript Dev : en entretien 😂 #code #dev #typescript #javascript](https://www.youtube.com/watch?v=SRx-SF4wiGA)
-- [COMMENT STEEVE JOBS A TUÉ FLASH ET PROPULSÉ JAVASCRIPT / TYPESCRIPT !](https://www.youtube.com/watch?v=K2JUdZE69JQ)
 <!-- YOUTUBE:END -->
 
 <details>
