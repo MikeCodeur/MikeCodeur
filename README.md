@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT DEVIENT MON SECOND CERVEAU – EXEMPLES CONCRETS DEVELOPPEURS](https://www.mikecodeur.com/2023/02/03/chatgpt-devient-mon-second-cerveau-exemples-concrets-developpeurs/)
 - [DE DIRECTEUR À DÉVELOPPEUR REACT](https://www.mikecodeur.com/2023/01/30/de-directeur-a-developpeur-react/)
 - [Chat GPT EST STUPIDE ❌ LES DÉVELOPPEURS NE DOIVENT PAS L’UTILISER ?](https://www.mikecodeur.com/2023/01/27/chat-gpt-est-stupide-%e2%9d%8c-les-developpeurs-ne-doivent-pas-lutiliser/)
 - [FAUT-IL APPRENDRE JAVASCRIPT EN 2023 ? DRAMA ?](https://www.mikecodeur.com/2022/12/23/faut-il-apprendre-javascript-en-2023-drama/)
 - [ChatGPT va tuer les développeurs ☠️ ?](https://www.mikecodeur.com/2022/12/15/chatgpt-va-tuer-les-developpeurs-%e2%98%a0%ef%b8%8f/)
-- [TypeScript Dev VS JavaScript Dev 😂 #code #dev #typescript #javascript](https://www.mikecodeur.com/2022/12/11/typescript-dev-vs-javascript-dev-%f0%9f%98%82-code-dev-typescript-javascript/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
