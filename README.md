@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [QUELLE FORMATION REACT CHOISIR ? &lpar;BOOTCAMP vs FORMATION EN LIGNE vs PRESENTIEL&rpar;](https://www.mikecodeur.com/2023/02/09/quelle-formation-react-choisir-bootcamp-vs-formation-en-ligne-vs-presentiel/)
 - [DÉVELOPPEUR REACT ET ÉTUDIANT](https://www.mikecodeur.com/2023/02/06/developpeur-react-et-etudiant/)
 - [ChatGPT DEVIENT MON SECOND CERVEAU – EXEMPLES CONCRETS DEVELOPPEURS](https://www.mikecodeur.com/2023/02/03/chatgpt-devient-mon-second-cerveau-exemples-concrets-developpeurs/)
 - [DE DIRECTEUR À DÉVELOPPEUR REACT](https://www.mikecodeur.com/2023/01/30/de-directeur-a-developpeur-react/)
 - [Chat GPT EST STUPIDE ❌ LES DÉVELOPPEURS NE DOIVENT PAS L’UTILISER ?](https://www.mikecodeur.com/2023/01/27/chat-gpt-est-stupide-%e2%9d%8c-les-developpeurs-ne-doivent-pas-lutiliser/)
-- [FAUT-IL APPRENDRE JAVASCRIPT EN 2023 ? DRAMA ?](https://www.mikecodeur.com/2022/12/23/faut-il-apprendre-javascript-en-2023-drama/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
