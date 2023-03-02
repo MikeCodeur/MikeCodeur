@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [JE RÉPONDS À VOS QUESTIONS &lpar;CHILL AND QNA EP.4&rpar; - FREELANCE, CODE, ARGENT](https://www.youtube.com/watch?v=UGOSwx2ne-U)
 - [QUELLE FORMATION REACT CHOISIR ? &lpar;BOOTCAMP vs FORMATION EN LIGNE vs PRESENTIEL&rpar;](https://www.youtube.com/watch?v=kPWlj2I3r_U)
 - [ChatGPT DEVIENT MON SECOND CERVEAU - EXEMPLES CONCRETS DEVELOPPEURS](https://www.youtube.com/watch?v=2BatdgK249c)
 - [Chat GPT EST STUPIDE ❌ LES DÉVELOPPEURS NE DOIVENT PAS L&#39;UTILISER ?](https://www.youtube.com/watch?v=B0FEi8yxF3U)
 - [FAUT-IL APPRENDRE JAVASCRIPT EN 2023 ? DRAMA ?](https://www.youtube.com/watch?v=CGvTpoJhnio)
-- [ChatGPT va tuer les développeurs ☠️ ?](https://www.youtube.com/watch?v=A1La-ao2sHQ)
 <!-- YOUTUBE:END -->
 
 <details>
