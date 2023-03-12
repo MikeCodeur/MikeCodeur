@@ -85,9 +85,9 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/MikeCodeur/react-fondamentaux/issues/11) in [MikeCodeur/react-fondamentaux](https://github.com/MikeCodeur/react-fondamentaux)
-2. 🗣 Commented on [#5](https://github.com/MikeCodeur/react-hooks/issues/5) in [MikeCodeur/react-hooks](https://github.com/MikeCodeur/react-hooks)
-3. 🗣 Commented on [#13](https://github.com/MikeCodeur/react-prerequis-debutants/issues/13) in [MikeCodeur/react-prerequis-debutants](https://github.com/MikeCodeur/react-prerequis-debutants)
+1. 🗣 Commented on [#1](https://github.com/MikeCodeur/typescript-fondamentaux/issues/1) in [MikeCodeur/typescript-fondamentaux](https://github.com/MikeCodeur/typescript-fondamentaux)
+2. 🗣 Commented on [#11](https://github.com/MikeCodeur/react-fondamentaux/issues/11) in [MikeCodeur/react-fondamentaux](https://github.com/MikeCodeur/react-fondamentaux)
+3. 🗣 Commented on [#5](https://github.com/MikeCodeur/react-hooks/issues/5) in [MikeCodeur/react-hooks](https://github.com/MikeCodeur/react-hooks)
 4. ❗️ Closed issue [#11](https://github.com/MikeCodeur/react-tracker-app/issues/11) in [MikeCodeur/react-tracker-app](https://github.com/MikeCodeur/react-tracker-app)
 5. 🗣 Commented on [#11](https://github.com/MikeCodeur/react-tracker-app/issues/11) in [MikeCodeur/react-tracker-app](https://github.com/MikeCodeur/react-tracker-app)
 <!--END_SECTION:activity-->
