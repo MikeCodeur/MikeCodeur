@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [LANGAGES – OUTILS VS MÉTIER](https://www.mikecodeur.com/2023/03/20/langages-outils-vs-metier/)
 - [C’EST LE PROJET QUI AMÈNE L’ARGENT](https://www.mikecodeur.com/2023/03/13/cest-le-projet-qui-amene-largent/)
 - [JE RÉPONDS À VOS QUESTIONS &lpar;CHILL AND QNA EP.4&rpar; – FREELANCE, CODE, ARGENT](https://www.mikecodeur.com/2023/03/02/je-reponds-a-vos-questions-chill-and-qna-ep-4-freelance-code-argent/)
 - [CHILL AND QNA – EP3 – FREELANCE, ARGENT, CODE](https://www.mikecodeur.com/2023/02/20/chill-and-qna-ep3-freelance-argent-code/)
 - [QUELLE FORMATION REACT CHOISIR ? &lpar;BOOTCAMP vs FORMATION EN LIGNE vs PRESENTIEL&rpar;](https://www.mikecodeur.com/2023/02/09/quelle-formation-react-choisir-bootcamp-vs-formation-en-ligne-vs-presentiel/)
-- [DÉVELOPPEUR REACT ET ÉTUDIANT](https://www.mikecodeur.com/2023/02/06/developpeur-react-et-etudiant/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
