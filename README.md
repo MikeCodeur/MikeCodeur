@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [COMMENT CRÉER DES FORMATIONS ?](https://www.mikecodeur.com/2023/04/11/comment-creer-des-formations/)
 - [DÉVELOPPEUR FREELANCE À DUBAÏ – EXPATRIATION – INTERVIEW BRYAN](https://www.mikecodeur.com/2023/04/06/developpeur-freelance-a-dubai-expatriation-interview-bryan/)
 - [LANGAGES – OUTILS VS MÉTIER](https://www.mikecodeur.com/2023/03/20/langages-outils-vs-metier/)
 - [C’EST LE PROJET QUI AMÈNE L’ARGENT](https://www.mikecodeur.com/2023/03/13/cest-le-projet-qui-amene-largent/)
 - [JE RÉPONDS À VOS QUESTIONS &lpar;CHILL AND QNA EP.4&rpar; – FREELANCE, CODE, ARGENT](https://www.mikecodeur.com/2023/03/02/je-reponds-a-vos-questions-chill-and-qna-ep-4-freelance-code-argent/)
-- [CHILL AND QNA – EP3 – FREELANCE, ARGENT, CODE](https://www.mikecodeur.com/2023/02/20/chill-and-qna-ep3-freelance-argent-code/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
