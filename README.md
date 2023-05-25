@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [JE CONSTRUIS MA VILLA À BALI – VLOG](https://www.mikecodeur.com/2023/05/25/je-construis-ma-villa-a-bali-vlog/)
 - [COMMENT DÉCROCHER UN CDI DÉVELOPPEUR FRONT END REACT ? – INTERVIEW](https://www.mikecodeur.com/2023/05/04/comment-decrocher-un-cdi-developpeur-front-end-react-interview/)
 - [LES JEUX VIDEO – NETLIFX DÉTRUISENT-IL TES OBJECTIFS ?](https://www.mikecodeur.com/2023/05/01/les-jeux-video-netlifx-detruisent-il-tes-objectifs/)
 - [LE VOYAGE QUI A CHANGÉ MA VIE](https://www.mikecodeur.com/2023/04/24/le-voyage-qui-a-change-ma-vie/)
 - [TU ES LA MOYENNE DES 5 PERSONNES LES PLUS PROCHES](https://www.mikecodeur.com/2023/04/17/tu-es-la-moyenne-des-5-personnes-les-plus-proches/)
-- [COMMENT CRÉER DES FORMATIONS ?](https://www.mikecodeur.com/2023/04/11/comment-creer-des-formations/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
