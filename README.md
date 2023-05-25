@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [JE CONSTRUIS MA VILLA À BALI - VLOG](https://www.youtube.com/watch?v=CpOM6sMrshE)
 - [COMMENT DÉCROCHER UN CDI DÉVELOPPEUR FRONT END REACT ? - INTERVIEW](https://www.youtube.com/watch?v=EGAcUn6AFCU)
 - [DÉVELOPPEUR FREELANCE À DUBAÏ - EXPATRIATION - INTERVIEW BRYAN](https://www.youtube.com/watch?v=WNtCyc43qH0)
 - [JE RÉPONDS À VOS QUESTIONS &lpar;CHILL AND QNA EP.4&rpar; - FREELANCE, CODE, ARGENT](https://www.youtube.com/watch?v=UGOSwx2ne-U)
 - [QUELLE FORMATION REACT CHOISIR ? &lpar;BOOTCAMP vs FORMATION EN LIGNE vs PRESENTIEL&rpar;](https://www.youtube.com/watch?v=kPWlj2I3r_U)
-- [ChatGPT DEVIENT MON SECOND CERVEAU - EXEMPLES CONCRETS DEVELOPPEURS](https://www.youtube.com/watch?v=2BatdgK249c)
 <!-- YOUTUBE:END -->
 
 <details>
