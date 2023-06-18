@@ -85,10 +85,10 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/MikeCodeur/react-testing/issues/6) in [MikeCodeur/react-testing](https://github.com/MikeCodeur/react-testing)
-2. 🗣 Commented on [#1](https://github.com/MikeCodeur/typescript-fondamentaux/issues/1) in [MikeCodeur/typescript-fondamentaux](https://github.com/MikeCodeur/typescript-fondamentaux)
-3. 🗣 Commented on [#11](https://github.com/MikeCodeur/react-fondamentaux/issues/11) in [MikeCodeur/react-fondamentaux](https://github.com/MikeCodeur/react-fondamentaux)
-4. 🗣 Commented on [#5](https://github.com/MikeCodeur/react-hooks/issues/5) in [MikeCodeur/react-hooks](https://github.com/MikeCodeur/react-hooks)
+1. 🗣 Commented on [#7](https://github.com/MikeCodeur/react-testing/issues/7) in [MikeCodeur/react-testing](https://github.com/MikeCodeur/react-testing)
+2. 🗣 Commented on [#7](https://github.com/MikeCodeur/react-testing/issues/7) in [MikeCodeur/react-testing](https://github.com/MikeCodeur/react-testing)
+3. 🗣 Commented on [#7](https://github.com/MikeCodeur/react-testing/issues/7) in [MikeCodeur/react-testing](https://github.com/MikeCodeur/react-testing)
+4. 🗣 Commented on [#6](https://github.com/MikeCodeur/react-testing/issues/6) in [MikeCodeur/react-testing](https://github.com/MikeCodeur/react-testing)
 5. 🗣 Commented on [#11](https://github.com/MikeCodeur/react-tracker-app/issues/11) in [MikeCodeur/react-tracker-app](https://github.com/MikeCodeur/react-tracker-app)
 <!--END_SECTION:activity-->
 
