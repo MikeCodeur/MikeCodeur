@@ -99,7 +99,7 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
-- [28 August 2023](https://www.youtube.com/watch?v=yDeSqsMY0g0)
+- [Evite les projets complexes si tu es débutants](https://www.youtube.com/watch?v=yDeSqsMY0g0)
 - [POURQUOI TU N&#39;Y ARRIVES PAS AVEC TYPESCRIPT ?](https://www.youtube.com/watch?v=QtWgA719Nxg)
 - [JE CONSTRUIS MA VILLA À BALI - VLOG](https://www.youtube.com/watch?v=CpOM6sMrshE)
 - [COMMENT DÉCROCHER UN CDI DÉVELOPPEUR FRONT END REACT ? - INTERVIEW](https://www.youtube.com/watch?v=EGAcUn6AFCU)
