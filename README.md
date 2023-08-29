@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Il faut se préparer à réussir les entretiens d’embauches techniques ! ☝️🔥](https://www.youtube.com/watch?v=d_TcyDHgD3A)
 - [Evite les projets complexes si tu es débutants](https://www.youtube.com/watch?v=yDeSqsMY0g0)
 - [POURQUOI TU N&#39;Y ARRIVES PAS AVEC TYPESCRIPT ?](https://www.youtube.com/watch?v=QtWgA719Nxg)
 - [JE CONSTRUIS MA VILLA À BALI - VLOG](https://www.youtube.com/watch?v=CpOM6sMrshE)
 - [COMMENT DÉCROCHER UN CDI DÉVELOPPEUR FRONT END REACT ? - INTERVIEW](https://www.youtube.com/watch?v=EGAcUn6AFCU)
-- [DÉVELOPPEUR FREELANCE À DUBAÏ - EXPATRIATION - INTERVIEW BRYAN](https://www.youtube.com/watch?v=WNtCyc43qH0)
 <!-- YOUTUBE:END -->
 
 <details>
