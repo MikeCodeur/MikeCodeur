@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [31 August 2023](https://www.mikecodeur.com/2023/08/31/31-august-2023/)
 - [29 August 2023](https://www.mikecodeur.com/2023/08/29/29-august-2023/)
 - [28 August 2023](https://www.mikecodeur.com/2023/08/28/28-august-2023/)
 - [POURQUOI TU N’Y ARRIVES PAS AVEC TYPESCRIPT ?](https://www.mikecodeur.com/2023/06/08/pourquoi-tu-ny-arrives-pas-avec-typescript/)
 - [JE CONSTRUIS MA VILLA À BALI – VLOG](https://www.mikecodeur.com/2023/05/25/je-construis-ma-villa-a-bali-vlog/)
-- [COMMENT DÉCROCHER UN CDI DÉVELOPPEUR FRONT END REACT ? – INTERVIEW](https://www.mikecodeur.com/2023/05/04/comment-decrocher-un-cdi-developpeur-front-end-react-interview/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
