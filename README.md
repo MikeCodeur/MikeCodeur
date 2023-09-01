@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Les devs font des erreurs](https://www.youtube.com/watch?v=bm2TFz7CGZ8)
 - [Tu ne te sentiras jamais 100% prêts ! Voilà pourquoi tu dois te lancer ! ☝️🔥](https://www.youtube.com/watch?v=PMVFJ_bWt70)
 - [Il faut se préparer à réussir les entretiens d’embauches techniques ! ☝️🔥](https://www.youtube.com/watch?v=d_TcyDHgD3A)
 - [Evite les projets complexes si tu es débutants](https://www.youtube.com/watch?v=yDeSqsMY0g0)
 - [POURQUOI TU N&#39;Y ARRIVES PAS AVEC TYPESCRIPT ?](https://www.youtube.com/watch?v=QtWgA719Nxg)
-- [JE CONSTRUIS MA VILLA À BALI - VLOG](https://www.youtube.com/watch?v=CpOM6sMrshE)
 <!-- YOUTUBE:END -->
 
 <details>
