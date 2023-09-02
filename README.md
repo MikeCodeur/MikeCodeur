@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Un développeur doit s’intégrer dans une équipe](https://www.mikecodeur.com/2023/09/02/un-developpeur-doit-sintegrer-dans-une-equipe/)
 - [Les devs font des erreurs](https://www.mikecodeur.com/2023/09/01/les-devs-font-des-erreurs/)
 - [31 August 2023](https://www.mikecodeur.com/2023/08/31/31-august-2023/)
 - [29 August 2023](https://www.mikecodeur.com/2023/08/29/29-august-2023/)
 - [28 August 2023](https://www.mikecodeur.com/2023/08/28/28-august-2023/)
-- [POURQUOI TU N’Y ARRIVES PAS AVEC TYPESCRIPT ?](https://www.mikecodeur.com/2023/06/08/pourquoi-tu-ny-arrives-pas-avec-typescript/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
