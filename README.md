@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [CDI dev FRONT END React](https://www.youtube.com/watch?v=f5ZzgZwM4Lc)
 - [Un développeur doit s’intégrer dans une équipe](https://www.youtube.com/watch?v=VEvY9mFlCuU)
 - [Les devs font des erreurs](https://www.youtube.com/watch?v=bm2TFz7CGZ8)
 - [Tu ne te sentiras jamais 100% prêts ! Voilà pourquoi tu dois te lancer ! ☝️🔥](https://www.youtube.com/watch?v=PMVFJ_bWt70)
 - [Il faut se préparer à réussir les entretiens d’embauches techniques ! ☝️🔥](https://www.youtube.com/watch?v=d_TcyDHgD3A)
-- [Evite les projets complexes si tu es débutants](https://www.youtube.com/watch?v=yDeSqsMY0g0)
 <!-- YOUTUBE:END -->
 
 <details>
