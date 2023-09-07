@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [COMMENT CODER LE CLONE D’AMAZON PRIME AVEC REACT/NEXT ? &lpar;analyse projet&rpar;](https://www.mikecodeur.com/2023/09/07/comment-coder-le-clone-damazon-prime-avec-react-next-analyse-projet/)
 - [CDI dev FRONT END React](https://www.mikecodeur.com/2023/09/06/cdi-dev-front-end-react/)
 - [Un développeur doit s’intégrer dans une équipe](https://www.mikecodeur.com/2023/09/02/un-developpeur-doit-sintegrer-dans-une-equipe/)
 - [Les devs font des erreurs](https://www.mikecodeur.com/2023/09/01/les-devs-font-des-erreurs/)
 - [31 August 2023](https://www.mikecodeur.com/2023/08/31/31-august-2023/)
-- [29 August 2023](https://www.mikecodeur.com/2023/08/29/29-august-2023/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
