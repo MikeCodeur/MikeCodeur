@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Si tu ne fais pas de tests unitaires, tu es un développeurs du dimanche](https://www.youtube.com/watch?v=ZSrqjgGnPHE)
 - [COMMENT CODER LE CLONE D&#39;AMAZON PRIME AVEC REACT/NEXT ? &lpar;analyse projet&rpar;](https://www.youtube.com/watch?v=Z8moJs0WbGA)
 - [CDI dev FRONT END React](https://www.youtube.com/watch?v=f5ZzgZwM4Lc)
 - [Un développeur doit s’intégrer dans une équipe](https://www.youtube.com/watch?v=VEvY9mFlCuU)
 - [Les devs font des erreurs](https://www.youtube.com/watch?v=bm2TFz7CGZ8)
-- [Tu ne te sentiras jamais 100% prêts ! Voilà pourquoi tu dois te lancer ! ☝️🔥](https://www.youtube.com/watch?v=PMVFJ_bWt70)
 <!-- YOUTUBE:END -->
 
 <details>
