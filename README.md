@@ -112,9 +112,9 @@ Actually:
 <!-- BLOG-POST-LIST:START -->
 - [COMMENT CODER LE CLONE D’AMAZON PRIME AVEC REACT/NEXT ? &lpar;analyse projet&rpar;](https://www.mikecodeur.com/2023/09/07/comment-coder-le-clone-damazon-prime-avec-react-next-analyse-projet/)
 - [CDI dev FRONT END React](https://www.mikecodeur.com/2023/09/06/cdi-dev-front-end-react/)
+- [Si tu ne fais pas de tests unitaires, tu es un développeurs du dimanche](https://www.mikecodeur.com/2023/09/05/si-tu-ne-fais-pas-de-tests-unitaires-tu-es-un-developpeurs-du-dimanche/)
 - [Un développeur doit s’intégrer dans une équipe](https://www.mikecodeur.com/2023/09/02/un-developpeur-doit-sintegrer-dans-une-equipe/)
 - [Les devs font des erreurs](https://www.mikecodeur.com/2023/09/01/les-devs-font-des-erreurs/)
-- [31 August 2023](https://www.mikecodeur.com/2023/08/31/31-august-2023/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
