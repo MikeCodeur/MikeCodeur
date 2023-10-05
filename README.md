@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [VISITE DE MA VILLA À BALI - &lpar;Comment construire à Bali ?&rpar;](https://www.youtube.com/watch?v=WuPF71OqEBU)
 - [Si tu ne fais pas de tests unitaires, tu es un développeurs du dimanche](https://www.youtube.com/watch?v=ZSrqjgGnPHE)
 - [COMMENT CODER LE CLONE D&#39;AMAZON PRIME AVEC REACT/NEXT ? &lpar;analyse projet&rpar;](https://www.youtube.com/watch?v=Z8moJs0WbGA)
 - [CDI dev FRONT END React](https://www.youtube.com/watch?v=f5ZzgZwM4Lc)
 - [Un développeur doit s’intégrer dans une équipe](https://www.youtube.com/watch?v=VEvY9mFlCuU)
-- [Les devs font des erreurs](https://www.youtube.com/watch?v=bm2TFz7CGZ8)
 <!-- YOUTUBE:END -->
 
 <details>
