@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [DE DÉVELOPPEUR À INVESTISSEUR IMMOBILIER – &lpar;VLOG – BALI, TULUM, COLOMBIE, NEW YORK&rpar;](https://www.mikecodeur.com/2023/11/22/de-developpeur-a-investisseur-immobilier-vlog-bali-tulum-colombie-new-york/)
 - [VISITE DE MA VILLA À BALI – &lpar;Comment construire à Bali ?&rpar;](https://www.mikecodeur.com/2023/10/05/visite-de-ma-villa-a-bali-comment-construire-a-bali/)
 - [CHILL AND QNA – EP4 – SE SENTIR PRÊT](https://www.mikecodeur.com/2023/09/25/chill-and-qna-ep4-se-sentir-pret/)
 - [COMMENT CODER LE CLONE D’AMAZON PRIME AVEC REACT/NEXT ? &lpar;analyse projet&rpar;](https://www.mikecodeur.com/2023/09/07/comment-coder-le-clone-damazon-prime-avec-react-next-analyse-projet/)
 - [CDI dev FRONT END React](https://www.mikecodeur.com/2023/09/06/cdi-dev-front-end-react/)
-- [Si tu ne fais pas de tests unitaires, tu es un développeurs du dimanche](https://www.mikecodeur.com/2023/09/05/si-tu-ne-fais-pas-de-tests-unitaires-tu-es-un-developpeurs-du-dimanche/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
