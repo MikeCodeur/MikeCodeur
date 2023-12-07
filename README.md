@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Les développeurs ne seront pas remplacés – Game Changer de l’IA](https://www.mikecodeur.com/2023/12/07/les-developpeurs-ne-seront-pas-remplaces-game-changer-de-lia/)
 - [Le beurre et l’argent du beurre ? ☝️🔥](https://www.mikecodeur.com/2023/12/06/le-beurre-et-largent-du-beurre-%e2%98%9d%ef%b8%8f%f0%9f%94%a5/)
 - [Met au chômage les autres développeurs](https://www.mikecodeur.com/2023/12/06/met-au-chomage-les-autres-developpeurs/)
 - [Apporte de la valeur](https://www.mikecodeur.com/2023/12/05/apporte-de-la-valeur/)
 - [Une société divisée : les zombies de TikTok contre les maîtres d’Internet](https://www.mikecodeur.com/2023/12/04/une-societe-divisee-les-zombies-de-tiktok-contre-les-maitres-dinternet/)
-- [YOUTUBE : RAT RACE,  POURQUOI J’AI ARRETÉ DE FAIRE DES VIDÉOS ?](https://www.mikecodeur.com/2023/11/30/youtube-rat-race-pourquoi-jai-arrete-de-faire-des-videos/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
