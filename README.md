@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [290€ de TJM](https://www.mikecodeur.com/2023/12/08/290e-de-tjm/)
 - [10 000 € par mois à 16 ans ? ☝️🔥](https://www.mikecodeur.com/2023/12/07/10-000-e-par-mois-a-16-ans-%e2%98%9d%ef%b8%8f%f0%9f%94%a5/)
 - [C’EST DE PLUS EN PLUS DUR ! FAQ : &lpar;CHILL AND QNA EP.5&rpar;](https://www.mikecodeur.com/2023/12/07/cest-de-plus-en-plus-dur-faq-chill-and-qna-ep-5/)
 - [Les développeurs ne seront pas remplacés – Game Changer de l’IA](https://www.mikecodeur.com/2023/12/07/les-developpeurs-ne-seront-pas-remplaces-game-changer-de-lia/)
 - [Le beurre et l’argent du beurre ? ☝️🔥](https://www.mikecodeur.com/2023/12/06/le-beurre-et-largent-du-beurre-%e2%98%9d%ef%b8%8f%f0%9f%94%a5/)
-- [Met au chômage les autres développeurs](https://www.mikecodeur.com/2023/12/06/met-au-chomage-les-autres-developpeurs/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
