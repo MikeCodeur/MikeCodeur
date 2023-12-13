@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [SSII Viandards ?](https://www.mikecodeur.com/2023/12/13/ssii-viandards/)
 - [Ca ne passera plus](https://www.mikecodeur.com/2023/12/12/ca-ne-passera-plus/)
 - [C’EST DE PLUS EN PLUS DUR !  &lpar;CHILL AND QNA EP.5&rpar;](https://www.mikecodeur.com/2023/12/10/cest-de-plus-en-plus-dur-chill-and-qna-ep-5/)
 - [Se remettre à niveau sur un Framework](https://www.mikecodeur.com/2023/12/09/se-remettre-a-niveau-sur-un-framework/)
 - [290€ de TJM](https://www.mikecodeur.com/2023/12/08/290e-de-tjm/)
-- [10 000 € par mois à 16 ans ? ☝️🔥](https://www.mikecodeur.com/2023/12/07/10-000-e-par-mois-a-16-ans-%e2%98%9d%ef%b8%8f%f0%9f%94%a5/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
