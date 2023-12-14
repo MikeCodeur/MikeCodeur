@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Comment apprendre à CODER en partant de ZÉRO ?](https://www.youtube.com/watch?v=y3sKGZ7GBfY)
 - [C&#39;EST DE PLUS EN PLUS DUR ! FAQ : &lpar;CHILL AND QNA EP.5&rpar;](https://www.youtube.com/watch?v=4DpWb7eJHC8)
 - [YOUTUBE : RAT RACE,  POURQUOI J&#39;AI ARRETÉ DE FAIRE DES VIDÉOS ?](https://www.youtube.com/watch?v=Sam0Cy-SIsU)
 - [DE DÉVELOPPEUR À INVESTISSEUR IMMOBILIER - &lpar;VLOG - BALI, TULUM, COLOMBIE, NEW YORK&rpar;](https://www.youtube.com/watch?v=gJmzIpB7itQ)
 - [VISITE DE MA VILLA À BALI - &lpar;Comment construire à Bali ?&rpar;](https://www.youtube.com/watch?v=WuPF71OqEBU)
-- [Si tu ne fais pas de tests unitaires, tu es un développeurs du dimanche](https://www.youtube.com/watch?v=ZSrqjgGnPHE)
 <!-- YOUTUBE:END -->
 
 <details>
