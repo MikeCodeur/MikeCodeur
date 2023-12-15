@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [SSII et Mission Star](https://www.mikecodeur.com/2023/12/15/ssii-et-mission-star/)
 - [Apprendre à coder en partant de ZERO](https://www.mikecodeur.com/2023/12/14/apprendre-a-coder-en-partant-de-zero/)
 - [Comment apprendre à CODER en partant de ZÉRO ?](https://www.mikecodeur.com/2023/12/14/comment-apprendre-a-coder-en-partant-de-zero/)
 - [SSII Viandards ?](https://www.mikecodeur.com/2023/12/13/ssii-viandards/)
 - [Ca ne passera plus](https://www.mikecodeur.com/2023/12/12/ca-ne-passera-plus/)
-- [C’EST DE PLUS EN PLUS DUR !  &lpar;CHILL AND QNA EP.5&rpar;](https://www.mikecodeur.com/2023/12/10/cest-de-plus-en-plus-dur-chill-and-qna-ep-5/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
