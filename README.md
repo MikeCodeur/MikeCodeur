@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apprendre le code en partant de Zéro ! &lpar;Avec l’ia&rpar; #code #ia #chatgpt #copilot](https://www.mikecodeur.com/2023/12/16/apprendre-le-code-en-partant-de-zero-avec-lia-code-ia-chatgpt-copilot/)
 - [SSII et Mission Star](https://www.mikecodeur.com/2023/12/15/ssii-et-mission-star/)
 - [Apprendre à coder en partant de ZERO](https://www.mikecodeur.com/2023/12/14/apprendre-a-coder-en-partant-de-zero/)
 - [Comment apprendre à CODER en partant de ZÉRO ?](https://www.mikecodeur.com/2023/12/14/comment-apprendre-a-coder-en-partant-de-zero/)
 - [SSII Viandards ?](https://www.mikecodeur.com/2023/12/13/ssii-viandards/)
-- [Ca ne passera plus](https://www.mikecodeur.com/2023/12/12/ca-ne-passera-plus/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
