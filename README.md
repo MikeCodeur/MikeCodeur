@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Spécialisation métier](https://www.mikecodeur.com/2023/12/20/specialisation-metier/)
 - [Vous vous barrez !](https://www.mikecodeur.com/2023/12/19/vous-vous-barrez/)
 - [mettre au chômage les autres devs](https://www.mikecodeur.com/2023/12/18/mettre-au-chomage-les-autres-devs/)
 - [Apprendre le code en partant de Zéro ! &lpar;Avec l’ia&rpar; #code #ia #chatgpt #copilot](https://www.mikecodeur.com/2023/12/16/apprendre-le-code-en-partant-de-zero-avec-lia-code-ia-chatgpt-copilot/)
 - [SSII et Mission Star](https://www.mikecodeur.com/2023/12/15/ssii-et-mission-star/)
-- [Apprendre à coder en partant de ZERO](https://www.mikecodeur.com/2023/12/14/apprendre-a-coder-en-partant-de-zero/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
