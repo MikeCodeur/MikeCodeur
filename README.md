@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Les meilleurs postes en REMOTE dans l’IT &lpar;Développeurs, Testeurs, CP,  PO, AMOA …&rpar;](https://www.mikecodeur.com/2023/12/21/les-meilleurs-postes-en-remote-dans-lit-developpeurs-testeurs-cp-po-amoa/)
+- [Les meilleurs postes pour travailler en Remote](https://www.mikecodeur.com/2023/12/21/les-meilleurs-postes-pour-travailler-en-remote/)
 - [Spécialisation métier](https://www.mikecodeur.com/2023/12/20/specialisation-metier/)
 - [Vous vous barrez !](https://www.mikecodeur.com/2023/12/19/vous-vous-barrez/)
 - [mettre au chômage les autres devs](https://www.mikecodeur.com/2023/12/18/mettre-au-chomage-les-autres-devs/)
-- [Apprendre le code en partant de Zéro ! &lpar;Avec l’ia&rpar; #code #ia #chatgpt #copilot](https://www.mikecodeur.com/2023/12/16/apprendre-le-code-en-partant-de-zero-avec-lia-code-ia-chatgpt-copilot/)
-- [SSII et Mission Star](https://www.mikecodeur.com/2023/12/15/ssii-et-mission-star/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
