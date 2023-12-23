@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Chef de Projet / Scrum Master accessible en Remote ?](https://www.mikecodeur.com/2023/12/23/chef-de-projet-scrum-master-accessible-en-remote/)
+- [La composantes métier](https://www.mikecodeur.com/2023/12/23/la-composantes-metier/)
 - [Productif en Remote ?](https://www.mikecodeur.com/2023/12/22/productif-en-remote/)
 - [Les meilleurs postes en REMOTE dans l’IT &lpar;Développeurs, Testeurs, CP,  PO, AMOA …&rpar;](https://www.mikecodeur.com/2023/12/21/les-meilleurs-postes-en-remote-dans-lit-developpeurs-testeurs-cp-po-amoa/)
 - [Les meilleurs postes pour travailler en Remote](https://www.mikecodeur.com/2023/12/21/les-meilleurs-postes-pour-travailler-en-remote/)
-- [Spécialisation métier](https://www.mikecodeur.com/2023/12/20/specialisation-metier/)
-- [Vous vous barrez !](https://www.mikecodeur.com/2023/12/19/vous-vous-barrez/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
