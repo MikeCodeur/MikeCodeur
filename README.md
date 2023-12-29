@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [MVD &lpar;Minimum viable dev&rpar;](https://www.mikecodeur.com/2023/12/29/mvd-minimum-viable-dev/)
 - [SSII / ESN : Fuyez ! &lpar;Les Pièges à Éviter ?&rpar;](https://www.mikecodeur.com/2023/12/28/ssii-esn-fuyez-les-pieges-a-eviter/)
 - [SSII Avantages](https://www.mikecodeur.com/2023/12/28/ssii-avantages/)
 - [Admin Système / Devops en Remote ?](https://www.mikecodeur.com/2023/12/24/admin-systeme-devops-en-remote/)
 - [Chef de Projet / Scrum Master accessible en Remote ?](https://www.mikecodeur.com/2023/12/23/chef-de-projet-scrum-master-accessible-en-remote/)
-- [La composantes métier](https://www.mikecodeur.com/2023/12/23/la-composantes-metier/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
