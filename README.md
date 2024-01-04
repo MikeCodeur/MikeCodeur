@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [ARRÊTE d&#39;Apprendre Ces Langages de Programmation ! &lpar;pour Débutants&rpar;](https://www.youtube.com/watch?v=UTX0I4UoVPo)
 - [SSII / ESN : Fuyez ! &lpar;Les Pièges à Éviter ?&rpar;](https://www.youtube.com/watch?v=HZZlcOT2zG8)
 - [Les meilleurs postes en REMOTE dans l&#39;IT &lpar;Développeurs, Testeurs, CP,  PO, AMOA ...&rpar;](https://www.youtube.com/watch?v=peGFJUplA8M)
 - [Apprendre le code en partant de Zéro ! &lpar;Avec l’ia&rpar; #code #ia #chatgpt #copilot](https://www.youtube.com/watch?v=dlzu9XtCE60)
 - [Comment apprendre à CODER en partant de ZÉRO ?](https://www.youtube.com/watch?v=y3sKGZ7GBfY)
-- [C&#39;EST DE PLUS EN PLUS DUR ! FAQ : &lpar;CHILL AND QNA EP.5&rpar;](https://www.youtube.com/watch?v=4DpWb7eJHC8)
 <!-- YOUTUBE:END -->
 
 <details>
