@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ceux pas développeurs](https://www.mikecodeur.com/2024/01/08/ceux-pas-developpeurs/)
 - [ARRÊTE d’Apprendre Ces Langages de Programmation ! &lpar;pour Débutants&rpar;](https://www.mikecodeur.com/2024/01/04/arrete-dapprendre-ces-langages-de-programmation-pour-debutants/)
 - [1-LFP](https://www.mikecodeur.com/2023/12/30/1-lfp/)
 - [MVD &lpar;Minimum viable dev&rpar;](https://www.mikecodeur.com/2023/12/29/mvd-minimum-viable-dev/)
 - [SSII / ESN : Fuyez ! &lpar;Les Pièges à Éviter ?&rpar;](https://www.mikecodeur.com/2023/12/28/ssii-esn-fuyez-les-pieges-a-eviter/)
-- [SSII Avantages](https://www.mikecodeur.com/2023/12/28/ssii-avantages/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
