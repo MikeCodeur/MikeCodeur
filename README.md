@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Eviter le C++ si vous êtes débutant](https://www.mikecodeur.com/2024/01/11/eviter-le-c-si-vous-etes-debutant/)
 - [Les langages de programmation parfaits pour les débutants !!](https://www.mikecodeur.com/2024/01/10/les-langages-de-programmation-parfaits-pour-les-debutants/)
 - [Langages à éviter pour débutants](https://www.mikecodeur.com/2024/01/08/langages-a-eviter-pour-debutants/)
 - [Ceux pas développeurs](https://www.mikecodeur.com/2024/01/08/ceux-pas-developpeurs/)
 - [ARRÊTE d’Apprendre Ces Langages de Programmation ! &lpar;pour Débutants&rpar;](https://www.mikecodeur.com/2024/01/04/arrete-dapprendre-ces-langages-de-programmation-pour-debutants/)
-- [1-LFP](https://www.mikecodeur.com/2023/12/30/1-lfp/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
