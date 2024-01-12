@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Dev = Or dans les mains ! Stop les jobs à 1800 €! #code #freelance #entreprenariat](https://www.youtube.com/watch?v=STFP1uSENJs)
 - [2023 : Bilan Catastrophe ? Et Objectifs 2024 &lpar;Formations, IA, Argent&rpar;](https://www.youtube.com/watch?v=XcfL-4wzYlI)
 - [ARRÊTE d&#39;Apprendre Ces Langages de Programmation ! &lpar;pour Débutants&rpar;](https://www.youtube.com/watch?v=UTX0I4UoVPo)
 - [SSII / ESN : Fuyez ! &lpar;Les Pièges à Éviter ?&rpar;](https://www.youtube.com/watch?v=HZZlcOT2zG8)
 - [Les meilleurs postes en REMOTE dans l&#39;IT &lpar;Développeurs, Testeurs, CP,  PO, AMOA ...&rpar;](https://www.youtube.com/watch?v=peGFJUplA8M)
-- [Apprendre le code en partant de Zéro ! &lpar;Avec l’ia&rpar; #code #ia #chatgpt #copilot](https://www.youtube.com/watch?v=dlzu9XtCE60)
 <!-- YOUTUBE:END -->
 
 <details>
