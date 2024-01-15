@@ -111,10 +111,10 @@ Actually:
 
 <!-- BLOG-POST-LIST:START -->
 - [Devenir un développeur](https://www.mikecodeur.com/2024/01/15/devenir-un-developpeur/)
+- [Les besoins d’un DEV](https://www.mikecodeur.com/2024/01/15/les-besoins-dun-dev/)
 - [Dev = Or dans les mains ! Stop les jobs à 1800 €! #code #freelance #entreprenariat](https://www.mikecodeur.com/2024/01/12/dev-or-dans-les-mains-stop-les-jobs-a-1800-e-code-freelance-entreprenariat/)
 - [Eviter le C++ si vous êtes débutant](https://www.mikecodeur.com/2024/01/11/eviter-le-c-si-vous-etes-debutant/)
 - [Les langages de programmation parfaits pour les débutants !!](https://www.mikecodeur.com/2024/01/10/les-langages-de-programmation-parfaits-pour-les-debutants/)
-- [Langages à éviter pour débutants](https://www.mikecodeur.com/2024/01/08/langages-a-eviter-pour-debutants/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
