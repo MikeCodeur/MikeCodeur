@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Les formations chez Mike Codeur](https://www.mikecodeur.com/2024/01/17/les-formations-chez-mike-codeur/)
 - [Par où commencer pour devenir développeur ?](https://www.mikecodeur.com/2024/01/16/par-ou-commencer-pour-devenir-developpeur/)
 - [Or dans les mains](https://www.mikecodeur.com/2024/01/16/or-dans-les-mains/)
+- [DEV entreprenariat](https://www.mikecodeur.com/2024/01/15/dev-entreprenariat/)
 - [Devenir un développeur](https://www.mikecodeur.com/2024/01/15/devenir-un-developpeur/)
-- [Les besoins d’un DEV](https://www.mikecodeur.com/2024/01/15/les-besoins-dun-dev/)
-- [Dev = Or dans les mains ! Stop les jobs à 1800 €! #code #freelance #entreprenariat](https://www.mikecodeur.com/2024/01/12/dev-or-dans-les-mains-stop-les-jobs-a-1800-e-code-freelance-entreprenariat/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
