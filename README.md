@@ -112,9 +112,9 @@ Actually:
 <!-- BLOG-POST-LIST:START -->
 - [Objectif Large et Concret](https://www.mikecodeur.com/2024/01/18/objectif-large-et-concret/)
 - [Les formations chez Mike Codeur](https://www.mikecodeur.com/2024/01/17/les-formations-chez-mike-codeur/)
+- [Gagner de l’argent avec Chat GPT Store &lpar;pour développeur&rpar; – Dev Business Talk](https://www.mikecodeur.com/2024/01/16/gagner-de-largent-avec-chat-gpt-store-pour-developpeur-dev-business-talk/)
 - [Par où commencer pour devenir développeur ?](https://www.mikecodeur.com/2024/01/16/par-ou-commencer-pour-devenir-developpeur/)
 - [Or dans les mains](https://www.mikecodeur.com/2024/01/16/or-dans-les-mains/)
-- [DEV entreprenariat](https://www.mikecodeur.com/2024/01/15/dev-entreprenariat/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
