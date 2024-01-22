@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Business de niche !!](https://www.mikecodeur.com/2024/01/22/business-de-niche/)
 - [Faire une chose à la fois](https://www.mikecodeur.com/2024/01/19/faire-une-chose-a-la-fois/)
 - [Augmenter le chiffre d’affaire](https://www.mikecodeur.com/2024/01/19/augmenter-le-chiffre-daffaire/)
 - [Objectif Large, C quoi ?](https://www.mikecodeur.com/2024/01/18/objectif-large-c-quoi/)
 - [Objectif Large et Concret](https://www.mikecodeur.com/2024/01/18/objectif-large-et-concret/)
-- [Les formations chez Mike Codeur](https://www.mikecodeur.com/2024/01/17/les-formations-chez-mike-codeur/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
