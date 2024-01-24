@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [GPT Mike Codeur est publié](https://www.mikecodeur.com/2024/01/24/gpt-mike-codeur-est-publie/)
 - [Mike Codeur Mentor GPT](https://www.mikecodeur.com/2024/01/23/mike-codeur-mentor-gpt/)
 - [Dev = Super Pouvoir !!](https://www.mikecodeur.com/2024/01/22/dev-super-pouvoir/)
 - [Business de niche !!](https://www.mikecodeur.com/2024/01/22/business-de-niche/)
 - [Faire une chose à la fois](https://www.mikecodeur.com/2024/01/19/faire-une-chose-a-la-fois/)
-- [Augmenter le chiffre d’affaire](https://www.mikecodeur.com/2024/01/19/augmenter-le-chiffre-daffaire/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
