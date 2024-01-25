@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Problème accès API !!](https://www.mikecodeur.com/2024/01/25/probleme-acces-api/)
 - [Freelance en 2024 : Le Guide Ultime pour Développeurs](https://www.mikecodeur.com/2024/01/24/freelance-en-2024-le-guide-ultime-pour-developpeurs/)
 - [GPT Mike Codeur est publié](https://www.mikecodeur.com/2024/01/24/gpt-mike-codeur-est-publie/)
 - [Mike Codeur Mentor GPT](https://www.mikecodeur.com/2024/01/23/mike-codeur-mentor-gpt/)
 - [Dev = Super Pouvoir !!](https://www.mikecodeur.com/2024/01/22/dev-super-pouvoir/)
-- [Business de niche !!](https://www.mikecodeur.com/2024/01/22/business-de-niche/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
