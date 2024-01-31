@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bon mais con](https://www.mikecodeur.com/2024/01/31/bon-mais-con/)
 - [Vous êtes suspects](https://www.mikecodeur.com/2024/01/30/vous-etes-suspects/)
 - [PORTFOLIO : On s’en fout de toi](https://www.mikecodeur.com/2024/01/29/portfolio-on-sen-fout-de-toi/)
 - [Freelancers pas sérieux](https://www.mikecodeur.com/2024/01/26/freelancers-pas-serieux/)
 - [Problème accès API !!](https://www.mikecodeur.com/2024/01/25/probleme-acces-api/)
-- [Freelance en 2024 : Le Guide Ultime pour Développeurs](https://www.mikecodeur.com/2024/01/24/freelance-en-2024-le-guide-ultime-pour-developpeurs/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
