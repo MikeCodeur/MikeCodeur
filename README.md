@@ -111,10 +111,10 @@ Actually:
 
 <!-- BLOG-POST-LIST:START -->
 - [MVD](https://www.mikecodeur.com/2024/02/01/mvd/)
+- [5 choses que l’on NE te dit PAS sur le métier de Développeur](https://www.mikecodeur.com/2024/01/31/5-choses-que-lon-ne-te-dit-pas-sur-le-metier-de-developpeur/)
 - [Bon mais con](https://www.mikecodeur.com/2024/01/31/bon-mais-con/)
 - [Vous êtes suspects](https://www.mikecodeur.com/2024/01/30/vous-etes-suspects/)
 - [PORTFOLIO : On s’en fout de toi](https://www.mikecodeur.com/2024/01/29/portfolio-on-sen-fout-de-toi/)
-- [Freelancers pas sérieux](https://www.mikecodeur.com/2024/01/26/freelancers-pas-serieux/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
