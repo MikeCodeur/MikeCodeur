@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Tartine de merde](https://www.youtube.com/watch?v=G9HAogRIpn0)
 - [5 choses que l’on NE te dit PAS sur le métier de Développeur](https://www.youtube.com/watch?v=xOFva3pyHtM)
 - [Freelance en 2024 : Le Guide Ultime pour Développeurs](https://www.youtube.com/watch?v=oioUcODWLxM)
 - [Gagner de l’argent avec Chat GPT Store &lpar;pour développeur&rpar; - Dev Business Talk](https://www.youtube.com/watch?v=FAFmZUimE5Q)
 - [Dev = Or dans les mains ! Stop les jobs à 1800 €! #code #freelance #entreprenariat](https://www.youtube.com/watch?v=STFP1uSENJs)
-- [2023 : Bilan Catastrophe ? Et Objectifs 2024 &lpar;Formations, IA, Argent&rpar;](https://www.youtube.com/watch?v=XcfL-4wzYlI)
 <!-- YOUTUBE:END -->
 
 <details>
