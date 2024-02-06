@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [La course pour être à jour techniquement](https://www.mikecodeur.com/2024/02/06/la-course-pour-etre-a-jour-techniquement/)
 - [DROP DATABASE en PROD 😱](https://www.mikecodeur.com/2024/02/05/drop-database-en-prod-%f0%9f%98%b1-2/)
 - [DROP DATABASE en PROD 😱](https://www.mikecodeur.com/2024/02/05/drop-database-en-prod-%f0%9f%98%b1/)
 - [Réalité du métier de DEV](https://www.mikecodeur.com/2024/02/01/realite-du-metier-de-dev/)
 - [MVD](https://www.mikecodeur.com/2024/02/01/mvd/)
-- [5 choses que l’on NE te dit PAS sur le métier de Développeur](https://www.mikecodeur.com/2024/01/31/5-choses-que-lon-ne-te-dit-pas-sur-le-metier-de-developpeur/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
