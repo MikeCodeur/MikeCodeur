@@ -118,7 +118,7 @@ Actually:
 <!-- BLOG-POST-LIST:END -->
 </details>
 
-[courses]: https://formations.mikecodeur.com
+[courses]: https://www.mikecodeur.com
 [website]: https://go.mikecodeur.com/blog
 [insta]: https://go.mikecodeur.com/instagram
 [Youtube]: https://go.mikecodeur.com/youtube
