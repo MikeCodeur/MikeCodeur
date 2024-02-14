@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [5 langages à apprendre en 2024](https://www.mikecodeur.com/2024/02/14/5-langages-a-apprendre-en-2024/)
+- [5 langages à apprendre en 2024](https://www.mikecodeur.com/2024/02/14/5-langages-a-apprendre-en-2024-2/)
 - [Top 5 des Langages de Programmation à Apprendre en 2024 &lpar;Pour Décrocher un Job Rapidement&rpar;](https://www.mikecodeur.com/2024/02/08/top-5-des-langages-de-programmation-a-apprendre-en-2024-pour-decrocher-un-job-rapidement/)
 - [Sensation horrible](https://www.mikecodeur.com/2024/02/08/sensation-horrible/)
 - [GIT : Les problèmes en équipe](https://www.mikecodeur.com/2024/02/07/git-les-problemes-en-equipe/)
-- [La course pour être à jour techniquement](https://www.mikecodeur.com/2024/02/06/la-course-pour-etre-a-jour-techniquement/)
-- [DROP DATABASE en PROD 😱](https://www.mikecodeur.com/2024/02/05/drop-database-en-prod-%f0%9f%98%b1-2/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
