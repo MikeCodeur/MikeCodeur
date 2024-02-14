@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [5 langages à apprendre en 2024](https://www.youtube.com/watch?v=MkNnvZuQX3g)
 - [Top 5 des Langages de Programmation à Apprendre en 2024 &lpar;Pour Décrocher un Job Rapidement&rpar;](https://www.youtube.com/watch?v=F9XbTMJiNek)
 - [DROP DATABASE en PROD 😱](https://www.youtube.com/watch?v=Nr422lVXxLw)
 - [Tartine de merde](https://www.youtube.com/watch?v=G9HAogRIpn0)
 - [5 choses que l’on NE te dit PAS sur le métier de Développeur](https://www.youtube.com/watch?v=xOFva3pyHtM)
-- [Freelance en 2024 : Le Guide Ultime pour Développeurs](https://www.youtube.com/watch?v=oioUcODWLxM)
 <!-- YOUTUBE:END -->
 
 <details>
