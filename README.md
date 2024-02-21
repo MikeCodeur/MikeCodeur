@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [5 SaaS à Succès avec React](https://www.youtube.com/watch?v=VmRqEJbCd4c)
 - [5 SAAS à Succès &lpar;Par des Devs REACT&rpar;](https://www.youtube.com/watch?v=xuhTbyaR3r0)
 - [5 langages à apprendre en 2024](https://www.youtube.com/watch?v=MkNnvZuQX3g)
 - [Top 5 des Langages de Programmation à Apprendre en 2024 &lpar;Pour Décrocher un Job Rapidement&rpar;](https://www.youtube.com/watch?v=F9XbTMJiNek)
 - [DROP DATABASE en PROD 😱](https://www.youtube.com/watch?v=Nr422lVXxLw)
-- [Tartine de merde](https://www.youtube.com/watch?v=G9HAogRIpn0)
 <!-- YOUTUBE:END -->
 
 <details>
