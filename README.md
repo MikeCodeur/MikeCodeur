@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [La Chute de Stack Overflow est un Problème](https://www.youtube.com/watch?v=xGzG-MEgE7E)
 - [5 SaaS à Succès avec React](https://www.youtube.com/watch?v=VmRqEJbCd4c)
 - [5 SAAS à Succès &lpar;Par des Devs REACT&rpar;](https://www.youtube.com/watch?v=xuhTbyaR3r0)
 - [5 langages à apprendre en 2024](https://www.youtube.com/watch?v=MkNnvZuQX3g)
 - [Top 5 des Langages de Programmation à Apprendre en 2024 &lpar;Pour Décrocher un Job Rapidement&rpar;](https://www.youtube.com/watch?v=F9XbTMJiNek)
-- [DROP DATABASE en PROD 😱](https://www.youtube.com/watch?v=Nr422lVXxLw)
 <!-- YOUTUBE:END -->
 
 <details>
