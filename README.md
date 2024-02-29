@@ -111,10 +111,10 @@ Actually:
 
 <!-- BLOG-POST-LIST:START -->
 - [Stack OverFlow est mort ?](https://www.mikecodeur.com/2024/02/28/stack-overflow-est-mort/)
+- [7 Livres à Lire pour Devenir un Excellent Développeur](https://www.mikecodeur.com/2024/02/26/7-livres-a-lire-pour-devenir-un-excellent-developpeur/)
 - [La Chute de Stack Overflow est un Problème](https://www.mikecodeur.com/2024/02/22/la-chute-de-stack-overflow-est-un-probleme/)
 - [5 SaaS à Succès avec React](https://www.mikecodeur.com/2024/02/21/5-saas-a-succes-avec-react/)
 - [5 SAAS à Succès &lpar;Par des Devs REACT&rpar;](https://www.mikecodeur.com/2024/02/15/5-saas-a-succes-par-des-devs-react/)
-- [5 langages à apprendre en 2024](https://www.mikecodeur.com/2024/02/14/5-langages-a-apprendre-en-2024/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
