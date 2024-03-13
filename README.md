@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [7 livres pour devenir un Bon Développeur](https://www.youtube.com/watch?v=MxhEUf7uTaw)
 - [Comment Décrocher un Bon Job de Développeur en 2024 ? &lpar;9 Stratégies&rpar;](https://www.youtube.com/watch?v=79sOYdLyE-w)
 - [7 Livres à Lire pour Devenir un Excellent Développeur](https://www.youtube.com/watch?v=KPmlEW8DxVk)
 - [Stack OverFlow est mort ?](https://www.youtube.com/watch?v=WGjOEN1agUI)
 - [La Chute de Stack Overflow est un Problème](https://www.youtube.com/watch?v=xGzG-MEgE7E)
-- [5 SaaS à Succès avec React](https://www.youtube.com/watch?v=VmRqEJbCd4c)
 <!-- YOUTUBE:END -->
 
 <details>
