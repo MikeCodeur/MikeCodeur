@@ -99,7 +99,7 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
-- [47k€ en CDI, Salaire vs XP,  Startup vs Agence, Stratégies de recrutement - Interview Quentin](https://www.youtube.com/watch?v=9eloKWNQFZg)
+- [Salaire vs experience, Startup vs Agence, Stratégies de recrutement - Interview Quentin](https://www.youtube.com/watch?v=9eloKWNQFZg)
 - [Comment Générer 10 000 € / Mois Quand on Est Développeur ? &lpar;SaaS, Freelance, Formation&rpar;](https://www.youtube.com/watch?v=DFOiHefm-VI)
 - [7 livres pour devenir un Bon Développeur](https://www.youtube.com/watch?v=MxhEUf7uTaw)
 - [Comment Décrocher un Bon Job de Développeur en 2024 ? &lpar;9 Stratégies&rpar;](https://www.youtube.com/watch?v=79sOYdLyE-w)
