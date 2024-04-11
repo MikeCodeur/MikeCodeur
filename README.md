@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment Lancer un SaaS sur Product Hunt ?](https://www.mikecodeur.com/2024/04/11/comment-lancer-un-saas-sur-product-hunt/)
 - [Meilleure stratégie pour décrocher un Job DEV en 2024](https://www.mikecodeur.com/2024/04/03/meilleure-strategie-pour-decrocher-un-job-dev-en-2024/)
 - [Décrocher un bon job en 2024](https://www.mikecodeur.com/2024/04/01/decrocher-un-bon-job-en-2024/)
 - [Stratégies pour décrocher un bon job en 2024](https://www.mikecodeur.com/2024/03/29/strategies-pour-decrocher-un-bon-job-en-2024/)
 - [Conseils pour décrocher un job en 2024](https://www.mikecodeur.com/2024/03/28/conseils-pour-decrocher-un-job-en-2024/)
-- [47k€ en CDI, Salaire vs XP,  Startup vs Agence, Stratégies de recrutement – Interview Quentin](https://www.mikecodeur.com/2024/03/21/47ke-en-cdi-salaire-vs-xp-startup-vs-agence-strategies-de-recrutement-interview-quentin/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
