@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [CDI Dev Front React ! Bilan Un an après sa Reconversion ! &lpar;Bootcamp React&rpar;](https://www.youtube.com/watch?v=RjECiRVE2-k)
 - [Comment Lancer un SaaS sur Product Hunt ?](https://www.youtube.com/watch?v=NkmeNhnQTD0)
 - [Salaire vs experience, Startup vs Agence, Stratégies de recrutement - Interview Quentin](https://www.youtube.com/watch?v=9eloKWNQFZg)
 - [Comment Générer 10 000 € / Mois Quand on Est Développeur ? &lpar;SaaS, Freelance, Formation&rpar;](https://www.youtube.com/watch?v=DFOiHefm-VI)
 - [7 livres pour devenir un Bon Développeur](https://www.youtube.com/watch?v=MxhEUf7uTaw)
-- [Comment Décrocher un Bon Job de Développeur en 2024 ? &lpar;9 Stratégies&rpar;](https://www.youtube.com/watch?v=79sOYdLyE-w)
 <!-- YOUTUBE:END -->
 
 <details>
