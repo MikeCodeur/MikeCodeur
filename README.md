@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [12 SaaS en 12 Mois ! L&#39;incroyable Histoire de Pieter Levels](https://www.youtube.com/watch?v=Aa0j3fi7cXs)
 - [CDI Dev Front React ! Bilan Un an après sa Reconversion ! &lpar;Bootcamp React&rpar;](https://www.youtube.com/watch?v=RjECiRVE2-k)
 - [Comment Lancer un SaaS sur Product Hunt ?](https://www.youtube.com/watch?v=NkmeNhnQTD0)
 - [Salaire vs experience, Startup vs Agence, Stratégies de recrutement - Interview Quentin](https://www.youtube.com/watch?v=9eloKWNQFZg)
 - [Comment Générer 10 000 € / Mois Quand on Est Développeur ? &lpar;SaaS, Freelance, Formation&rpar;](https://www.youtube.com/watch?v=DFOiHefm-VI)
-- [7 livres pour devenir un Bon Développeur](https://www.youtube.com/watch?v=MxhEUf7uTaw)
 <!-- YOUTUBE:END -->
 
 <details>
