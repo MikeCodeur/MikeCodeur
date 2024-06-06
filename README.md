@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Comment Progresser en Algorithmique  ? &lpar;Pour développeur&rpar;](https://www.youtube.com/watch?v=j_vObVcJuow)
 - [Expatriation Bali, Freelance, Business en ligne - Interview Quentin Part 2](https://www.youtube.com/watch?v=6_ruU7AmO6w)
 - [12 SaaS en 12 Mois ! L&#39;incroyable Histoire de Pieter Levels](https://www.youtube.com/watch?v=Aa0j3fi7cXs)
 - [CDI Dev Front React ! Bilan Un an après sa Reconversion ! &lpar;Bootcamp React&rpar;](https://www.youtube.com/watch?v=RjECiRVE2-k)
 - [Comment Lancer un SaaS sur Product Hunt ?](https://www.youtube.com/watch?v=NkmeNhnQTD0)
-- [Salaire vs experience, Startup vs Agence, Stratégies de recrutement - Interview Quentin](https://www.youtube.com/watch?v=9eloKWNQFZg)
 <!-- YOUTUBE:END -->
 
 <details>
