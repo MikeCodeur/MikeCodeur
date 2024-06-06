@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment Progresser en Algorithmique  ? &lpar;Pour développeur&rpar;](https://www.mikecodeur.com/2024/06/06/comment-progresser-en-algorithmique-pour-developpeur/)
 - [Expatriation Bali, Freelance, Business en ligne – Interview Quentin Part 2](https://www.mikecodeur.com/2024/05/20/expatriation-bali-freelance-business-en-ligne-interview-quentin-part-2/)
 - [12 SaaS en 12 Mois ! L’incroyable Histoire de Pieter Levels](https://www.mikecodeur.com/2024/05/09/12-saas-en-12-mois-lincroyable-histoire-de-pieter-levels/)
 - [CDI Dev Front React ! Bilan Un an après sa Reconversion ! &lpar;Bootcamp React&rpar;](https://www.mikecodeur.com/2024/04/25/cdi-dev-front-react-bilan-un-an-apres-sa-reconversion-bootcamp-react/)
 - [Comment Lancer un SaaS sur Product Hunt ?](https://www.mikecodeur.com/2024/04/11/comment-lancer-un-saas-sur-product-hunt/)
-- [Meilleure stratégie pour décrocher un Job DEV en 2024](https://www.mikecodeur.com/2024/04/03/meilleure-strategie-pour-decrocher-un-job-dev-en-2024/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
