@@ -85,11 +85,11 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MikeCodeur/typescript-expert/issues/2#issuecomment-2224266212) in [MikeCodeur/typescript-expert](https://github.com/MikeCodeur/typescript-expert)
-2. 🗣 Commented on [#8](https://github.com/MikeCodeur/react-testing/issues/8#issuecomment-2219232858) in [MikeCodeur/react-testing](https://github.com/MikeCodeur/react-testing)
-3. 🗣 Commented on [#1](https://github.com/MikeCodeur/typescript-expert/issues/1#issuecomment-2219188953) in [MikeCodeur/typescript-expert](https://github.com/MikeCodeur/typescript-expert)
-4. 🎉 Merged PR [#10](https://github.com/MikeCodeur/react-hooks-avances/pull/10) in [MikeCodeur/react-hooks-avances](https://github.com/MikeCodeur/react-hooks-avances)
-5. 🗣 Commented on [#11](https://github.com/MikeCodeur/react-tracker-app/issues/11) in [MikeCodeur/react-tracker-app](https://github.com/MikeCodeur/react-tracker-app)
+1. ❗ Opened issue [#7](https://github.com/MikeCodeur/react-patterns/issues/7) in [MikeCodeur/react-patterns](https://github.com/MikeCodeur/react-patterns)
+2. ❗ Opened issue [#18](https://github.com/MikeCodeur/react-prerequis-debutants/issues/18) in [MikeCodeur/react-prerequis-debutants](https://github.com/MikeCodeur/react-prerequis-debutants)
+3. 🗣 Commented on [#2](https://github.com/MikeCodeur/typescript-expert/issues/2#issuecomment-2224266212) in [MikeCodeur/typescript-expert](https://github.com/MikeCodeur/typescript-expert)
+4. 🗣 Commented on [#8](https://github.com/MikeCodeur/react-testing/issues/8#issuecomment-2219232858) in [MikeCodeur/react-testing](https://github.com/MikeCodeur/react-testing)
+5. 🗣 Commented on [#1](https://github.com/MikeCodeur/typescript-expert/issues/1#issuecomment-2219188953) in [MikeCodeur/typescript-expert](https://github.com/MikeCodeur/typescript-expert)
 <!--END_SECTION:activity-->
 
 ### ⭐ GitHub Stats
