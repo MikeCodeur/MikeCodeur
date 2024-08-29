@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Comment Créer des Formations en Ligne ? &lpar;pour Développeurs&rpar;](https://www.youtube.com/watch?v=k1cI_Q1eBlU)
 - [Digital Nomad : Tulum, Cancún &amp; Playa del Carmen - Où aller ?](https://www.youtube.com/watch?v=jGppXCN0D3E)
 - [Dev Freelance Digital Nomade à Bali : Interview Andrea](https://www.youtube.com/watch?v=ttbT7M35WDM)
 - [Pourquoi tu Devrais ABSOLUMENT T&#39;expatrier ?](https://www.youtube.com/watch?v=HZaxri2EDzg)
 - [FAQ : Bali, Investissement, Business En ligne, Reconversion ? Chill And QnA EP 6](https://www.youtube.com/watch?v=1WtXifV6TnU)
-- [Comment Progresser en Algorithmique  ? &lpar;Pour développeur&rpar;](https://www.youtube.com/watch?v=j_vObVcJuow)
 <!-- YOUTUBE:END -->
 
 <details>
