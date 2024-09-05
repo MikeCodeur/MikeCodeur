@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Les compétences nécessaires pour vendre des formations](https://www.youtube.com/watch?v=miGcmO09S90)
 - [25 Ans de Code ! Mon Secret pour Durer ! Partie 1](https://www.youtube.com/watch?v=71wFF8sD7-w)
 - [Conseil de Création de Formation](https://www.youtube.com/watch?v=of_60WmIqN4)
 - [Comment Créer des Formations en Ligne ? &lpar;pour Développeurs&rpar;](https://www.youtube.com/watch?v=k1cI_Q1eBlU)
 - [Digital Nomad : Tulum, Cancún &amp; Playa del Carmen - Où aller ?](https://www.youtube.com/watch?v=jGppXCN0D3E)
-- [Dev Freelance Digital Nomade à Bali : Interview Andrea](https://www.youtube.com/watch?v=ttbT7M35WDM)
 <!-- YOUTUBE:END -->
 
 <details>
