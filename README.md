@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Freelancing - Réussir en Équipe et S&#39;épanouir](https://www.youtube.com/watch?v=5uGKsRZG2KA)
 - [Voyage Solo - La Beauté de l&#39;Aventure en Solo](https://www.youtube.com/watch?v=PPiIxx2Jlz0)
 - [Les compétences nécessaires pour vendre des formations](https://www.youtube.com/watch?v=miGcmO09S90)
 - [25 Ans de Code ! Mon Secret pour Durer ! Partie 1](https://www.youtube.com/watch?v=71wFF8sD7-w)
 - [Conseil de Création de Formation](https://www.youtube.com/watch?v=of_60WmIqN4)
-- [Comment Créer des Formations en Ligne ? &lpar;pour Développeurs&rpar;](https://www.youtube.com/watch?v=k1cI_Q1eBlU)
 <!-- YOUTUBE:END -->
 
 <details>
