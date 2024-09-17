@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Environnement de Travail pour Réussir](https://www.youtube.com/watch?v=DlizJMoBkmk)
 - [25 Ans de Code ! Freelance, Arnaques, Expatriation! Partie 2](https://www.youtube.com/watch?v=bmB8LPHhAHU)
 - [Freelancing - Réussir en Équipe et S&#39;épanouir](https://www.youtube.com/watch?v=5uGKsRZG2KA)
 - [Voyage Solo - La Beauté de l&#39;Aventure en Solo](https://www.youtube.com/watch?v=PPiIxx2Jlz0)
 - [Les compétences nécessaires pour vendre des formations](https://www.youtube.com/watch?v=miGcmO09S90)
-- [25 Ans de Code ! Mon Secret pour Durer ! Partie 1](https://www.youtube.com/watch?v=71wFF8sD7-w)
 <!-- YOUTUBE:END -->
 
 <details>
