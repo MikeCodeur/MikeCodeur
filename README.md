@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Qu’est-ce qu’un Framework ? &lpar;Langages vs Librairies vs Specifications&rpar;](https://www.youtube.com/watch?v=lqWqMaWFEA4)
+- [Arnaque : Alternance](https://www.youtube.com/watch?v=Dnx1ced2xgk)
 - [Environnement de Travail pour Réussir](https://www.youtube.com/watch?v=DlizJMoBkmk)
 - [25 Ans de Code ! Freelance, Arnaques, Expatriation! Partie 2](https://www.youtube.com/watch?v=bmB8LPHhAHU)
 - [Freelancing - Réussir en Équipe et S&#39;épanouir](https://www.youtube.com/watch?v=5uGKsRZG2KA)
-- [Voyage Solo - La Beauté de l&#39;Aventure en Solo](https://www.youtube.com/watch?v=PPiIxx2Jlz0)
-- [Les compétences nécessaires pour vendre des formations](https://www.youtube.com/watch?v=miGcmO09S90)
 <!-- YOUTUBE:END -->
 
 <details>
