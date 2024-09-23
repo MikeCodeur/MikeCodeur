@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Augmentation de salaire !](https://www.youtube.com/watch?v=IPM5D6RXziY)
 - [Qu’est-ce qu’un Framework ? &lpar;Langages vs Librairies vs Specifications&rpar;](https://www.youtube.com/watch?v=lqWqMaWFEA4)
 - [Arnaque : Alternance](https://www.youtube.com/watch?v=Dnx1ced2xgk)
 - [Environnement de Travail pour Réussir](https://www.youtube.com/watch?v=DlizJMoBkmk)
 - [25 Ans de Code ! Freelance, Arnaques, Expatriation! Partie 2](https://www.youtube.com/watch?v=bmB8LPHhAHU)
-- [Freelancing - Réussir en Équipe et S&#39;épanouir](https://www.youtube.com/watch?v=5uGKsRZG2KA)
 <!-- YOUTUBE:END -->
 
 <details>
