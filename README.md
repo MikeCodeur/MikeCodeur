@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Jaimais Croire aux Promesses des boites](https://www.mikecodeur.com/2024/09/25/jaimais-croire-aux-promesses-des-boites/)
 - [FAQ : Bali, Investissement, Business En ligne, Reconversion ? Chill And QnA EP 6](https://www.mikecodeur.com/2024/06/27/faq-bali-investissement-business-en-ligne-reconversion-chill-and-qna-ep-6/)
 - [Comment Progresser en Algorithmique  ? &lpar;Pour développeur&rpar;](https://www.mikecodeur.com/2024/06/06/comment-progresser-en-algorithmique-pour-developpeur/)
 - [Expatriation Bali, Freelance, Business en ligne – Interview Quentin Part 2](https://www.mikecodeur.com/2024/05/20/expatriation-bali-freelance-business-en-ligne-interview-quentin-part-2/)
 - [12 SaaS en 12 Mois ! L’incroyable Histoire de Pieter Levels](https://www.mikecodeur.com/2024/05/09/12-saas-en-12-mois-lincroyable-histoire-de-pieter-levels/)
-- [CDI Dev Front React ! Bilan Un an après sa Reconversion ! &lpar;Bootcamp React&rpar;](https://www.mikecodeur.com/2024/04/25/cdi-dev-front-react-bilan-un-an-apres-sa-reconversion-bootcamp-react/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
