@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Roapmap De Junior à Senior](https://www.youtube.com/watch?v=1pXzgX0PEZA)
 - [Jaimais Croire aux Promesses des boites](https://www.youtube.com/watch?v=pfWbu-FcFc0)
 - [Augmentation de salaire !](https://www.youtube.com/watch?v=IPM5D6RXziY)
 - [Qu’est-ce qu’un Framework ? &lpar;Langages vs Librairies vs Spécification&rpar;](https://www.youtube.com/watch?v=lqWqMaWFEA4)
 - [Arnaque : Alternance](https://www.youtube.com/watch?v=Dnx1ced2xgk)
-- [Environnement de Travail pour Réussir](https://www.youtube.com/watch?v=DlizJMoBkmk)
 <!-- YOUTUBE:END -->
 
 <details>
