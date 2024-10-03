@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
-- [Le Problème du &quot;Make Money&quot; en Ligne Français](https://www.youtube.com/watch?v=hxlLy16UyZk)
 - [Clauses Contrat du Vent](https://www.youtube.com/watch?v=R_E1wWlVjNI)
 - [Les boites s’en foutent des DEV](https://www.youtube.com/watch?v=gBVGU3xKUo8)
 - [RoadMap : De développeur Junior à Senior](https://www.youtube.com/watch?v=1pXzgX0PEZA)
 - [Jaimais Croire aux Promesses des boites](https://www.youtube.com/watch?v=pfWbu-FcFc0)
+- [Augmentation de salaire !](https://www.youtube.com/watch?v=IPM5D6RXziY)
 <!-- YOUTUBE:END -->
 
 <details>
