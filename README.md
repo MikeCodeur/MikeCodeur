@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Le Problème du « Make Money » en Ligne Français](https://www.mikecodeur.com/2024/10/03/le-probleme-du-make-money-en-ligne-francais/)
 - [Clauses Contrat du Vent](https://www.mikecodeur.com/2024/10/02/clauses-contrat-du-vent/)
 - [Les boites s’en foutent des DEV](https://www.mikecodeur.com/2024/09/30/les-boites-sen-foutent-des-dev/)
 - [Roapmap De Junior à Senior](https://www.mikecodeur.com/2024/09/26/roapmap-de-junior-a-senior/)
 - [Jaimais Croire aux Promesses des boites](https://www.mikecodeur.com/2024/09/25/jaimais-croire-aux-promesses-des-boites/)
-- [FAQ : Bali, Investissement, Business En ligne, Reconversion ? Chill And QnA EP 6](https://www.mikecodeur.com/2024/06/27/faq-bali-investissement-business-en-ligne-reconversion-chill-and-qna-ep-6/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
