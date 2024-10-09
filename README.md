@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [La liberté ça fait peur](https://www.youtube.com/watch?v=5RjpjFuzzzw)
 - [Contrat Freelance : Pourquoi la Confiance Ne Suffit Pas!](https://www.youtube.com/watch?v=lLMZf5EV7R4)
 - [Le Problème du &quot;Make Money&quot; en Ligne Français](https://www.youtube.com/watch?v=P-AopQ40I6Y)
 - [Clauses Contrat du Vent](https://www.youtube.com/watch?v=R_E1wWlVjNI)
 - [Les boites s’en foutent des DEV](https://www.youtube.com/watch?v=gBVGU3xKUo8)
-- [RoadMap : De développeur Junior à Senior](https://www.youtube.com/watch?v=1pXzgX0PEZA)
 <!-- YOUTUBE:END -->
 
 <details>
