@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Comment l’IA va Remplacer les Développeurs FrontEnd ? &lpar;V0.dev - UiZard ...&rpar;](https://www.youtube.com/watch?v=i5LrwjNUyCQ)
 - [La liberté ça fait peur](https://www.youtube.com/watch?v=5RjpjFuzzzw)
 - [Contrat Freelance : Pourquoi la Confiance Ne Suffit Pas!](https://www.youtube.com/watch?v=lLMZf5EV7R4)
 - [Le Problème du &quot;Make Money&quot; en Ligne Français](https://www.youtube.com/watch?v=P-AopQ40I6Y)
 - [Clauses Contrat du Vent](https://www.youtube.com/watch?v=R_E1wWlVjNI)
-- [Les boites s’en foutent des DEV](https://www.youtube.com/watch?v=gBVGU3xKUo8)
 <!-- YOUTUBE:END -->
 
 <details>
