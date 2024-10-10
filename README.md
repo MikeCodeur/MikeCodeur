@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment l’IA va Remplacer les Développeurs FrontEnd ? &lpar;V0.dev – UiZard …&rpar;](https://www.mikecodeur.com/2024/10/10/comment-lia-va-remplacer-les-developpeurs-frontend-v0-dev-uizard/)
 - [La liberté ça fait peur](https://www.mikecodeur.com/2024/10/09/la-liberte-ca-fait-peur/)
 - [Contrat Freelance : Pourquoi la Confiance Ne Suffit Pas!](https://www.mikecodeur.com/2024/10/07/contrat-freelance-pourquoi-la-confiance-ne-suffit-pas/)
 - [Le Problème du « Make Money » en Ligne Français](https://www.mikecodeur.com/2024/10/03/le-probleme-du-make-money-en-ligne-francais-2/)
 - [Le Problème du « Make Money » en Ligne Français](https://www.mikecodeur.com/2024/10/03/le-probleme-du-make-money-en-ligne-francais/)
-- [Clauses Contrat du Vent](https://www.mikecodeur.com/2024/10/02/clauses-contrat-du-vent/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
