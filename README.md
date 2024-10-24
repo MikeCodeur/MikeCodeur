@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Next.js FullStack : Les Prérequis Indispensables pour bien Démarrer et Réussir](https://www.youtube.com/watch?v=Xdf65CF4YP0)
 - [Pourquoi React + FireBase n&#39;est pas du Développement FullStack ?](https://www.youtube.com/watch?v=Ux-Xcf95sQk)
 - [Comment l’IA va Remplacer les Développeurs FrontEnd ? &lpar;V0.dev - UiZard ...&rpar;](https://www.youtube.com/watch?v=i5LrwjNUyCQ)
 - [La liberté ça fait peur](https://www.youtube.com/watch?v=5RjpjFuzzzw)
 - [Contrat Freelance : Pourquoi la Confiance Ne Suffit Pas!](https://www.youtube.com/watch?v=lLMZf5EV7R4)
-- [Le Problème du &quot;Make Money&quot; en Ligne Français](https://www.youtube.com/watch?v=P-AopQ40I6Y)
 <!-- YOUTUBE:END -->
 
 <details>
