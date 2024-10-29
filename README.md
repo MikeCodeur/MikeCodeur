@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Les Prérequis de Next.js FullStack](https://www.mikecodeur.com/2024/10/29/les-prerequis-de-next-js-fullstack/)
 - [Next.js FullStack : Les Prérequis Indispensables pour bien Démarrer et Réussir](https://www.mikecodeur.com/2024/10/24/next-js-fullstack-les-prerequis-indispensables-pour-bien-demarrer-et-reussir/)
 - [Pourquoi React + FireBase n’est pas du Développement FullStack ?](https://www.mikecodeur.com/2024/10/17/pourquoi-react-firebase-nest-pas-du-developpement-fullstack/)
 - [Comment l’IA va Remplacer les Développeurs FrontEnd ? &lpar;V0.dev – UiZard …&rpar;](https://www.mikecodeur.com/2024/10/10/comment-lia-va-remplacer-les-developpeurs-frontend-v0-dev-uizard/)
 - [La liberté ça fait peur](https://www.mikecodeur.com/2024/10/09/la-liberte-ca-fait-peur/)
-- [Contrat Freelance : Pourquoi la Confiance Ne Suffit Pas!](https://www.mikecodeur.com/2024/10/07/contrat-freelance-pourquoi-la-confiance-ne-suffit-pas/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
