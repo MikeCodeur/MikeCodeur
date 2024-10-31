@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [5 Idées de Projets FULLSTACK avec NEXT.JS](https://www.youtube.com/watch?v=Kjr4rhGVr2w)
 - [Les Prérequis de Next.js FullStack](https://www.youtube.com/watch?v=CiRP0XH3PNk)
 - [Next.js FullStack : Les Prérequis Indispensables pour bien Démarrer et Réussir](https://www.youtube.com/watch?v=Xdf65CF4YP0)
 - [Pourquoi React + FireBase n&#39;est pas du Développement FullStack ?](https://www.youtube.com/watch?v=Ux-Xcf95sQk)
 - [Comment l’IA va Remplacer les Développeurs FrontEnd ? &lpar;V0.dev - UiZard ...&rpar;](https://www.youtube.com/watch?v=i5LrwjNUyCQ)
-- [La liberté ça fait peur](https://www.youtube.com/watch?v=5RjpjFuzzzw)
 <!-- YOUTUBE:END -->
 
 <details>
