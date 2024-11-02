@@ -15,10 +15,10 @@ Actually:
 ## My 100% online React Bootcamp
 
  <strong>
-    3 months to be a really good React Programmer
+    3 months to be a really good Full Stack Programmer
   </strong>
   <p>
-    Be a Master in React by building amazing projects
+    Be a Master in React/ Next by building amazing projects
   </p>
 
   <a href="https://go.mikecodeur.com/react-mastery">
