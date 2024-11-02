@@ -23,8 +23,8 @@ Actually:
 
   <a href="https://go.mikecodeur.com/react-mastery">
     <img 
-      alt="Apprendre React"
-      src="https://mikecodeur.com/mike/assets/courses/react-mastery.png"
+      alt="Apprendre Next et React"
+      src="[https://mikecodeur.com/mike/assets/courses/react-mastery.png](https://mikecodeur.com/mike/assets/courses/next/NEXT-MASTERY-dark.png)"
     />
   </a>
  
