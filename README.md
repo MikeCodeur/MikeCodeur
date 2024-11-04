@@ -21,14 +21,14 @@ Actually:
     Be a Master in React/ Next by building amazing projects
   </p>
 
-  <a href="https://go.mikecodeur.com/react-mastery">
+  <a href="https://go.mikecodeur.com/next-mastery">
     <img 
       alt="Apprendre Next et React"
       src="https://mikecodeur.com/mike/assets/courses/next/naxt-mastery-lp.png"
     />
   </a>
  
-  <a href="https://go.mikecodeur.com/react-mastery" >
+  <a href="https://go.mikecodeur.com/next-mastery" >
     <img width="100"
       alt="Apprendre React"
       src="https://mikecodeur.com/mike/assets/mikecodeur-trans.png"
@@ -118,7 +118,7 @@ Actually:
 <!-- BLOG-POST-LIST:END -->
 </details>
 
-[courses]: https://www.mikecodeur.com
+[courses]: https://go.mikecodeur.com/next-mastery
 [website]: https://go.mikecodeur.com/blog
 [insta]: https://go.mikecodeur.com/instagram
 [Youtube]: https://go.mikecodeur.com/youtube
