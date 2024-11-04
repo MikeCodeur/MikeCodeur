@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Développement Fullstack avec React + FireBase](https://www.mikecodeur.com/2024/11/04/developpement-fullstack-avec-react-firebase/)
 - [5 Idées de Projets FULLSTACK avec NEXT.JS](https://www.mikecodeur.com/2024/10/31/5-idees-de-projets-fullstack-avec-next-js/)
 - [Les Prérequis de Next.js FullStack](https://www.mikecodeur.com/2024/10/29/les-prerequis-de-next-js-fullstack/)
 - [Next.js FullStack : Les Prérequis Indispensables pour bien Démarrer et Réussir](https://www.mikecodeur.com/2024/10/24/next-js-fullstack-les-prerequis-indispensables-pour-bien-demarrer-et-reussir/)
 - [Pourquoi React + FireBase n’est pas du Développement FullStack ?](https://www.mikecodeur.com/2024/10/17/pourquoi-react-firebase-nest-pas-du-developpement-fullstack/)
-- [Comment l’IA va Remplacer les Développeurs FrontEnd ? &lpar;V0.dev – UiZard …&rpar;](https://www.mikecodeur.com/2024/10/10/comment-lia-va-remplacer-les-developpeurs-frontend-v0-dev-uizard/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
