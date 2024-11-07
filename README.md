@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Next Mastery : Deviens Dev FullStack en 3 Mois avec Next.js 15 &amp; React 19](https://www.mikecodeur.com/2024/11/07/next-mastery-deviens-dev-fullstack-en-3-mois-avec-next-js-15-react-19/)
 - [La seule formation Next 15 React 19 Fullstack du marché ! #codeur](https://www.mikecodeur.com/2024/11/06/la-seule-formation-next-15-react-19-fullstack-du-marche-codeur/)
 - [Développement Fullstack avec React + FireBase](https://www.mikecodeur.com/2024/11/04/developpement-fullstack-avec-react-firebase/)
 - [5 Idées de Projets FULLSTACK avec NEXT.JS](https://www.mikecodeur.com/2024/10/31/5-idees-de-projets-fullstack-avec-next-js/)
 - [Les Prérequis de Next.js FullStack](https://www.mikecodeur.com/2024/10/29/les-prerequis-de-next-js-fullstack/)
-- [Next.js FullStack : Les Prérequis Indispensables pour bien Démarrer et Réussir](https://www.mikecodeur.com/2024/10/24/next-js-fullstack-les-prerequis-indispensables-pour-bien-demarrer-et-reussir/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
