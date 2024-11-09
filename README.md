@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Entretiens développeur  fullstack](https://www.youtube.com/watch?v=38RuFwsuY64)
 - [La fin des devs Front-end autodidactes  ?](https://www.youtube.com/watch?v=WoKo_jLgKhM)
 - [700 € de TJM Dev Next React](https://www.youtube.com/watch?v=1lZ8LEPVMhk)
 - [Next Mastery : Deviens Dev FullStack en 3 Mois avec Next.js 15 &amp; React 19](https://www.youtube.com/watch?v=HmesgXChp1I)
 - [La seule Formation Next 15 React 19 Fullstack du marché ! #codeur](https://www.youtube.com/watch?v=8lQ1aG3seEQ)
-- [Développement Fullstack avec React + FireBase](https://www.youtube.com/watch?v=Euab2RzT1C0)
 <!-- YOUTUBE:END -->
 
 <details>
