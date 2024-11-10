@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Les concepts de développeurs fullstack à connaitre](https://www.mikecodeur.com/2024/11/10/les-concepts-de-developpeurs-fullstack-a-connaitre/)
 - [Entretiens développeur  fullstack](https://www.mikecodeur.com/2024/11/09/entretiens-developpeur-fullstack/)
 - [La fin des devs Front-end autodidactes  ?](https://www.mikecodeur.com/2024/11/08/la-fin-des-devs-front-end-autodidactes/)
 - [700 €de TJM](https://www.mikecodeur.com/2024/11/07/700-ede-tjm/)
 - [Next Mastery : Deviens Dev FullStack en 3 Mois avec Next.js 15 &amp; React 19](https://www.mikecodeur.com/2024/11/07/next-mastery-deviens-dev-fullstack-en-3-mois-avec-next-js-15-react-19/)
-- [La seule formation Next 15 React 19 Fullstack du marché ! #codeur](https://www.mikecodeur.com/2024/11/06/la-seule-formation-next-15-react-19-fullstack-du-marche-codeur/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
