@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [🔴 Live FAQ : Comment Devenir développeur FullStack avec Next 15 React 19](https://www.youtube.com/watch?v=M6GtgwnNekY)
 - [Les concepts de développeurs fullstack à connaitre](https://www.youtube.com/watch?v=YUHZPJbc8os)
 - [Entretiens développeur  fullstack](https://www.youtube.com/watch?v=38RuFwsuY64)
 - [La fin des devs Front-end autodidactes  ?](https://www.youtube.com/watch?v=WoKo_jLgKhM)
 - [700 € de TJM Dev Next React](https://www.youtube.com/watch?v=1lZ8LEPVMhk)
-- [Next Mastery : Deviens Dev FullStack en 3 Mois avec Next.js 15 &amp; React 19](https://www.youtube.com/watch?v=HmesgXChp1I)
 <!-- YOUTUBE:END -->
 
 <details>
