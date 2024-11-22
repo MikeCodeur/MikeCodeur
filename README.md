@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Fake it until make it](https://www.youtube.com/watch?v=KlAEKi9XIIc)
 - [Make Money En Ligne](https://www.youtube.com/watch?v=xH7XetXRtyk)
 - [🔴 Live FAQ : Comment Devenir développeur FullStack avec Next 15 React 19](https://www.youtube.com/watch?v=M6GtgwnNekY)
 - [Les concepts de développeurs fullstack à connaitre](https://www.youtube.com/watch?v=YUHZPJbc8os)
 - [Entretiens développeur  fullstack](https://www.youtube.com/watch?v=38RuFwsuY64)
-- [La fin des devs Front-end autodidactes  ?](https://www.youtube.com/watch?v=WoKo_jLgKhM)
 <!-- YOUTUBE:END -->
 
 <details>
