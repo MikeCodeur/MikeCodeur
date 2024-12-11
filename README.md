@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [La fin du métier du développeur](https://www.mikecodeur.com/2024/12/11/la-fin-du-metier-du-developpeur/)
 - [Vente des formations en ligne](https://www.mikecodeur.com/2024/11/26/vente-des-formations-en-ligne/)
 - [Fake it until make it](https://www.mikecodeur.com/2024/11/22/fake-it-until-make-it/)
 - [Make Money En Ligne](https://www.mikecodeur.com/2024/11/20/make-money-en-ligne/)
 - [🔴 Live FAQ : Comment Devenir développeur FullStack avec Next 15 React 19](https://www.mikecodeur.com/2024/11/10/%f0%9f%94%b4-live-faq-comment-devenir-developpeur-fullstack-avec-next-15-react-19/)
-- [Les concepts de développeurs fullstack à connaitre](https://www.mikecodeur.com/2024/11/10/les-concepts-de-developpeurs-fullstack-a-connaitre/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
