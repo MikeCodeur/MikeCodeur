@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Les profils des développeurs demandés](https://www.youtube.com/watch?v=GKRdleQbj7E)
 - [Plateforme Thinking pour ne pas être Remplacé par une IA](https://www.youtube.com/watch?v=6LOZSDl5sk0)
 - [La fin du métier du développeur](https://www.youtube.com/watch?v=VYNMWfyhaSI)
 - [Vente des formations en ligne](https://www.youtube.com/watch?v=mjZk7JnJxlw)
 - [Fake it until make it](https://www.youtube.com/watch?v=KlAEKi9XIIc)
-- [Make Money En Ligne](https://www.youtube.com/watch?v=xH7XetXRtyk)
 <!-- YOUTUBE:END -->
 
 <details>
