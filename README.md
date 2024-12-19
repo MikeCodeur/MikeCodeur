@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Créer une Chaine Youtube ? Coder sans Tuto ? Vivre à Bali ? Chill QnA](https://www.youtube.com/watch?v=2sfU9SSnejs)
 - [Basculer du backend ou frontend au fullstack facilement](https://www.youtube.com/watch?v=6ySWBS342VM)
 - [Les profils des développeurs demandés](https://www.youtube.com/watch?v=GKRdleQbj7E)
 - [Plateforme Thinking pour ne pas être Remplacé par une IA](https://www.youtube.com/watch?v=6LOZSDl5sk0)
 - [La fin du métier du développeur](https://www.youtube.com/watch?v=VYNMWfyhaSI)
-- [Vente des formations en ligne](https://www.youtube.com/watch?v=mjZk7JnJxlw)
 <!-- YOUTUBE:END -->
 
 <details>
