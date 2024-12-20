@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Le développeur de demain](https://www.mikecodeur.com/2024/12/20/le-developpeur-de-demain/)
 - [Créer une Chaine Youtube ? Coder sans Tuto ? Vivre à Bali ? Chill QnA](https://www.mikecodeur.com/2024/12/19/creer-une-chaine-youtube-coder-sans-tuto-vivre-a-bali-chill-qna/)
 - [Basculer du backend ou frontend au fullstack facilement](https://www.mikecodeur.com/2024/12/18/basculer-du-backend-ou-frontend-au-fullstack-facilement/)
 - [Les profils des développeurs demandés](https://www.mikecodeur.com/2024/12/16/les-profils-des-developpeurs-demandes/)
 - [Plateforme Thinking pour ne pas être Remplacé par une IA](https://www.mikecodeur.com/2024/12/13/plateforme-thinking-pour-ne-pas-etre-remplace-par-une-ia/)
-- [La fin du métier du développeur](https://www.mikecodeur.com/2024/12/11/la-fin-du-metier-du-developpeur/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
