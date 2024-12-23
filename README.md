@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Je me suis trompé et l’IA va bien remplacer les Dev Front](https://www.youtube.com/watch?v=VemvQ_CYRLs)
 - [Le développeur de demain](https://www.youtube.com/watch?v=fDgiOKejKvg)
 - [Créer une Chaine Youtube ? Coder sans Tuto ? Vivre à Bali ? Chill QnA](https://www.youtube.com/watch?v=2sfU9SSnejs)
 - [Basculer du backend ou frontend au fullstack facilement](https://www.youtube.com/watch?v=6ySWBS342VM)
 - [Les profils des développeurs demandés](https://www.youtube.com/watch?v=GKRdleQbj7E)
-- [Plateforme Thinking pour ne pas être Remplacé par une IA](https://www.youtube.com/watch?v=6LOZSDl5sk0)
 <!-- YOUTUBE:END -->
 
 <details>
