@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Le coût d’apprentissage du code](https://www.mikecodeur.com/2025/01/06/le-cout-dapprentissage-du-code/)
 - [La réalité du travail demandé aux devs frontend au sein d’une entreprise](https://www.mikecodeur.com/2024/12/27/la-realite-du-travail-demande-aux-devs-frontend-au-sein-dune-entreprise/)
 - [Ça Bouchonne Autour des Devs FrontEnd](https://www.mikecodeur.com/2024/12/25/ca-bouchonne-autour-des-devs-frontend/)
 - [Je me suis trompé et l’IA va bien remplacer les Dev Front](https://www.mikecodeur.com/2024/12/23/je-me-suis-trompe-et-lia-va-bien-remplacer-les-dev-front/)
 - [Le développeur de demain](https://www.mikecodeur.com/2024/12/20/le-developpeur-de-demain/)
-- [Créer une Chaine Youtube ? Coder sans Tuto ? Vivre à Bali ? Chill QnA](https://www.mikecodeur.com/2024/12/19/creer-une-chaine-youtube-coder-sans-tuto-vivre-a-bali-chill-qna/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
