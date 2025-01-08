@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Meilleur plan pour le freelance](https://www.youtube.com/watch?v=Zf68DpGK2OQ)
 - [Le coût d’apprentissage du code](https://www.youtube.com/watch?v=lfQ7BZdzUKs)
 - [La réalité du travail demandé aux devs frontend au sein d’une entreprise](https://www.youtube.com/watch?v=rR4ZxQ3wJD4)
 - [Ça Bouchonne Autour des Devs FrontEnd](https://www.youtube.com/watch?v=qKzARBB3iTI)
 - [Je me suis trompé et l’IA va bien remplacer les Dev Front](https://www.youtube.com/watch?v=VemvQ_CYRLs)
-- [Le développeur de demain](https://www.youtube.com/watch?v=fDgiOKejKvg)
 <!-- YOUTUBE:END -->
 
 <details>
