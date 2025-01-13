@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Conseils et Mindset pour développeurs](https://www.mikecodeur.com/2025/01/13/conseils-et-mindset-pour-developpeurs/)
 - [Devenir un codeur digital nomade](https://www.mikecodeur.com/2025/01/10/devenir-un-codeur-digital-nomade/)
 - [Echecs et Réussites 2024 &lpar;et Objectifs 2025&rpar;](https://www.mikecodeur.com/2025/01/09/echecs-et-reussites-2024-et-objectifs-2025/)
 - [Meilleur plan pour le freelance](https://www.mikecodeur.com/2025/01/08/meilleur-plan-pour-le-freelance/)
 - [Le coût d’apprentissage du code](https://www.mikecodeur.com/2025/01/06/le-cout-dapprentissage-du-code/)
-- [La réalité du travail demandé aux devs frontend au sein d’une entreprise](https://www.mikecodeur.com/2024/12/27/la-realite-du-travail-demande-aux-devs-frontend-au-sein-dune-entreprise/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
