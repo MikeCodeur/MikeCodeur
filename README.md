@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Conseils et Mindset pour développeurs](https://www.youtube.com/watch?v=IfoJzt9vknE)
 - [Devenir un codeur digital nomade](https://www.youtube.com/watch?v=_69ofyq5l54)
 - [Echecs et Réussites 2024 &lpar;et Objectifs 2025&rpar;](https://www.youtube.com/watch?v=QjnzMAxjbLY)
 - [Meilleur plan pour le freelance](https://www.youtube.com/watch?v=Zf68DpGK2OQ)
 - [Le coût d’apprentissage du code](https://www.youtube.com/watch?v=lfQ7BZdzUKs)
-- [La réalité du travail demandé aux devs frontend au sein d’une entreprise](https://www.youtube.com/watch?v=rR4ZxQ3wJD4)
 <!-- YOUTUBE:END -->
 
 <details>
