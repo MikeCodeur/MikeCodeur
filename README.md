@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Apprendre à Coder avec l’IA en 2025 ! &lpar;Ne fais pas ces erreurs&rpar;](https://www.youtube.com/watch?v=LfiLhjv1k3o)
 - [Apprendre à Coder avec l’IA en 2025 ! &lpar;Ne fais pas ces erreurs&rpar;](https://www.youtube.com/watch?v=vgPDhdbDqfk)
 - [Conseils et Mindset pour développeurs](https://www.youtube.com/watch?v=IfoJzt9vknE)
 - [Devenir un codeur digital nomade](https://www.youtube.com/watch?v=_69ofyq5l54)
 - [Echecs et Réussites 2024 &lpar;et Objectifs 2025&rpar;](https://www.youtube.com/watch?v=QjnzMAxjbLY)
-- [Meilleur plan pour le freelance](https://www.youtube.com/watch?v=Zf68DpGK2OQ)
 <!-- YOUTUBE:END -->
 
 <details>
