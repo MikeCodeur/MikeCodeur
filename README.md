@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment Générer 10 000 € / Mois](https://www.mikecodeur.com/2025/01/21/comment-generer-10-000-e-mois/)
 - [Apprendre à Coder avec l’IA en 2025 ! &lpar;Ne fais pas ces erreurs&rpar;](https://www.mikecodeur.com/2025/01/18/apprendre-a-coder-avec-lia-en-2025-ne-fais-pas-ces-erreurs-2/)
 - [Apprendre à Coder avec l’IA en 2025 ! &lpar;Ne fais pas ces erreurs&rpar;](https://www.mikecodeur.com/2025/01/16/apprendre-a-coder-avec-lia-en-2025-ne-fais-pas-ces-erreurs/)
 - [Conseils et Mindset pour développeurs](https://www.mikecodeur.com/2025/01/13/conseils-et-mindset-pour-developpeurs/)
 - [Devenir un codeur digital nomade](https://www.mikecodeur.com/2025/01/10/devenir-un-codeur-digital-nomade/)
-- [Echecs et Réussites 2024 &lpar;et Objectifs 2025&rpar;](https://www.mikecodeur.com/2025/01/09/echecs-et-reussites-2024-et-objectifs-2025/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
