@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Ma Stack Technique 2025 : Next.js, Aceternety, Resend …](https://www.youtube.com/watch?v=dwEisBk5mN0)
 - [Ma Stack Technique 2025 : Next.js, Aceternety, Resend …](https://www.youtube.com/watch?v=yPvN6Ww13-U)
 - [Comment Générer 10 000 € / Mois](https://www.youtube.com/watch?v=9etcFc2sapE)
 - [Apprendre à Coder avec l’IA en 2025 ! &lpar;Ne fais pas ces erreurs&rpar;](https://www.youtube.com/watch?v=LfiLhjv1k3o)
 - [Apprendre à Coder avec l’IA en 2025 ! &lpar;Ne fais pas ces erreurs&rpar;](https://www.youtube.com/watch?v=vgPDhdbDqfk)
-- [Conseils et Mindset pour développeurs](https://www.youtube.com/watch?v=IfoJzt9vknE)
 <!-- YOUTUBE:END -->
 
 <details>
