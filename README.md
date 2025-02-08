@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Le Full Stack, toujours inaccessible malgré l’IA en 2025 ?](https://www.mikecodeur.com/2025/02/08/le-full-stack-toujours-inaccessible-malgre-lia-en-2025/)
 - [Pourquoi le Full-Stack explose en 2025 &lpar;Grâce à l’IA !&rpar;](https://www.mikecodeur.com/2025/02/06/pourquoi-le-full-stack-explose-en-2025-grace-a-lia/)
 - [Coder Vite ou Sale ?](https://www.mikecodeur.com/2025/02/01/coder-vite-ou-sale/)
 - [Coder Vite ou Propre ? L’erreur que font les développeurs](https://www.mikecodeur.com/2025/01/30/coder-vite-ou-propre-lerreur-que-font-les-developpeurs/)
 - [Ma Stack Technique 2025 : Next.js, Aceternety, Resend …](https://www.mikecodeur.com/2025/01/25/ma-stack-technique-2025-next-js-aceternety-resend-2/)
-- [Ma Stack Technique 2025 : Next.js, Aceternety, Resend …](https://www.mikecodeur.com/2025/01/23/ma-stack-technique-2025-next-js-aceternety-resend/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
