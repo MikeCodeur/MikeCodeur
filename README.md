@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Mon workflow ultime avec Cursor  &lpar;+ 5 hacks à connaître&rpar;](https://www.youtube.com/watch?v=06LoMXpnZF8)
 - [Le Full Stack, toujours inaccessible malgré l&#39;IA en 2025 ?](https://www.youtube.com/watch?v=pFgMxNHciK0)
 - [Pourquoi le Full-Stack explose en 2025 &lpar;Grâce à l&#39;IA !&rpar;](https://www.youtube.com/watch?v=0H0ZkV6fR-c)
 - [Coder Vite ou Sale ?](https://www.youtube.com/watch?v=p_8UIor_Vc8)
 - [Coder Vite ou Propre ? L’erreur que font les développeurs](https://www.youtube.com/watch?v=nUvPbuWQhrs)
-- [Ma Stack Technique 2025 : Next.js, Aceternety, Resend …](https://www.youtube.com/watch?v=yPvN6Ww13-U)
 <!-- YOUTUBE:END -->
 
 <details>
