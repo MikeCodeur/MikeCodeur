@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Cursor Rules : Ce Que tu dois Absolument Savoir !](https://www.mikecodeur.com/2025/02/13/cursor-rules-ce-que-tu-dois-absolument-savoir/)
 - [Mon workflow ultime avec Cursor  &lpar;+ 5 hacks à connaître&rpar;](https://www.mikecodeur.com/2025/02/11/mon-workflow-ultime-avec-cursor-5-hacks-a-connaitre/)
 - [Le Full Stack, toujours inaccessible malgré l’IA en 2025 ?](https://www.mikecodeur.com/2025/02/08/le-full-stack-toujours-inaccessible-malgre-lia-en-2025/)
 - [Pourquoi le Full-Stack explose en 2025 &lpar;Grâce à l’IA !&rpar;](https://www.mikecodeur.com/2025/02/06/pourquoi-le-full-stack-explose-en-2025-grace-a-lia/)
 - [Coder Vite ou Sale ?](https://www.mikecodeur.com/2025/02/01/coder-vite-ou-sale/)
-- [Coder Vite ou Propre ? L’erreur que font les développeurs](https://www.mikecodeur.com/2025/01/30/coder-vite-ou-propre-lerreur-que-font-les-developpeurs/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
