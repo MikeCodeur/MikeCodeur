@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Ton workflow sur Cursor te fait perdre du temps](https://www.youtube.com/watch?v=Im8tHC2aHdg)
 - [Cursor Rules : comment Cadrer l’IA correctement ?](https://www.youtube.com/watch?v=Fqd1Gt2Ytos)
 - [Mon workflow ultime avec Cursor  &lpar;+ 5 hacks à connaître&rpar;](https://www.youtube.com/watch?v=06LoMXpnZF8)
 - [Le Full Stack, toujours inaccessible malgré l&#39;IA en 2025 ?](https://www.youtube.com/watch?v=pFgMxNHciK0)
 - [Pourquoi le Full-Stack explose en 2025 &lpar;Grâce à l&#39;IA !&rpar;](https://www.youtube.com/watch?v=0H0ZkV6fR-c)
-- [Coder Vite ou Sale ?](https://www.youtube.com/watch?v=p_8UIor_Vc8)
 <!-- YOUTUBE:END -->
 
 <details>
