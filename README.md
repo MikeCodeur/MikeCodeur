@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Coder un SaaS ? Mauvaise idée ! Voici pourquoi...](https://www.youtube.com/watch?v=Ozpt74mhsxQ)
 - [Préparer tes propres règles dans CURSOR](https://www.youtube.com/watch?v=GCjJoYJ1ViE)
 - [🔥 10 Étapes Incontournables pour une Page de Vente qui Convertit ! &lpar;Formations, SaaS...&rpar;](https://www.youtube.com/watch?v=Vy2rbkFgxOI)
 - [Comment Créer une Page de Vente ? &lpar;10 étapes - Formations, SAAS ...&rpar;](https://www.youtube.com/watch?v=8CFPQYYHWZQ)
 - [Ton workflow sur Cursor te fait perdre du temps](https://www.youtube.com/watch?v=Im8tHC2aHdg)
-- [Cursor Rules : comment Cadrer l’IA correctement ?](https://www.youtube.com/watch?v=Fqd1Gt2Ytos)
 <!-- YOUTUBE:END -->
 
 <details>
