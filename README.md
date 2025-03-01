@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Développeur ? T’es pas libre et tu le sais… Voilà comment t’échapper !!](https://www.mikecodeur.com/2025/03/01/developpeur-tes-pas-libre-et-tu-le-sais-voila-comment-techapper/)
 - [Coder un SaaS ? Mauvaise idée ! Voici pourquoi…](https://www.mikecodeur.com/2025/02/27/coder-un-saas-mauvaise-idee-voici-pourquoi/)
 - [Préparer tes propres règles dans CURSOR](https://www.mikecodeur.com/2025/02/24/preparer-tes-propres-regles-dans-cursor/)
 - [🔥 10 Étapes Incontournables pour une Page de Vente qui Convertit ! &lpar;Formations, SaaS…&rpar;](https://www.mikecodeur.com/2025/02/22/%f0%9f%94%a5-10-etapes-incontournables-pour-une-page-de-vente-qui-convertit-formations-saas/)
 - [Comment Créer une Page de Vente ? &lpar;10 étapes – Formations, SAAS …&rpar;](https://www.mikecodeur.com/2025/02/20/comment-creer-une-page-de-vente-10-etapes-formations-saas/)
-- [Ton workflow sur Cursor te fait perdre du temps](https://www.mikecodeur.com/2025/02/15/ton-workflow-sur-cursor-te-fait-perdre-du-temps/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
