@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Faut-il Créer du Contenu quand on est Développeur ?](https://www.youtube.com/watch?v=dxLRQPECneU)
 - [Développeur : Deviens libre et quitte ton pays ! 🌍💻](https://www.youtube.com/watch?v=7ltUfVB-35Q)
 - [Développeur ? T’es pas libre et tu le sais… Voilà comment t’échapper !!](https://www.youtube.com/watch?v=Z6etFx6GIlk)
 - [Coder un SaaS ? Mauvaise idée ! Voici pourquoi...](https://www.youtube.com/watch?v=Ozpt74mhsxQ)
 - [Préparer tes propres règles dans CURSOR](https://www.youtube.com/watch?v=GCjJoYJ1ViE)
-- [🔥 10 Étapes Incontournables pour une Page de Vente qui Convertit ! &lpar;Formations, SaaS...&rpar;](https://www.youtube.com/watch?v=Vy2rbkFgxOI)
 <!-- YOUTUBE:END -->
 
 <details>
