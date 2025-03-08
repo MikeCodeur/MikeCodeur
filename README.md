@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sans contenu, pas de clients pour les développeurs ! 🚨](https://www.mikecodeur.com/2025/03/08/sans-contenu-pas-de-clients-pour-les-developpeurs-%f0%9f%9a%a8/)
 - [Faut-il Créer du Contenu quand on est Développeur ?](https://www.mikecodeur.com/2025/03/06/faut-il-creer-du-contenu-quand-on-est-developpeur/)
 - [Développeur : Deviens libre et quitte ton pays ! 🌍💻](https://www.mikecodeur.com/2025/03/03/developpeur-deviens-libre-et-quitte-ton-pays-%f0%9f%8c%8d%f0%9f%92%bb/)
 - [Développeur ? T’es pas libre et tu le sais… Voilà comment t’échapper !!](https://www.mikecodeur.com/2025/03/01/developpeur-tes-pas-libre-et-tu-le-sais-voila-comment-techapper/)
 - [Coder un SaaS ? Mauvaise idée ! Voici pourquoi…](https://www.mikecodeur.com/2025/02/27/coder-un-saas-mauvaise-idee-voici-pourquoi/)
-- [Préparer tes propres règles dans CURSOR](https://www.mikecodeur.com/2025/02/24/preparer-tes-propres-regles-dans-cursor/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
