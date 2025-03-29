@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [💰 Les développeurs ratent de l&#39;argent à cause de ça ! 🔥 Feat. Ramzi ₿](https://www.youtube.com/watch?v=-auXv4_9Jvg)
 - [Code ou Marketing ? Freelancing, Cold call, IA! Feat.  Ramzi ₿](https://www.youtube.com/watch?v=r00rNWI7G0c)
 - [24H Dans La Peau D’Un Entrepreneur](https://www.youtube.com/watch?v=bZ9bbQdBUJQ)
 - [24H Dans Ma Vie d’Entrepreneur Dev &amp; Investisseur Immo à Bali](https://www.youtube.com/watch?v=88fhN3JEXsY)
 - [🔥 Devenir millionnaire grâce à la vente de formations en ligne ! 💰🚀](https://www.youtube.com/watch?v=KkT9g4RCi0U)
-- [Comment Je Suis Devenu Millionnaire en Ligne Grâce au Code  &lpar;Sans SaaS&rpar; ?](https://www.youtube.com/watch?v=A3SWnUZ7el8)
 <!-- YOUTUBE:END -->
 
 <details>
