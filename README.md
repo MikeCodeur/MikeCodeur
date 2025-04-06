@@ -85,8 +85,8 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#488](https://github.com/hashicorp/next-mdx-remote/issues/488#issuecomment-2708027936) in [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote)
-2. 🔒 Closed issue [#1](https://github.com/MikeCodeur/next-authentication/issues/1) in [MikeCodeur/next-authentication](https://github.com/MikeCodeur/next-authentication)
+1. 🗣 Commented on [#20](https://github.com/MikeCodeur/react-prerequis-debutants/issues/20#issuecomment-2774508570) in [MikeCodeur/react-prerequis-debutants](https://github.com/MikeCodeur/react-prerequis-debutants)
+2. 🗣 Commented on [#488](https://github.com/hashicorp/next-mdx-remote/issues/488#issuecomment-2708027936) in [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote)
 3. 🗣 Commented on [#2](https://github.com/MikeCodeur/typescript-expert/issues/2#issuecomment-2224266212) in [MikeCodeur/typescript-expert](https://github.com/MikeCodeur/typescript-expert)
 4. 🗣 Commented on [#8](https://github.com/MikeCodeur/react-testing/issues/8#issuecomment-2219232858) in [MikeCodeur/react-testing](https://github.com/MikeCodeur/react-testing)
 5. 🗣 Commented on [#1](https://github.com/MikeCodeur/typescript-expert/issues/1#issuecomment-2219188953) in [MikeCodeur/typescript-expert](https://github.com/MikeCodeur/typescript-expert)
