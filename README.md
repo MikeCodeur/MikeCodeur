@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Je Code un SAAS en 48h &lpar;tout en voyageant&rpar;](https://www.mikecodeur.com/2025/04/10/je-code-un-saas-en-48h-tout-en-voyageant/)
 - [Levée de fonds, San Francisco – Interview de Thomas &lpar;CTO Podspace / Spread&rpar;](https://www.mikecodeur.com/2025/04/03/levee-de-fonds-san-francisco-interview-de-thomas-cto-podspace-spread/)
 - [💰 Les développeurs ratent de l’argent à cause de ça ! 🔥 Feat. Ramzi ₿](https://www.mikecodeur.com/2025/03/29/%f0%9f%92%b0-les-developpeurs-ratent-de-largent-a-cause-de-ca-%f0%9f%94%a5-feat-ramzi-%e2%82%bf/)
 - [Code ou Marketing ? Freelancing, Cold call, IA! Feat.  Ramzi ₿](https://www.mikecodeur.com/2025/03/27/code-ou-marketing-freelancing-cold-call-ia-feat-ramzi-%e2%82%bf/)
 - [24H Dans La Peau D’Un Entrepreneur](https://www.mikecodeur.com/2025/03/22/24h-dans-la-peau-dun-entrepreneur/)
-- [24H Dans Ma Vie d’Entrepreneur Dev &amp; Investisseur Immo à Bali](https://www.mikecodeur.com/2025/03/20/24h-dans-ma-vie-dentrepreneur-dev-investisseur-immo-a-bali/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
