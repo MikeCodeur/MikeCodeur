@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Un laptop. Une valise. Et un SAAS en 48h.](https://www.youtube.com/watch?v=nzrygFKZudY)
 - [Je Code un SAAS en 48h &lpar;tout en voyageant&rpar;](https://www.youtube.com/watch?v=rrhJ8s9pUTg)
 - [L’envers du décor des levées de fonds ! 💰🚀 &lpar;avec Thomas, CTO Podspace / Spread&rpar;](https://www.youtube.com/watch?v=4fSuhhRbCno)
 - [Levée de fonds, San Francisco – Interview de Thomas &lpar;CTO Podspace / Spread&rpar;](https://www.youtube.com/watch?v=UpmAj0FkI_Q)
 - [💰 Les développeurs ratent de l&#39;argent à cause de ça ! 🔥 Feat. Ramzi ₿](https://www.youtube.com/watch?v=-auXv4_9Jvg)
-- [Code ou Marketing ? Freelancing, Cold call, IA! Feat.  Ramzi ₿](https://www.youtube.com/watch?v=r00rNWI7G0c)
 <!-- YOUTUBE:END -->
 
 <details>
