@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Chill And QnA + Réponse Drama](https://www.mikecodeur.com/2025/04/22/chill-and-qna-reponse-drama/)
+- [FAQ](https://www.mikecodeur.com/2025/04/22/faq/)
 - [Les Devs sont FOUTUS ? 💀 &lpar;feat. Alex Soyer&rpar;](https://www.mikecodeur.com/2025/04/19/les-devs-sont-foutus-%f0%9f%92%80-feat-alex-soyer/)
 - [La Fin des Devs à Cause de l’IA ? Feat . Alex Soyer](https://www.mikecodeur.com/2025/04/17/la-fin-des-devs-a-cause-de-lia-feat-alex-soyer/)
 - [Un laptop. Une valise. Et un SAAS en 48h.](https://www.mikecodeur.com/2025/04/12/un-laptop-une-valise-et-un-saas-en-48h/)
-- [Je Code un SAAS en 48h &lpar;tout en voyageant&rpar;](https://www.mikecodeur.com/2025/04/10/je-code-un-saas-en-48h-tout-en-voyageant/)
-- [Levée de fonds, San Francisco – Interview de Thomas &lpar;CTO Podspace / Spread&rpar;](https://www.mikecodeur.com/2025/04/03/levee-de-fonds-san-francisco-interview-de-thomas-cto-podspace-spread/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
