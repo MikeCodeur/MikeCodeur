@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [À Quoi Ça sert D&#39;apprendre Le Code ? Chill And QnA](https://www.youtube.com/watch?v=YJIMYfdlLMY)
 - [Les Devs sont FOUTUS ? 💀 &lpar;feat. Alex Soyer&rpar;](https://www.youtube.com/watch?v=0EnYiKbbPrA)
 - [La Fin des Devs à Cause de l’IA ? Feat . Alex Soyer](https://www.youtube.com/watch?v=tDle6EXyKrY)
 - [Un laptop. Une valise. Et un SAAS en 48h.](https://www.youtube.com/watch?v=nzrygFKZudY)
 - [Je Code un SAAS en 48h &lpar;tout en voyageant&rpar;](https://www.youtube.com/watch?v=rrhJ8s9pUTg)
-- [L’envers du décor des levées de fonds ! 💰🚀 &lpar;avec Thomas, CTO Podspace / Spread&rpar;](https://www.youtube.com/watch?v=4fSuhhRbCno)
 <!-- YOUTUBE:END -->
 
 <details>
