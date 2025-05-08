@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [C’est quoi le Vibe Coding ? &lpar;et le Vibe Clean Code ?&rpar;](https://www.mikecodeur.com/2025/05/08/cest-quoi-le-vibe-coding-et-le-vibe-clean-code/)
 - [À Quoi Ça sert D’apprendre Le Code ? Chill And QnA](https://www.mikecodeur.com/2025/05/01/a-quoi-ca-sert-dapprendre-le-code-chill-and-qna/)
 - [Chill And QnA + Réponse Drama](https://www.mikecodeur.com/2025/04/22/chill-and-qna-reponse-drama/)
 - [FAQ](https://www.mikecodeur.com/2025/04/22/faq/)
 - [Les Devs sont FOUTUS ? 💀 &lpar;feat. Alex Soyer&rpar;](https://www.mikecodeur.com/2025/04/19/les-devs-sont-foutus-%f0%9f%92%80-feat-alex-soyer/)
-- [La Fin des Devs à Cause de l’IA ? Feat . Alex Soyer](https://www.mikecodeur.com/2025/04/17/la-fin-des-devs-a-cause-de-lia-feat-alex-soyer/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
