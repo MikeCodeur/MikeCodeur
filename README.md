@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Atteindre les 200k abonnés ! Formations, Partenariats, IA ! Feat. Quentin – Développeur Libre](https://www.mikecodeur.com/2025/05/15/atteindre-les-200k-abonnes-formations-partenariats-ia-feat-quentin-developpeur-libre/)
 - [🔥 Vibe Coding : la mode qui détruit ton code !](https://www.mikecodeur.com/2025/05/13/%f0%9f%94%a5-vibe-coding-la-mode-qui-detruit-ton-code/)
 - [C’est quoi le Vibe Coding ? &lpar;et le Vibe Clean Code ?&rpar;](https://www.mikecodeur.com/2025/05/08/cest-quoi-le-vibe-coding-et-le-vibe-clean-code/)
 - [À Quoi Ça sert D’apprendre Le Code ? Chill And QnA](https://www.mikecodeur.com/2025/05/01/a-quoi-ca-sert-dapprendre-le-code-chill-and-qna/)
 - [Chill And QnA + Réponse Drama](https://www.mikecodeur.com/2025/04/22/chill-and-qna-reponse-drama/)
-- [FAQ](https://www.mikecodeur.com/2025/04/22/faq/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
