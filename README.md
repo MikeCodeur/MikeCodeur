@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [La fin des Formations en Ligne !](https://www.youtube.com/watch?v=DUby00tqiH4)
 - [💥Tout le monde code, mais peu sont développeurs](https://www.youtube.com/watch?v=c0Dn3_Ry2Lg)
 - [Créer du contenu, 200K abonnés… mais à quel prix ?](https://www.youtube.com/watch?v=pR9RTCVl0FU)
 - [Atteindre les 200k abonnés ! Formations, Partenariats, IA ! Feat. Quentin - Développeur Libre](https://www.youtube.com/watch?v=V4aTWxcYydA)
 - [🔥 Vibe Coding : la mode qui détruit ton code !](https://www.youtube.com/watch?v=Q3tgAkg2z9E)
-- [Qu&#39;est ce que le Vibe Coding ? &lpar;et le Vibe Clean Code ?&rpar;](https://www.youtube.com/watch?v=WAh6paM4GqI)
 <!-- YOUTUBE:END -->
 
 <details>
