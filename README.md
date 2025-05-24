@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Les formateurs ne vont pas aimer cette vidéo…](https://www.mikecodeur.com/2025/05/24/les-formateurs-ne-vont-pas-aimer-cette-video/)
 - [La fin des Formations en Ligne !](https://www.mikecodeur.com/2025/05/22/la-fin-des-formations-en-ligne/)
 - [💥Tout le monde code, mais peu sont développeurs](https://www.mikecodeur.com/2025/05/20/%f0%9f%92%a5tout-le-monde-code-mais-peu-sont-developpeurs/)
 - [Créer du contenu, 200K abonnés… mais à quel prix ?](https://www.mikecodeur.com/2025/05/17/creer-du-contenu-200k-abonnes-mais-a-quel-prix/)
 - [Atteindre les 200k abonnés ! Formations, Partenariats, IA ! Feat. Quentin – Développeur Libre](https://www.mikecodeur.com/2025/05/15/atteindre-les-200k-abonnes-formations-partenariats-ia-feat-quentin-developpeur-libre/)
-- [🔥 Vibe Coding : la mode qui détruit ton code !](https://www.mikecodeur.com/2025/05/13/%f0%9f%94%a5-vibe-coding-la-mode-qui-detruit-ton-code/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
