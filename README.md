@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [LinkedIn : 1 post, 100 000 vues](https://www.youtube.com/watch?v=wg-r-4Fzoaw)
 - [Les formateurs ne vont pas aimer cette vidéo…](https://www.youtube.com/watch?v=Z2GnysT4CRs)
 - [La fin des Formations en Ligne !](https://www.youtube.com/watch?v=DUby00tqiH4)
 - [💥Tout le monde code, mais peu sont développeurs](https://www.youtube.com/watch?v=c0Dn3_Ry2Lg)
 - [Créer du contenu, 200K abonnés… mais à quel prix ?](https://www.youtube.com/watch?v=pR9RTCVl0FU)
-- [Atteindre les 200k abonnés ! Formations, Partenariats, IA ! Feat. Quentin - Développeur Libre](https://www.youtube.com/watch?v=V4aTWxcYydA)
 <!-- YOUTUBE:END -->
 
 <details>
