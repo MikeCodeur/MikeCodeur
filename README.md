@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [React vs Next.js : le match décisif](https://www.mikecodeur.com/2025/05/31/react-vs-next-js-le-match-decisif/)
 - [React vs Next.js &lpar;2025&rpar; – La vraie différence](https://www.mikecodeur.com/2025/05/29/react-vs-next-js-2025-la-vraie-difference/)
 - [LinkedIn : 1 post, 100 000 vues](https://www.mikecodeur.com/2025/05/26/linkedin-1-post-100-000-vues/)
 - [Les formateurs ne vont pas aimer cette vidéo…](https://www.mikecodeur.com/2025/05/24/les-formateurs-ne-vont-pas-aimer-cette-video/)
 - [La fin des Formations en Ligne !](https://www.mikecodeur.com/2025/05/22/la-fin-des-formations-en-ligne/)
-- [💥Tout le monde code, mais peu sont développeurs](https://www.mikecodeur.com/2025/05/20/%f0%9f%92%a5tout-le-monde-code-mais-peu-sont-developpeurs/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
