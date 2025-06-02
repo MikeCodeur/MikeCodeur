@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Développeurs : préparez-vous, l’IA arrive fort](https://www.youtube.com/watch?v=Y-w-e_w6dik)
 - [React vs Next.js : le match décisif](https://www.youtube.com/watch?v=bNP5hMTyhW8)
 - [React vs Next.js &lpar;2025&rpar; – La vraie différence](https://www.youtube.com/watch?v=zv68hGGv0IU)
 - [LinkedIn : 1 post, 100 000 vues](https://www.youtube.com/watch?v=wg-r-4Fzoaw)
 - [Les formateurs ne vont pas aimer cette vidéo…](https://www.youtube.com/watch?v=Z2GnysT4CRs)
-- [La fin des Formations en Ligne !](https://www.youtube.com/watch?v=DUby00tqiH4)
 <!-- YOUTUBE:END -->
 
 <details>
