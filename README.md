@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Next.js est-il vraiment un framework ? 😮🔥](https://www.youtube.com/watch?v=9C7JG1RGtwI)
 - [Next.js n&#39;est pas un Framework Fullstack](https://www.youtube.com/watch?v=uva5LxIeTHg)
 - [Développeurs : préparez-vous, l’IA arrive fort](https://www.youtube.com/watch?v=Y-w-e_w6dik)
 - [React vs Next.js : le match décisif](https://www.youtube.com/watch?v=bNP5hMTyhW8)
 - [React vs Next.js &lpar;2025&rpar; – La vraie différence](https://www.youtube.com/watch?v=zv68hGGv0IU)
-- [LinkedIn : 1 post, 100 000 vues](https://www.youtube.com/watch?v=wg-r-4Fzoaw)
 <!-- YOUTUBE:END -->
 
 <details>
