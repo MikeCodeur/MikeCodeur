@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [😱 Ils codent… sans savoir coder !](https://www.mikecodeur.com/2025/06/16/%f0%9f%98%b1-ils-codent-sans-savoir-coder/)
 - [L’IA code plus vite que toi. La preuve en 30 sec](https://www.mikecodeur.com/2025/06/09/lia-code-plus-vite-que-toi-la-preuve-en-30-sec/)
 - [Next.js est-il vraiment un framework ? 😮🔥](https://www.mikecodeur.com/2025/06/07/next-js-est-il-vraiment-un-framework-%f0%9f%98%ae%f0%9f%94%a5/)
 - [Next.js n’est pas un Framework Fullstack](https://www.mikecodeur.com/2025/06/05/next-js-nest-pas-un-framework-fullstack/)
 - [Développeurs : préparez-vous, l’IA arrive fort](https://www.mikecodeur.com/2025/06/02/developpeurs-preparez-vous-lia-arrive-fort/)
-- [React vs Next.js : le match décisif](https://www.mikecodeur.com/2025/05/31/react-vs-next-js-le-match-decisif/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
