@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [J&#39;arrête Tout ! Et je repars de zéro !](https://www.youtube.com/watch?v=emcHUL3qj5A)
 - [😱 Ils codent… sans savoir coder !](https://www.youtube.com/watch?v=SxvfR_vObd0)
 - [L’IA code plus vite que toi. La preuve en 30 sec](https://www.youtube.com/shorts/gAnL2usYu0E)
 - [Next.js est-il vraiment un framework fullstack ? 😮🔥](https://www.youtube.com/watch?v=9C7JG1RGtwI)
 - [Next.js n&#39;est pas un Framework Fullstack](https://www.youtube.com/watch?v=uva5LxIeTHg)
-- [Développeurs : préparez-vous, l’IA arrive fort](https://www.youtube.com/watch?v=Y-w-e_w6dik)
 <!-- YOUTUBE:END -->
 
 <details>
