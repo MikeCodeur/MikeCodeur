@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [📌Code moins, pense plus : ta productivité va exploser](https://www.mikecodeur.com/2025/06/23/%f0%9f%93%8ccode-moins-pense-plus-ta-productivite-va-exploser/)
 - [La vérité sur mon burn-out créatif](https://www.mikecodeur.com/2025/06/21/la-verite-sur-mon-burn-out-creatif/)
 - [J’arrête Tout ! Et je repars de zéro !](https://www.mikecodeur.com/2025/06/19/jarrete-tout-et-je-repars-de-zero/)
 - [😱 Ils codent… sans savoir coder !](https://www.mikecodeur.com/2025/06/16/%f0%9f%98%b1-ils-codent-sans-savoir-coder/)
 - [L’IA code plus vite que toi. La preuve en 30 sec](https://www.mikecodeur.com/2025/06/09/lia-code-plus-vite-que-toi-la-preuve-en-30-sec/)
-- [Next.js est-il vraiment un framework ? 😮🔥](https://www.mikecodeur.com/2025/06/07/next-js-est-il-vraiment-un-framework-%f0%9f%98%ae%f0%9f%94%a5/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
