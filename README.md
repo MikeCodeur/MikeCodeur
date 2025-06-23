@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [📌Code moins, pense plus : ta productivité va exploser](https://www.youtube.com/shorts/JwfWBtwiOjU)
 - [La vérité sur mon burn-out créatif](https://www.youtube.com/shorts/qY7Ev6KgSo8)
 - [J&#39;arrête Tout ! Et je repars de zéro !](https://www.youtube.com/watch?v=emcHUL3qj5A)
 - [😱 Ils codent… sans savoir coder !](https://www.youtube.com/shorts/SxvfR_vObd0)
 - [L’IA code plus vite que toi. La preuve en 30 sec](https://www.youtube.com/shorts/gAnL2usYu0E)
-- [Next.js est-il vraiment un framework fullstack ? 😮🔥](https://www.youtube.com/shorts/9C7JG1RGtwI)
 <!-- YOUTUBE:END -->
 
 <details>
