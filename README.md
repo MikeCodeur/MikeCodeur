@@ -85,10 +85,10 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/MikeCodeur/react-prerequis-debutants/issues/20#issuecomment-2774508570) in [MikeCodeur/react-prerequis-debutants](https://github.com/MikeCodeur/react-prerequis-debutants)
-2. 🗣 Commented on [#488](https://github.com/hashicorp/next-mdx-remote/issues/488#issuecomment-2708027936) in [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote)
-3. 🗣 Commented on [#2](https://github.com/MikeCodeur/typescript-expert/issues/2#issuecomment-2224266212) in [MikeCodeur/typescript-expert](https://github.com/MikeCodeur/typescript-expert)
-4. 🗣 Commented on [#8](https://github.com/MikeCodeur/react-testing/issues/8#issuecomment-2219232858) in [MikeCodeur/react-testing](https://github.com/MikeCodeur/react-testing)
+1. ❗ Opened issue [#3236](https://github.com/better-auth/better-auth/issues/3236) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. ❗ Opened issue [#3235](https://github.com/better-auth/better-auth/issues/3235) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. 🗣 Commented on [#3189](https://github.com/better-auth/better-auth/issues/3189#issuecomment-3022389779) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. ❗ Opened issue [#3233](https://github.com/better-auth/better-auth/issues/3233) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 5. 🗣 Commented on [#1](https://github.com/MikeCodeur/typescript-expert/issues/1#issuecomment-2219188953) in [MikeCodeur/typescript-expert](https://github.com/MikeCodeur/typescript-expert)
 <!--END_SECTION:activity-->
 
