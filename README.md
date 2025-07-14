@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Faire une pause …](https://www.youtube.com/watch?v=7OVTrIIIOR0)
 - [Même avec l’IA… c’est toujours VS Code](https://www.youtube.com/shorts/Ysnr_nOAHz8)
 - [📌Code moins, pense plus : ta productivité va exploser](https://www.youtube.com/shorts/JwfWBtwiOjU)
 - [La vérité sur mon burn-out créatif](https://www.youtube.com/shorts/qY7Ev6KgSo8)
 - [J&#39;arrête Tout ! Et je repars de zéro !](https://www.youtube.com/watch?v=emcHUL3qj5A)
-- [😱 Ils codent… sans savoir coder !](https://www.youtube.com/shorts/SxvfR_vObd0)
 <!-- YOUTUBE:END -->
 
 <details>
