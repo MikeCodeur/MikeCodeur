@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [2 Stratégies pour faire un SAAS](https://www.mikecodeur.com/2025/07/17/2-strategies-pour-faire-un-saas/)
 - [Faire une pause …](https://www.mikecodeur.com/2025/07/14/faire-une-pause/)
 - [Même avec l’IA… c’est toujours VS Code](https://www.mikecodeur.com/2025/06/30/meme-avec-lia-cest-toujours-vs-code/)
 - [📌Code moins, pense plus : ta productivité va exploser](https://www.mikecodeur.com/2025/06/23/%f0%9f%93%8ccode-moins-pense-plus-ta-productivite-va-exploser/)
 - [La vérité sur mon burn-out créatif](https://www.mikecodeur.com/2025/06/21/la-verite-sur-mon-burn-out-creatif/)
-- [J’arrête Tout ! Et je repars de zéro !](https://www.mikecodeur.com/2025/06/19/jarrete-tout-et-je-repars-de-zero/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
