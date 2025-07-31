@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Arrête les outils d’IA sur LinkedIn](https://www.mikecodeur.com/2025/07/31/arrete-les-outils-dia-sur-linkedin/)
 - [Je suis un Vilain marketer](https://www.mikecodeur.com/2025/07/24/je-suis-un-vilain-marketer/)
 - [Coder sa plateforme de formation](https://www.mikecodeur.com/2025/07/20/coder-sa-plateforme-de-formation/)
 - [2 Stratégies pour faire un SAAS](https://www.mikecodeur.com/2025/07/17/2-strategies-pour-faire-un-saas/)
 - [Faire une pause …](https://www.mikecodeur.com/2025/07/14/faire-une-pause/)
-- [Même avec l’IA… c’est toujours VS Code](https://www.mikecodeur.com/2025/06/30/meme-avec-lia-cest-toujours-vs-code/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
