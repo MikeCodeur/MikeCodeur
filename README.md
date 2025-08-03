@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Je suis millionnaire &lpar;pauvre&rpar;](https://www.youtube.com/watch?v=edRJpiEWiCE)
 - [Arrête les outils d’IA sur LinkedIn](https://www.youtube.com/watch?v=vIAnTKWbpqs)
 - [Je suis un Vilain marketer](https://www.youtube.com/watch?v=zWAbFOMIkjc)
 - [Coder sa plateforme de formation](https://www.youtube.com/watch?v=rqIeLzwf15g)
 - [2 Stratégies pour faire un SAAS](https://www.youtube.com/watch?v=RAhpXBwh27M)
-- [Faire une pause …](https://www.youtube.com/watch?v=7OVTrIIIOR0)
 <!-- YOUTUBE:END -->
 
 <details>
