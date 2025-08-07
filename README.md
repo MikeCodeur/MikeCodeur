@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Les mauvaises manières de réseauter](https://www.youtube.com/watch?v=rT7WE1xMPW8)
 - [Je suis millionnaire &lpar;pauvre&rpar;](https://www.youtube.com/watch?v=edRJpiEWiCE)
 - [Arrête les outils d’IA sur LinkedIn](https://www.youtube.com/watch?v=vIAnTKWbpqs)
 - [Je suis un Vilain marketer](https://www.youtube.com/watch?v=zWAbFOMIkjc)
 - [Coder sa plateforme de formation](https://www.youtube.com/watch?v=rqIeLzwf15g)
-- [2 Stratégies pour faire un SAAS](https://www.youtube.com/watch?v=RAhpXBwh27M)
 <!-- YOUTUBE:END -->
 
 <details>
