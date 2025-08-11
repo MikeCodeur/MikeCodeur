@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Les 4 facettes d’un bon développeur](https://www.youtube.com/watch?v=gT1LM4Xp9rc)
 - [Les mauvaises manières de réseauter](https://www.youtube.com/watch?v=rT7WE1xMPW8)
 - [Je suis millionnaire &lpar;pauvre&rpar;](https://www.youtube.com/watch?v=edRJpiEWiCE)
 - [Arrête les outils d’IA sur LinkedIn](https://www.youtube.com/watch?v=vIAnTKWbpqs)
 - [Je suis un Vilain marketer](https://www.youtube.com/watch?v=zWAbFOMIkjc)
-- [Coder sa plateforme de formation](https://www.youtube.com/watch?v=rqIeLzwf15g)
 <!-- YOUTUBE:END -->
 
 <details>
