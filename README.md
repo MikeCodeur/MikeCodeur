@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Evite les clients pauvres](https://www.mikecodeur.com/2025/08/17/evite-les-clients-pauvres/)
 - [Bali est surcoté ?](https://www.mikecodeur.com/2025/08/14/bali-est-surcote/)
 - [Les 4 facettes d’un bon développeur](https://www.mikecodeur.com/2025/08/11/les-4-facettes-dun-bon-developpeur/)
 - [Les mauvaises manières de réseauter](https://www.mikecodeur.com/2025/08/07/les-mauvaises-manieres-de-reseauter/)
 - [Je suis millionnaire &lpar;pauvre&rpar;](https://www.mikecodeur.com/2025/08/03/je-suis-millionnaire-pauvre/)
-- [Arrête les outils d’IA sur LinkedIn](https://www.mikecodeur.com/2025/07/31/arrete-les-outils-dia-sur-linkedin/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
