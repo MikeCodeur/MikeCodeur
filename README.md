@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Evite les clients pauvres](https://www.youtube.com/watch?v=cpYMm3TCoI0)
 - [Bali est surcoté ?](https://www.youtube.com/watch?v=3I5BiYlDWSY)
 - [Les 4 facettes d’un bon développeur](https://www.youtube.com/watch?v=gT1LM4Xp9rc)
 - [Les mauvaises manières de réseauter](https://www.youtube.com/watch?v=rT7WE1xMPW8)
 - [Je suis millionnaire &lpar;pauvre&rpar;](https://www.youtube.com/watch?v=edRJpiEWiCE)
-- [Arrête les outils d’IA sur LinkedIn](https://www.youtube.com/watch?v=vIAnTKWbpqs)
 <!-- YOUTUBE:END -->
 
 <details>
