@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Quelle architecture pour un SaaS en 2025 ? &lpar;Monolith, Microservices, BaaS&rpar;](https://www.youtube.com/watch?v=CWMeL_zx74Y)
 - [Pourquoi j’ai arrêté YouTube… &lpar;et pourquoi je reviens&rpar;](https://www.youtube.com/watch?v=-DeX2SeGktY)
 - [Les raisons de ne pas s’expatrier](https://www.youtube.com/watch?v=qLrTrWNMkOg)
 - [Evite les clients pauvres](https://www.youtube.com/watch?v=cpYMm3TCoI0)
 - [Bali est surcoté ?](https://www.youtube.com/watch?v=3I5BiYlDWSY)
-- [Les 4 facettes d’un bon développeur](https://www.youtube.com/watch?v=gT1LM4Xp9rc)
 <!-- YOUTUBE:END -->
 
 <details>
