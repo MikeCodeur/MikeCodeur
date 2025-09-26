@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [SAAS + IA = Liberté !](https://www.mikecodeur.com/2025/09/26/saas-ia-liberte/)
 - [Les modules essentiels d’un SaaS](https://www.mikecodeur.com/2025/09/24/les-modules-essentiels-dun-saas/)
 - [L’IA réinvente le quotidien des développeurs!](https://www.mikecodeur.com/2025/09/22/lia-reinvente-le-quotidien-des-developpeurs/)
 - [Quelle architecture pour un SaaS en 2025 ? &lpar;Monolith, Microservices, BaaS&rpar;](https://www.mikecodeur.com/2025/09/17/quelle-architecture-pour-un-saas-en-2025-monolith-microservices-baas/)
 - [Pourquoi j’ai arrêté YouTube… &lpar;et pourquoi je reviens&rpar;](https://www.mikecodeur.com/2025/09/13/pourquoi-jai-arrete-youtube-et-pourquoi-je-reviens/)
-- [Les raisons de ne pas s’expatrier](https://www.mikecodeur.com/2025/08/21/les-raisons-de-ne-pas-sexpatrier/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
