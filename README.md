@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Ma stratégie de Saas : Monolith ou Microservices](https://www.youtube.com/shorts/jieHfcEdqeM)
 - [SAAS + IA = Liberté !](https://www.youtube.com/shorts/b7WYMgz9LSY)
 - [Les modules essentiels d’un SaaS](https://www.youtube.com/watch?v=plz6UT6MdXc)
 - [L&#39;IA réinvente le quotidien des développeurs!](https://www.youtube.com/shorts/Smthfy-r_bI)
 - [Quelle architecture pour un SaaS en 2025 ? &lpar;Monolith, Microservices, BaaS&rpar;](https://www.youtube.com/watch?v=CWMeL_zx74Y)
-- [Pourquoi j’ai arrêté YouTube… &lpar;et pourquoi je reviens&rpar;](https://www.youtube.com/watch?v=-DeX2SeGktY)
 <!-- YOUTUBE:END -->
 
 <details>
