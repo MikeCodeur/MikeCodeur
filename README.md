@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Mes 3 stratégies SaaS pour atteindre 10K MRR &lpar;sans perdre de temps&rpar;](https://www.mikecodeur.com/2025/10/01/mes-3-strategies-saas-pour-atteindre-10k-mrr-sans-perdre-de-temps/)
 - [Ma stratégie de Saas : Monolith ou Microservices](https://www.mikecodeur.com/2025/09/29/ma-strategie-de-saas-monolith-ou-microservices/)
 - [SAAS + IA = Liberté !](https://www.mikecodeur.com/2025/09/26/saas-ia-liberte/)
 - [Les modules essentiels d’un SaaS](https://www.mikecodeur.com/2025/09/24/les-modules-essentiels-dun-saas/)
 - [L’IA réinvente le quotidien des développeurs!](https://www.mikecodeur.com/2025/09/22/lia-reinvente-le-quotidien-des-developpeurs/)
-- [Quelle architecture pour un SaaS en 2025 ? &lpar;Monolith, Microservices, BaaS&rpar;](https://www.mikecodeur.com/2025/09/17/quelle-architecture-pour-un-saas-en-2025-monolith-microservices-baas/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
