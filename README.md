@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Je prépare un nouveau projet… &lpar;et ça sort bientôt&rpar;](https://www.youtube.com/watch?v=t0lYiDnBRfc)
 - [Les problèmes Techniques d’un SaaS](https://www.youtube.com/shorts/6dA8uPW6kIY)
 - [Mes 3 stratégies SaaS pour atteindre 10K MRR &lpar;sans perdre de temps&rpar;](https://www.youtube.com/watch?v=xrV71aBxj2s)
 - [Ma stratégie de Saas : Monolith ou Microservices](https://www.youtube.com/shorts/jieHfcEdqeM)
 - [SAAS + IA = Liberté !](https://www.youtube.com/shorts/b7WYMgz9LSY)
-- [Les modules essentiels d’un SaaS](https://www.youtube.com/watch?v=plz6UT6MdXc)
 <!-- YOUTUBE:END -->
 
 <details>
