@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Je lance un Boilerplate IA &lpar;créer ton SaaS en quelques semaines&rpar;](https://www.mikecodeur.com/2025/10/08/je-lance-un-boilerplate-ia-creer-ton-saas-en-quelques-semaines/)
 - [Les problèmes Business d’un SaaS](https://www.mikecodeur.com/2025/10/06/les-problemes-business-dun-saas/)
 - [Je prépare un nouveau projet… &lpar;et ça sort bientôt&rpar;](https://www.mikecodeur.com/2025/10/04/je-prepare-un-nouveau-projet-et-ca-sort-bientot/)
 - [Les problèmes Techniques d’un SaaS](https://www.mikecodeur.com/2025/10/03/les-problemes-techniques-dun-saas/)
 - [Mes 3 stratégies SaaS pour atteindre 10K MRR &lpar;sans perdre de temps&rpar;](https://www.mikecodeur.com/2025/10/01/mes-3-strategies-saas-pour-atteindre-10k-mrr-sans-perdre-de-temps/)
-- [Ma stratégie de Saas : Monolith ou Microservices](https://www.mikecodeur.com/2025/09/29/ma-strategie-de-saas-monolith-ou-microservices/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
