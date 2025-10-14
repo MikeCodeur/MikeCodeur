@@ -102,7 +102,7 @@ Actually:
 - [Les problèmes Opérationnels d’un SaaS](https://www.youtube.com/shorts/lBgo_eWWxPk)
 - [Je lance un Boilerplate IA &lpar;créer ton SaaS en quelques semaines&rpar;](https://www.youtube.com/watch?v=VfMFlIRrRso)
 - [Les problèmes Business d’un SaaS](https://www.youtube.com/shorts/xbm2XHlV5Ck)
-- [Je prépare un nouveau projet… &lpar;et ça sort bientôt&rpar;](https://www.youtube.com/watch?v=t0lYiDnBRfc)
+- [Un nouveau projet pour les devs SaaS…](https://www.youtube.com/watch?v=t0lYiDnBRfc)
 - [Les problèmes Techniques d’un SaaS](https://www.youtube.com/shorts/6dA8uPW6kIY)
 <!-- YOUTUBE:END -->
 
