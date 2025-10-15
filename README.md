@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Setup Next.js : le vrai démarrage avec Create Next App &lpar;SpeedRun SaaS #1&rpar;](https://www.youtube.com/watch?v=dmm17fo7s0Q)
 - [Les problèmes Opérationnels d’un SaaS](https://www.youtube.com/shorts/lBgo_eWWxPk)
 - [Je lance un Boilerplate IA &lpar;créer ton SaaS en quelques semaines&rpar;](https://www.youtube.com/watch?v=VfMFlIRrRso)
 - [Les problèmes Business d’un SaaS](https://www.youtube.com/shorts/xbm2XHlV5Ck)
 - [Un nouveau projet pour les devs SaaS…](https://www.youtube.com/watch?v=t0lYiDnBRfc)
-- [Les problèmes Techniques d’un SaaS](https://www.youtube.com/shorts/6dA8uPW6kIY)
 <!-- YOUTUBE:END -->
 
 <details>
