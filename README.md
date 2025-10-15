@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Setup Next.js : le vrai démarrage avec Create Next App &lpar;SpeedRun SaaS #1&rpar;](https://www.mikecodeur.com/2025/10/15/setup-next-js-le-vrai-demarrage-avec-create-next-app-speedrun-saas-1/)
 - [Les problèmes Opérationnels d’un SaaS](https://www.mikecodeur.com/2025/10/10/les-problemes-operationnels-dun-saas/)
 - [Je lance un Boilerplate IA &lpar;créer ton SaaS en quelques semaines&rpar;](https://www.mikecodeur.com/2025/10/08/je-lance-un-boilerplate-ia-creer-ton-saas-en-quelques-semaines/)
 - [Les problèmes Business d’un SaaS](https://www.mikecodeur.com/2025/10/06/les-problemes-business-dun-saas/)
 - [Je prépare un nouveau projet… &lpar;et ça sort bientôt&rpar;](https://www.mikecodeur.com/2025/10/04/je-prepare-un-nouveau-projet-et-ca-sort-bientot/)
-- [Les problèmes Techniques d’un SaaS](https://www.mikecodeur.com/2025/10/03/les-problemes-techniques-dun-saas/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
