@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Un boilerplate te fais gagner du temps !](https://www.youtube.com/shorts/spb54XneyE0)
 - [Next.js : Comprendre Pages &amp; Layout &lpar;La base du routing&rpar;](https://www.youtube.com/watch?v=9LGiyeNtIyA)
 - [Setup IA pour ton projet Next.js &lpar;Cursor, Claude, Codex&rpar; — SpeedRun SaaS #2](https://www.youtube.com/watch?v=-fysT-ckou0)
 - [Comment démarrer un projet Next.js avec Create Next App ?  &lpar;SpeedRun SaaS #1&rpar;](https://www.youtube.com/watch?v=dmm17fo7s0Q)
 - [Les problèmes Opérationnels d’un SaaS](https://www.youtube.com/shorts/lBgo_eWWxPk)
-- [Je lance un Boilerplate IA &lpar;créer ton SaaS en quelques semaines&rpar;](https://www.youtube.com/watch?v=VfMFlIRrRso)
 <!-- YOUTUBE:END -->
 
 <details>
