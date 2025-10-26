@@ -99,7 +99,7 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
-- [Next.js : Setup Git &amp; Repo &lpar;Commit • Push • Pull&rpar;](https://www.youtube.com/watch?v=mDbn8VQBbHM)
+- [Git &amp; Repo Next.js – Commit, Push, Pull](https://www.youtube.com/watch?v=mDbn8VQBbHM)
 - [Un boilerplate te fais gagner du temps !](https://www.youtube.com/shorts/spb54XneyE0)
 - [Next.js : Comprendre Pages &amp; Layout &lpar;La base du routing&rpar;](https://www.youtube.com/watch?v=9LGiyeNtIyA)
 - [Setup IA pour ton projet Next.js &lpar;Cursor, Claude, Codex&rpar; — SpeedRun SaaS #2](https://www.youtube.com/watch?v=-fysT-ckou0)
