@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Configurer ESLint et Prettier dans ton projet Next.js](https://www.mikecodeur.com/2025/10/27/configurer-eslint-et-prettier-dans-ton-projet-next-js/)
 - [Un Bon SAAS vaut moins que de la visibilité](https://www.mikecodeur.com/2025/10/27/un-bon-saas-vaut-moins-que-de-la-visibilite/)
 - [Next.js : Setup Git &amp; Repo &lpar;Commit • Push • Pull&rpar;](https://www.mikecodeur.com/2025/10/25/next-js-setup-git-repo-commit-push-pull/)
 - [Un boilerplate te fais gagner du temps !](https://www.mikecodeur.com/2025/10/24/un-boilerplate-te-fais-gagner-du-temps/)
 - [Next.js : Comprendre Pages &amp; Layout &lpar;La base du routing&rpar;](https://www.mikecodeur.com/2025/10/22/next-js-comprendre-pages-layout-la-base-du-routing/)
-- [Setup Next.js : le vrai démarrage avec Create Next App &lpar;SpeedRun SaaS #1&rpar;](https://www.mikecodeur.com/2025/10/15/setup-next-js-le-vrai-demarrage-avec-create-next-app-speedrun-saas-1/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
