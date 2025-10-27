@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Configurer ESLint et Prettier dans ton projet Next.js](https://www.youtube.com/watch?v=LDpGb9khdoM)
 - [Un Bon SAAS vaut moins que de la visibilité](https://www.youtube.com/shorts/faR-BtZ41Fs)
 - [Git &amp; Repo Next.js – Commit, Push, Pull](https://www.youtube.com/watch?v=mDbn8VQBbHM)
 - [Un boilerplate te fais gagner du temps !](https://www.youtube.com/shorts/spb54XneyE0)
 - [Next.js : Comprendre Pages &amp; Layout &lpar;La base du routing&rpar;](https://www.youtube.com/watch?v=9LGiyeNtIyA)
-- [Setup IA pour ton projet Next.js &lpar;Cursor, Claude, Codex&rpar; — SpeedRun SaaS #2](https://www.youtube.com/watch?v=-fysT-ckou0)
 <!-- YOUTUBE:END -->
 
 <details>
