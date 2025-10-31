@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Je collabore avec les SaaS qui veulent passer au niveau supérieur](https://www.mikecodeur.com/2025/10/31/je-collabore-avec-les-saas-qui-veulent-passer-au-niveau-superieur/)
 - [React Components : comprendre ton premier composant](https://www.mikecodeur.com/2025/10/29/react-components-comprendre-ton-premier-composant/)
 - [Configurer ESLint et Prettier dans ton projet Next.js](https://www.mikecodeur.com/2025/10/27/configurer-eslint-et-prettier-dans-ton-projet-next-js/)
 - [Un Bon SAAS vaut moins que de la visibilité](https://www.mikecodeur.com/2025/10/27/un-bon-saas-vaut-moins-que-de-la-visibilite/)
 - [Next.js : Setup Git &amp; Repo &lpar;Commit • Push • Pull&rpar;](https://www.mikecodeur.com/2025/10/25/next-js-setup-git-repo-commit-push-pull/)
-- [Un boilerplate te fais gagner du temps !](https://www.mikecodeur.com/2025/10/24/un-boilerplate-te-fais-gagner-du-temps/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
