@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Je collabore avec les SaaS qui veulent passer au niveau supérieur](https://www.youtube.com/shorts/QE6LJdtHGiA)
 - [React Components : comprendre ton premier composant](https://www.youtube.com/watch?v=IyyJL-UDn2g)
 - [Configurer ESLint et Prettier dans ton projet Next.js](https://www.youtube.com/watch?v=LDpGb9khdoM)
 - [Un Bon SAAS vaut moins que de la visibilité](https://www.youtube.com/shorts/faR-BtZ41Fs)
 - [Git &amp; Repo Next.js – Commit, Push, Pull](https://www.youtube.com/watch?v=mDbn8VQBbHM)
-- [Un boilerplate te fais gagner du temps !](https://www.youtube.com/shorts/spb54XneyE0)
 <!-- YOUTUBE:END -->
 
 <details>
