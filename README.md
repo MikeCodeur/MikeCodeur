@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Enchaîne les SaaS. Analyse. Améliore. Repeat](https://www.youtube.com/shorts/CHs0_SGLsE0)
 - [C’est quoi le State en React &lpar;Explication Débutant&rpar;](https://www.youtube.com/watch?v=H7p7ZjUxGmc)
 - [C’est quoi les Props en React &lpar;Explication Débutant&rpar;](https://www.youtube.com/watch?v=9rtNp4a-G3s)
 - [Je collabore avec les SaaS qui veulent passer au niveau supérieur](https://www.youtube.com/shorts/QE6LJdtHGiA)
 - [React Components : comprendre ton premier composant](https://www.youtube.com/watch?v=IyyJL-UDn2g)
-- [Configurer ESLint et Prettier dans ton projet Next.js](https://www.youtube.com/watch?v=LDpGb9khdoM)
 <!-- YOUTUBE:END -->
 
 <details>
