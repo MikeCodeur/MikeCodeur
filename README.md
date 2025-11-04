@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Enchaîne les SaaS. Analyse. Améliore. Repeat](https://www.mikecodeur.com/2025/11/04/enchaine-les-saas-analyse-ameliore-repeat/)
 - [C’est quoi le State en React &lpar;Explication Débutant&rpar;](https://www.mikecodeur.com/2025/11/03/cest-quoi-le-state-en-react-explication-debutant/)
 - [C’est quoi les Props en React &lpar;Explication Débutant&rpar;](https://www.mikecodeur.com/2025/11/01/cest-quoi-les-props-en-react-explication-debutant/)
 - [Je collabore avec les SaaS qui veulent passer au niveau supérieur](https://www.mikecodeur.com/2025/10/31/je-collabore-avec-les-saas-qui-veulent-passer-au-niveau-superieur/)
 - [React Components : comprendre ton premier composant](https://www.mikecodeur.com/2025/10/29/react-components-comprendre-ton-premier-composant/)
-- [Configurer ESLint et Prettier dans ton projet Next.js](https://www.mikecodeur.com/2025/10/27/configurer-eslint-et-prettier-dans-ton-projet-next-js/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
