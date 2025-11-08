@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Next.js : comprendre les searchParams](https://www.youtube.com/watch?v=_Ej__ihn-BY)
 - [Next.js : comprendre les Routes Dynamiques](https://www.youtube.com/watch?v=VDflLAshrug)
 - [Enchaîne les SaaS. Analyse. Améliore. Repeat](https://www.youtube.com/shorts/CHs0_SGLsE0)
 - [C’est quoi le State en React &lpar;Explication Débutant&rpar;](https://www.youtube.com/watch?v=H7p7ZjUxGmc)
 - [C’est quoi les Props en React &lpar;Explication Débutant&rpar;](https://www.youtube.com/watch?v=9rtNp4a-G3s)
-- [Je collabore avec les SaaS qui veulent passer au niveau supérieur](https://www.youtube.com/shorts/QE6LJdtHGiA)
 <!-- YOUTUBE:END -->
 
 <details>
