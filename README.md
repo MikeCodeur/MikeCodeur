@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Qu’est-ce qu’une API ? Et comment récupérer des données dans ton SaaS ?](https://www.youtube.com/watch?v=Syeooun4KO0)
 - [Next.js : comprendre les 3 Runtimes &lpar;Server, Client, Static&rpar;](https://www.youtube.com/watch?v=mDan48DNg-Y)
 - [Next.js : comprendre les searchParams](https://www.youtube.com/watch?v=_Ej__ihn-BY)
 - [Next.js : comprendre les Routes Dynamiques](https://www.youtube.com/watch?v=VDflLAshrug)
 - [Enchaîne les SaaS. Analyse. Améliore. Repeat](https://www.youtube.com/shorts/CHs0_SGLsE0)
-- [C’est quoi le State en React &lpar;Explication Débutant&rpar;](https://www.youtube.com/watch?v=H7p7ZjUxGmc)
 <!-- YOUTUBE:END -->
 
 <details>
