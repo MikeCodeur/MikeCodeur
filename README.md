@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Qu’est-ce qu’une API ? Et comment récupérer des données dans ton SaaS ?](https://www.mikecodeur.com/2025/11/12/quest-ce-quune-api-et-comment-recuperer-des-donnees-dans-ton-saas/)
 - [Next.js : comprendre les 3 Runtimes &lpar;Server, Client, Static&rpar;](https://www.mikecodeur.com/2025/11/10/next-js-comprendre-les-3-runtimes-server-client-static/)
 - [Next.js : comprendre les searchParams](https://www.mikecodeur.com/2025/11/08/next-js-comprendre-les-searchparams/)
 - [Next.js : comprendre les Routes Dynamiques](https://www.mikecodeur.com/2025/11/05/next-js-comprendre-les-routes-dynamiques/)
 - [Enchaîne les SaaS. Analyse. Améliore. Repeat](https://www.mikecodeur.com/2025/11/04/enchaine-les-saas-analyse-ameliore-repeat/)
-- [C’est quoi le State en React &lpar;Explication Débutant&rpar;](https://www.mikecodeur.com/2025/11/03/cest-quoi-le-state-en-react-explication-debutant/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
