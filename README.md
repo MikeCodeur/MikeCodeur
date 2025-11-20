@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Antigravity : l’IDE qui va remplacer Cursor ?](https://www.mikecodeur.com/2025/11/20/google-antigravity-lide-qui-va-remplacer-cursor/)
 - [ShadCN Registries : les meilleurs composants pour ton app Next.js / React](https://www.mikecodeur.com/2025/11/19/shadcn-registries-les-meilleurs-composants-pour-ton-app-next-js-react/)
 - [ShadCN ! La meilleure lib UI pour ton app Next.js](https://www.mikecodeur.com/2025/11/17/shadcn-la-meilleure-lib-ui-pour-ton-app-next-js/)
 - [Qu’est-ce qu’un MCP ? Développe plus vite avec ton IA](https://www.mikecodeur.com/2025/11/15/quest-ce-quun-mcp-developpe-plus-vite-avec-ton-ia/)
 - [Qu’est-ce qu’une API ? Et comment récupérer des données dans ton SaaS ?](https://www.mikecodeur.com/2025/11/12/quest-ce-quune-api-et-comment-recuperer-des-donnees-dans-ton-saas/)
-- [Next.js : comprendre les 3 Runtimes &lpar;Server, Client, Static&rpar;](https://www.mikecodeur.com/2025/11/10/next-js-comprendre-les-3-runtimes-server-client-static/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
