@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Google Antigravity : l’IDE qui va remplacer Cursor ?](https://www.youtube.com/watch?v=NwI9dhCxe1M)
 - [ShadCN Registries : les meilleurs composants pour ton app Next.js / React](https://www.youtube.com/watch?v=4TVWdspP1FE)
 - [ShadCN ! La meilleure lib UI pour ton app Next.js](https://www.youtube.com/watch?v=hQJCigceka4)
 - [Qu’est-ce qu’un MCP ? Développe plus vite avec ton IA](https://www.youtube.com/watch?v=IDB5DUBUWtk)
 - [Qu’est-ce qu’une API ? Et comment récupérer des données dans ton SaaS ?](https://www.youtube.com/watch?v=Syeooun4KO0)
-- [Next.js : comprendre les 3 Runtimes &lpar;Server, Client, Static&rpar;](https://www.youtube.com/watch?v=mDan48DNg-Y)
 <!-- YOUTUBE:END -->
 
 <details>
