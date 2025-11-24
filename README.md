@@ -100,7 +100,7 @@ Actually:
 
 <!-- YOUTUBE:START -->
 - [Authentification Next.js : NextAuth, BetterAuth ou Clerk ?](https://www.youtube.com/watch?v=QZ4PKdghSUQ)
-- [Formulaires Next.js : RHF + Zod pour une validation parfaite](https://www.youtube.com/watch?v=ODmEdYOwOOI)
+- [Next.js Formulaires : la validation simple avec RHF &amp; Zod](https://www.youtube.com/watch?v=ODmEdYOwOOI)
 - [Google Antigravity : l’IDE qui va remplacer Cursor ?](https://www.youtube.com/watch?v=NwI9dhCxe1M)
 - [ShadCN Registries : les meilleurs composants pour ton app Next.js / React](https://www.youtube.com/watch?v=4TVWdspP1FE)
 - [ShadCN ! La meilleure lib UI pour ton app Next.js](https://www.youtube.com/watch?v=hQJCigceka4)
