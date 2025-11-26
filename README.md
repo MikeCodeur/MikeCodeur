@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js Server Actions : comprendre enfin comment ça marche](https://www.mikecodeur.com/2025/11/26/next-js-server-actions-comprendre-enfin-comment-ca-marche/)
 - [Authentification Next.js : NextAuth, BetterAuth ou Clerk ?](https://www.mikecodeur.com/2025/11/24/authentification-next-js-nextauth-betterauth-ou-clerk/)
 - [Formulaires Next.js : RHF + Zod pour une validation parfaite](https://www.mikecodeur.com/2025/11/22/formulaires-next-js-rhf-zod-pour-une-validation-parfaite/)
 - [Google Antigravity : l’IDE qui va remplacer Cursor ?](https://www.mikecodeur.com/2025/11/20/google-antigravity-lide-qui-va-remplacer-cursor/)
 - [ShadCN Registries : les meilleurs composants pour ton app Next.js / React](https://www.mikecodeur.com/2025/11/19/shadcn-registries-les-meilleurs-composants-pour-ton-app-next-js-react/)
-- [ShadCN ! La meilleure lib UI pour ton app Next.js](https://www.mikecodeur.com/2025/11/17/shadcn-la-meilleure-lib-ui-pour-ton-app-next-js/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
