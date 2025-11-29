@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Next.js : comment protéger une route &lpar;méthode simple&rpar;](https://www.youtube.com/watch?v=g2jHSk1QqCQ)
 - [Next.js Server Actions : comprendre enfin comment ça marche](https://www.youtube.com/watch?v=AeA_swsFFZ4)
 - [Authentification Next.js : NextAuth, BetterAuth ou Clerk ?](https://www.youtube.com/watch?v=QZ4PKdghSUQ)
 - [Next.js Formulaires : la validation simple avec RHF &amp; Zod](https://www.youtube.com/watch?v=ODmEdYOwOOI)
 - [Google Antigravity : l’IDE qui va remplacer Cursor ?](https://www.youtube.com/watch?v=NwI9dhCxe1M)
-- [ShadCN Registries : les meilleurs composants pour ton app Next.js / React](https://www.youtube.com/watch?v=4TVWdspP1FE)
 <!-- YOUTUBE:END -->
 
 <details>
