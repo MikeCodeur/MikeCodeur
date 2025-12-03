@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [RSC vs Client vs Isomorphique : enfin la vraie différence](https://www.mikecodeur.com/2025/12/03/rsc-vs-client-vs-isomorphique-enfin-la-vraie-difference/)
 - [Comment exposer des API dans Next ?](https://www.mikecodeur.com/2025/12/01/comment-exposer-des-api-dans-next/)
 - [Next.js : comment protéger une route &lpar;méthode simple&rpar;](https://www.mikecodeur.com/2025/11/29/next-js-comment-proteger-une-route-methode-simple/)
 - [Next.js Server Actions : comprendre enfin comment ça marche](https://www.mikecodeur.com/2025/11/26/next-js-server-actions-comprendre-enfin-comment-ca-marche/)
 - [Authentification Next.js : NextAuth, BetterAuth ou Clerk ?](https://www.mikecodeur.com/2025/11/24/authentification-next-js-nextauth-betterauth-ou-clerk/)
-- [Formulaires Next.js : RHF + Zod pour une validation parfaite](https://www.mikecodeur.com/2025/11/22/formulaires-next-js-rhf-zod-pour-une-validation-parfaite/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
