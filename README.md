@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [RSC vs Client vs Isomorphique : enfin la vraie différence](https://www.youtube.com/watch?v=lnGUvD7muEc)
 - [Comment exposer des API dans Next ?](https://www.youtube.com/watch?v=NrrRQbwnWR4)
 - [Next.js : comment protéger une route &lpar;méthode simple&rpar;](https://www.youtube.com/watch?v=g2jHSk1QqCQ)
 - [Next.js Server Actions : comprendre enfin comment ça marche](https://www.youtube.com/watch?v=AeA_swsFFZ4)
 - [Authentification Next.js : NextAuth, BetterAuth ou Clerk ?](https://www.youtube.com/watch?v=QZ4PKdghSUQ)
-- [Next.js Formulaires : la validation simple avec RHF &amp; Zod](https://www.youtube.com/watch?v=ODmEdYOwOOI)
 <!-- YOUTUBE:END -->
 
 <details>
