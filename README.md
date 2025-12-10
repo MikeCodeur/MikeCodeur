@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Rules 1 : L’architecture en couches expliquée : la règle qui structure tout mon boilerplate](https://www.mikecodeur.com/2025/12/10/rules-1-larchitecture-en-couches-expliquee-la-regle-qui-structure-tout-mon-boilerplate/)
 - [Drizzle ORM : comment l’installer et démarrer proprement](https://www.mikecodeur.com/2025/12/08/drizzle-orm-comment-linstaller-et-demarrer-proprement/)
 - [Server Actions vs API Routes : les erreurs que 90% des devs font](https://www.mikecodeur.com/2025/12/06/server-actions-vs-api-routes-les-erreurs-que-90-des-devs-font/)
 - [RSC vs Client vs Isomorphique : enfin la vraie différence](https://www.mikecodeur.com/2025/12/03/rsc-vs-client-vs-isomorphique-enfin-la-vraie-difference/)
 - [Comment exposer des API dans Next ?](https://www.mikecodeur.com/2025/12/01/comment-exposer-des-api-dans-next/)
-- [Next.js : comment protéger une route &lpar;méthode simple&rpar;](https://www.mikecodeur.com/2025/11/29/next-js-comment-proteger-une-route-methode-simple/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
