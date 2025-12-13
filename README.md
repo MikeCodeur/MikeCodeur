@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Rules IA : Le Top-Down Design expliqué simplement](https://www.youtube.com/watch?v=zbei1J6wtww)
 - [Rules 1 : L’architecture en couches expliquée : la règle qui structure tout mon boilerplate](https://www.youtube.com/watch?v=SY8CXTlfd0A)
 - [Drizzle ORM : comment l’installer et démarrer proprement](https://www.youtube.com/watch?v=mMv7nTf0qaw)
 - [Server Actions vs API Routes : les erreurs que 90% des devs font](https://www.youtube.com/watch?v=u7A6cr9PGL8)
 - [RSC vs Client vs Isomorphique : enfin la vraie différence](https://www.youtube.com/watch?v=lnGUvD7muEc)
-- [Comment exposer des API dans Next ?](https://www.youtube.com/watch?v=NrrRQbwnWR4)
 <!-- YOUTUBE:END -->
 
 <details>
