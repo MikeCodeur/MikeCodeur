@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Rules AI  : Le logging full-stack expliqué simplement : et pourquoi tu dois l’implémenter maintenant](https://www.mikecodeur.com/2025/12/15/rules-ai-le-logging-full-stack-explique-simplement-et-pourquoi-tu-dois-limplementer-maintenant-2/)
 - [Rules AI  : Le logging full-stack expliqué simplement : et pourquoi tu dois l’implémenter maintenant](https://www.mikecodeur.com/2025/12/13/rules-ai-le-logging-full-stack-explique-simplement-et-pourquoi-tu-dois-limplementer-maintenant/)
 - [Rules 1 : L’architecture en couches expliquée : la règle qui structure tout mon boilerplate](https://www.mikecodeur.com/2025/12/10/rules-1-larchitecture-en-couches-expliquee-la-regle-qui-structure-tout-mon-boilerplate/)
 - [Drizzle ORM : comment l’installer et démarrer proprement](https://www.mikecodeur.com/2025/12/08/drizzle-orm-comment-linstaller-et-demarrer-proprement/)
 - [Server Actions vs API Routes : les erreurs que 90% des devs font](https://www.mikecodeur.com/2025/12/06/server-actions-vs-api-routes-les-erreurs-que-90-des-devs-font/)
-- [RSC vs Client vs Isomorphique : enfin la vraie différence](https://www.mikecodeur.com/2025/12/03/rsc-vs-client-vs-isomorphique-enfin-la-vraie-difference/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
