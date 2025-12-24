@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [J’ai lancé YouThumb AI](https://www.mikecodeur.com/2025/12/24/jai-lance-youthumb-ai/)
 - [J’ai construit un SaaS IA en quelques jours… et ça change tout](https://www.mikecodeur.com/2025/12/20/jai-construit-un-saas-ia-en-quelques-jours-et-ca-change-tout/)
 - [Rules 4 : Variables d’environnement sécurisées dans Next.js avec T3 Env](https://www.mikecodeur.com/2025/12/17/rules-4-variables-denvironnement-securisees-dans-next-js-avec-t3-env/)
 - [Rules AI  : Le logging full-stack expliqué simplement : et pourquoi tu dois l’implémenter maintenant](https://www.mikecodeur.com/2025/12/15/rules-ai-le-logging-full-stack-explique-simplement-et-pourquoi-tu-dois-limplementer-maintenant-2/)
 - [Rules AI  : Le logging full-stack expliqué simplement : et pourquoi tu dois l’implémenter maintenant](https://www.mikecodeur.com/2025/12/13/rules-ai-le-logging-full-stack-explique-simplement-et-pourquoi-tu-dois-limplementer-maintenant/)
-- [Rules 1 : L’architecture en couches expliquée : la règle qui structure tout mon boilerplate](https://www.mikecodeur.com/2025/12/10/rules-1-larchitecture-en-couches-expliquee-la-regle-qui-structure-tout-mon-boilerplate/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
