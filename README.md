@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [L’IA a tout changé en 2025](https://www.youtube.com/watch?v=gCfnwtQnOV4)
 - [J’ai lancé YouThumb AI](https://www.youtube.com/shorts/MVsUM_50YeY)
 - [J’ai construit un SaaS IA en quelques jours… et ça change tout](https://www.youtube.com/watch?v=o1Y0-xyHMQk)
 - [Rules 4 : Variables d’environnement sécurisées dans Next.js avec T3 Env](https://www.youtube.com/watch?v=UQZOXjXqxCg)
 - [Rules AI  : Le logging full-stack expliqué simplement : et pourquoi tu dois l’implémenter maintenant](https://www.youtube.com/watch?v=VolluZpk3Ko)
-- [Rules IA : Le Top-Down Design expliqué simplement](https://www.youtube.com/watch?v=zbei1J6wtww)
 <!-- YOUTUBE:END -->
 
 <details>
