@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Claude Code est NUL en Design &lpar;voici ma solution&rpar;](https://www.youtube.com/watch?v=m0MwBM5t0RE)
 - [Nouveau SaaS ? Agents IA ? Revenus ? Bali ? Je Réponds Aux Questions &lpar;Chill And Qna&rpar;](https://www.youtube.com/watch?v=8zfRaTrYox0)
 - [L’IA a tout changé en 2025](https://www.youtube.com/watch?v=gCfnwtQnOV4)
 - [J’ai lancé YouThumb AI](https://www.youtube.com/shorts/MVsUM_50YeY)
 - [J’ai construit un SaaS IA en quelques jours… et ça change tout](https://www.youtube.com/watch?v=o1Y0-xyHMQk)
-- [Rules 4 : Variables d’environnement sécurisées dans Next.js avec T3 Env](https://www.youtube.com/watch?v=UQZOXjXqxCg)
 <!-- YOUTUBE:END -->
 
 <details>
