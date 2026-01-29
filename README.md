@@ -99,7 +99,7 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
-- [Skills.sh : Mon expert SEO pour 0€ &lpar;il bosse 24/7&rpar;](https://www.youtube.com/watch?v=m324UcSD2Lk)
+- [Skills.sh : Mon expert marketing pour 0€ &lpar;il bosse 24/7&rpar;](https://www.youtube.com/watch?v=m324UcSD2Lk)
 - [Claude Code est NUL en Design &lpar;voici ma solution&rpar;](https://www.youtube.com/watch?v=m0MwBM5t0RE)
 - [Nouveau SaaS ? Agents IA ? Revenus ? Bali ? Je Réponds Aux Questions &lpar;Chill And Qna&rpar;](https://www.youtube.com/watch?v=8zfRaTrYox0)
 - [L’IA a tout changé en 2025](https://www.youtube.com/watch?v=gCfnwtQnOV4)
