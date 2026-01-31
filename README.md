@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [ClawdBot devient OpenClaw : il se fait hacker en renommant son repo](https://www.mikecodeur.com/2026/01/31/clawdbot-devient-openclaw-il-se-fait-hacker-en-renommant-son-repo/)
 - [Skills.sh : Mon expert SEO pour 0€ &lpar;il bosse 24/7&rpar;](https://www.mikecodeur.com/2026/01/29/skills-sh-mon-expert-seo-pour-0e-il-bosse-24-7/)
 - [Claude Code est NUL en Design &lpar;voici ma solution&rpar;](https://www.mikecodeur.com/2026/01/22/claude-code-est-nul-en-design-voici-ma-solution/)
 - [Nouveau SaaS ? Agents IA ? Revenus ? Bali ? Je Réponds Aux Questions &lpar;Chill And Qna&rpar;](https://www.mikecodeur.com/2026/01/15/nouveau-saas-agents-ia-revenus-bali-je-reponds-aux-questions-chill-and-qna/)
 - [L’IA a tout changé en 2025](https://www.mikecodeur.com/2026/01/08/lia-a-tout-change-en-2025/)
-- [J’ai lancé YouThumb AI](https://www.mikecodeur.com/2025/12/24/jai-lance-youthumb-ai/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
