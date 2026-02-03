@@ -99,7 +99,7 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
-- [OpenClaw : Le Truc le Plus FOU que J&#39;ai Testé](https://www.youtube.com/watch?v=3sIQi1Vai5o)
+- [J&#39;ai Viré VSCode et Cursor &lpar;OpenClaw les Remplace&rpar;](https://www.youtube.com/watch?v=3sIQi1Vai5o)
 - [ClawdBot devient OpenClaw : il se fait hacker en renommant son repo](https://www.youtube.com/shorts/eOF05eN-Z8A)
 - [Skills.sh : Mon expert marketing pour 0€ &lpar;il bosse 24/7&rpar;](https://www.youtube.com/watch?v=m324UcSD2Lk)
 - [Claude Code est NUL en Design &lpar;voici ma solution&rpar;](https://www.youtube.com/watch?v=m0MwBM5t0RE)
