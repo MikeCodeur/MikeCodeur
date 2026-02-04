@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [J&#39;ai testé Codex App &lpar;la réponse à Claude Code&rpar;](https://www.youtube.com/watch?v=JTACSNZihY8)
 - [J&#39;ai Viré VSCode et Cursor &lpar;OpenClaw les Remplace&rpar;](https://www.youtube.com/watch?v=3sIQi1Vai5o)
 - [ClawdBot devient OpenClaw : il se fait hacker en renommant son repo](https://www.youtube.com/shorts/eOF05eN-Z8A)
 - [Skills.sh : Mon expert marketing pour 0€ &lpar;il bosse 24/7&rpar;](https://www.youtube.com/watch?v=m324UcSD2Lk)
 - [Claude Code est NUL en Design &lpar;voici ma solution&rpar;](https://www.youtube.com/watch?v=m0MwBM5t0RE)
-- [Nouveau SaaS ? Agents IA ? Revenus ? Bali ? Je Réponds Aux Questions &lpar;Chill And Qna&rpar;](https://www.youtube.com/watch?v=8zfRaTrYox0)
 <!-- YOUTUBE:END -->
 
 <details>
