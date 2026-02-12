@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [La NOUVELLE feature Claude Code qui remplace une équipe entière](https://www.youtube.com/watch?v=MAvJ3XhhrWo)
 - [Opus 4.6 est INSANE — le récap complet en 15 min](https://www.youtube.com/watch?v=O5iE6qksJMs)
 - [Mon SaaS a 510 tests, j&#39;en ai écrit aucun &lpar;Claude Code&rpar;](https://www.youtube.com/watch?v=wLsdi2FvO08)
 - [J&#39;ai testé Codex App &lpar;la réponse à Claude Code&rpar;](https://www.youtube.com/watch?v=JTACSNZihY8)
 - [J&#39;ai Viré VSCode et Cursor &lpar;OpenClaw les Remplace&rpar;](https://www.youtube.com/watch?v=3sIQi1Vai5o)
-- [ClawdBot devient OpenClaw : il se fait hacker en renommant son repo](https://www.youtube.com/shorts/eOF05eN-Z8A)
 <!-- YOUTUBE:END -->
 
 <details>
