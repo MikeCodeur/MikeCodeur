@@ -110,11 +110,11 @@ Actually:
   <summary>📒 Latest blog content</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [La NOUVELLE feature Claude Code qui remplace une équipe entière](https://www.mikecodeur.com/2026/02/12/la-nouvelle-feature-claude-code-qui-remplace-une-equipe-entiere/)
 - [Opus 4.6 est INSANE — le récap complet en 15 min](https://www.mikecodeur.com/2026/02/09/opus-4-6-est-insane-le-recap-complet-en-15-min/)
 - [Mon SaaS a 510 tests, j’en ai écrit aucun &lpar;Claude Code&rpar;](https://www.mikecodeur.com/2026/02/06/mon-saas-a-510-tests-jen-ai-ecrit-aucun-claude-code/)
 - [J’ai testé Codex App &lpar;la réponse à Claude Code&rpar;](https://www.mikecodeur.com/2026/02/04/jai-teste-codex-app-la-reponse-a-claude-code/)
 - [OpenClaw : Le Truc le Plus FOU que J’ai Testé](https://www.mikecodeur.com/2026/02/02/openclaw-le-truc-le-plus-fou-que-jai-teste/)
-- [ClawdBot devient OpenClaw : il se fait hacker en renommant son repo](https://www.mikecodeur.com/2026/01/31/clawdbot-devient-openclaw-il-se-fait-hacker-en-renommant-son-repo/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
