@@ -99,7 +99,7 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
-- [La NOUVELLE feature Claude Code qui remplace une équipe entière](https://www.youtube.com/watch?v=MAvJ3XhhrWo)
+- [Anthropic vient de lancer les Agent Swarms](https://www.youtube.com/watch?v=MAvJ3XhhrWo)
 - [Opus 4.6 est INSANE — le récap complet en 15 min](https://www.youtube.com/watch?v=O5iE6qksJMs)
 - [Mon SaaS a 510 tests, j&#39;en ai écrit aucun &lpar;Claude Code&rpar;](https://www.youtube.com/watch?v=wLsdi2FvO08)
 - [J&#39;ai testé Codex App &lpar;la réponse à Claude Code&rpar;](https://www.youtube.com/watch?v=JTACSNZihY8)
