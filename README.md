@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Anthropic sort Sonnet 4.6 — Le modèle gratuit qui rivalise avec le premium](https://www.youtube.com/watch?v=zzHDeTpNW5g)
 - [Le Guide Officiel d&#39;Anthropic sur les Skills vient de sortir &lpar;et c&#39;est une mine d&#39;or&rpar;](https://www.youtube.com/watch?v=hgEA2wb7elQ)
 - [Anthropic vient de lancer les Agent Swarms](https://www.youtube.com/watch?v=MAvJ3XhhrWo)
 - [Opus 4.6 est INSANE — le récap complet en 15 min](https://www.youtube.com/watch?v=O5iE6qksJMs)
 - [Mon SaaS a 510 tests, j&#39;en ai écrit aucun &lpar;Claude Code&rpar;](https://www.youtube.com/watch?v=wLsdi2FvO08)
-- [J&#39;ai testé Codex App &lpar;la réponse à Claude Code&rpar;](https://www.youtube.com/watch?v=JTACSNZihY8)
 <!-- YOUTUBE:END -->
 
 <details>
