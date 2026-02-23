@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Arrête Cursor — Passe au CLI Agentique](https://www.youtube.com/watch?v=VPhWtLYIEYg)
 - [GitHub vient de Tuer le Vibe Coding](https://www.youtube.com/watch?v=rh-_-IurSm8)
 - [Anthropic sort Sonnet 4.6 — Le modèle gratuit qui rivalise avec le premium](https://www.youtube.com/watch?v=zzHDeTpNW5g)
 - [Le Guide Officiel d&#39;Anthropic sur les Skills vient de sortir &lpar;et c&#39;est une mine d&#39;or&rpar;](https://www.youtube.com/watch?v=hgEA2wb7elQ)
 - [Anthropic vient de lancer les Agent Swarms](https://www.youtube.com/watch?v=MAvJ3XhhrWo)
-- [Opus 4.6 est INSANE — le récap complet en 15 min](https://www.youtube.com/watch?v=O5iE6qksJMs)
 <!-- YOUTUBE:END -->
 
 <details>
