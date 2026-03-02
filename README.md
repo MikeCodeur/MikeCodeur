@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Claude… Code mes vidéos](https://www.youtube.com/watch?v=ExLXLaK4pdo)
 - [Claude Code Security analyse mon SaaS &lpar;c&#39;est chaud&rpar;](https://www.youtube.com/watch?v=xJmiqpjxTCM)
 - [Claude Code Remote — plus besoin d&#39;OpenClaw ?](https://www.youtube.com/watch?v=p6ffMnw8xOI)
 - [Arrête Cursor — Passe au CLI Agentique](https://www.youtube.com/watch?v=VPhWtLYIEYg)
 - [GitHub vient de Tuer le Vibe Coding](https://www.youtube.com/watch?v=rh-_-IurSm8)
-- [Anthropic sort Sonnet 4.6 — Le modèle gratuit qui rivalise avec le premium](https://www.youtube.com/watch?v=zzHDeTpNW5g)
 <!-- YOUTUBE:END -->
 
 <details>
