@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Claude Code sort enfin les Loops !](https://www.youtube.com/watch?v=oYDQ8ct3OhI)
 - [J&#39;ai créé une ARMÉE d&#39;Agents IA OpenClaw &lpar;ils bossent sans moi&rpar;](https://www.youtube.com/watch?v=vKY6vKBgM_Y)
 - [Claude Code a ARRÊTÉ d&#39;oublier &lpar;et ça change tout&rpar;](https://www.youtube.com/watch?v=8Wx4jWc35Ug)
 - [Claude… Code mes vidéos](https://www.youtube.com/watch?v=ExLXLaK4pdo)
 - [Claude Code Security analyse mon SaaS &lpar;c&#39;est chaud&rpar;](https://www.youtube.com/watch?v=xJmiqpjxTCM)
-- [Claude Code Remote — plus besoin d&#39;OpenClaw ?](https://www.youtube.com/watch?v=p6ffMnw8xOI)
 <!-- YOUTUBE:END -->
 
 <details>
