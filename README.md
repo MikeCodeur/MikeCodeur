@@ -100,7 +100,7 @@ Actually:
 
 <!-- YOUTUBE:START -->
 - [Ces formations m&#39;ont rapporté 2M€. Je te les offre...](https://www.youtube.com/watch?v=N3xQ5_Um16o)
-- [Apprendre à coder en 2026 : La vérité](https://www.youtube.com/watch?v=KUfcVGDfup0)
+- [20 ans de code : Mon métier n&#39;existe Plus ?](https://www.youtube.com/watch?v=KUfcVGDfup0)
 - [Claude Code sort enfin les Loops !](https://www.youtube.com/watch?v=oYDQ8ct3OhI)
 - [J&#39;ai créé une ARMÉE d&#39;Agents IA OpenClaw &lpar;ils bossent sans moi&rpar;](https://www.youtube.com/watch?v=vKY6vKBgM_Y)
 - [Claude Code a ARRÊTÉ d&#39;oublier &lpar;et ça change tout&rpar;](https://www.youtube.com/watch?v=8Wx4jWc35Ug)
