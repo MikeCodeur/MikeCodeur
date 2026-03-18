@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [N&#39;active PAS les 1M de Tokens sans Comprendre ça !](https://www.youtube.com/watch?v=yhCIc7_LG3o)
 - [Agent OS : Comment faire travailler des agents IA sur du code legacy ?](https://www.youtube.com/watch?v=Eoo4LBH7Isc)
 - [Ces formations m&#39;ont rapporté 2M€. Je te les offre...](https://www.youtube.com/watch?v=N3xQ5_Um16o)
 - [20 ans de code : Mon métier n&#39;existe Plus ?](https://www.youtube.com/watch?v=KUfcVGDfup0)
 - [Claude Code sort enfin les Loops !](https://www.youtube.com/watch?v=oYDQ8ct3OhI)
-- [J&#39;ai créé une ARMÉE d&#39;Agents IA OpenClaw &lpar;ils bossent sans moi&rpar;](https://www.youtube.com/watch?v=vKY6vKBgM_Y)
 <!-- YOUTUBE:END -->
 
 <details>
