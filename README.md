@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [J&#39;ai testé le Figma Killer de Google](https://www.youtube.com/watch?v=oYkFXbp4kHI)
 - [N&#39;active PAS les 1M de Tokens sans Comprendre ça !](https://www.youtube.com/watch?v=yhCIc7_LG3o)
 - [Agent OS : Comment faire travailler des agents IA sur du code legacy ?](https://www.youtube.com/watch?v=Eoo4LBH7Isc)
 - [Ces formations m&#39;ont rapporté 2M€. Je te les offre...](https://www.youtube.com/watch?v=N3xQ5_Um16o)
 - [20 ans de code : Mon métier n&#39;existe Plus ?](https://www.youtube.com/watch?v=KUfcVGDfup0)
-- [Claude Code sort enfin les Loops !](https://www.youtube.com/watch?v=oYDQ8ct3OhI)
 <!-- YOUTUBE:END -->
 
 <details>
