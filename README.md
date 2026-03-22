@@ -85,7 +85,7 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3236](https://github.com/better-auth/better-auth/issues/3236) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. ❗ Opened issue [#49544](https://github.com/openclaw/openclaw/issues/49544) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
 2. ❗ Opened issue [#3235](https://github.com/better-auth/better-auth/issues/3235) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 3. 🗣 Commented on [#3189](https://github.com/better-auth/better-auth/issues/3189#issuecomment-3022389779) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 4. ❗ Opened issue [#3233](https://github.com/better-auth/better-auth/issues/3233) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
