@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Anthropic veut remplacer OpenClaw &lpar;j&#39;ai testé&rpar;](https://www.youtube.com/watch?v=SmyJMlcJRX0)
 - [Claude Code Channels : l&#39;OpenClaw Killer ? &lpar;j&#39;ai teste&rpar;](https://www.youtube.com/watch?v=xzNEpF8d_QA)
-- [J&#39;ai testé le Figma Killer de Google](https://www.youtube.com/watch?v=oYkFXbp4kHI)
+- [Google vient de Détruire Figma &lpar;test en live&rpar;](https://www.youtube.com/watch?v=oYkFXbp4kHI)
 - [N&#39;active PAS les 1M de Tokens sans Comprendre ça !](https://www.youtube.com/watch?v=yhCIc7_LG3o)
 - [Agent OS : Comment faire travailler des agents IA sur du code legacy ?](https://www.youtube.com/watch?v=Eoo4LBH7Isc)
-- [Ces formations m&#39;ont rapporté 2M€. Je te les offre...](https://www.youtube.com/watch?v=N3xQ5_Um16o)
 <!-- YOUTUBE:END -->
 
 <details>
