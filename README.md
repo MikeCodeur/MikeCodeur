@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Les 6 Niveaux de Maîtrise de Claude Code &lpar;tu es bloqué au 2 ?&rpar;](https://www.youtube.com/watch?v=Gq5VAlFfC3M)
 - [Anthropic veut remplacer OpenClaw &lpar;j&#39;ai testé&rpar;](https://www.youtube.com/watch?v=SmyJMlcJRX0)
 - [Claude Code Channels : l&#39;OpenClaw Killer ? &lpar;j&#39;ai teste&rpar;](https://www.youtube.com/watch?v=xzNEpF8d_QA)
 - [Google vient de Détruire Figma &lpar;test en live&rpar;](https://www.youtube.com/watch?v=oYkFXbp4kHI)
 - [N&#39;active PAS les 1M de Tokens sans Comprendre ça !](https://www.youtube.com/watch?v=yhCIc7_LG3o)
-- [Agent OS : Comment faire travailler des agents IA sur du code legacy ?](https://www.youtube.com/watch?v=Eoo4LBH7Isc)
 <!-- YOUTUBE:END -->
 
 <details>
