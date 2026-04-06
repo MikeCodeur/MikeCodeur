@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Anthropic vient de tuer OpenClaw &lpar;mais il existe une solution&rpar;](https://www.youtube.com/watch?v=zr32CLqF5tM)
 - [J&#39;ai trouvé 108 features cachées dans Claude Code](https://www.youtube.com/watch?v=HMx3OtNjdCI)
 - [Les 6 Niveaux de Maîtrise de Claude Code](https://www.youtube.com/watch?v=Gq5VAlFfC3M)
 - [Anthropic veut remplacer OpenClaw &lpar;j&#39;ai testé&rpar;](https://www.youtube.com/watch?v=SmyJMlcJRX0)
 - [Claude Code Channels : l&#39;OpenClaw Killer ? &lpar;j&#39;ai teste&rpar;](https://www.youtube.com/watch?v=xzNEpF8d_QA)
-- [Google vient de Détruire Figma &lpar;test en live&rpar;](https://www.youtube.com/watch?v=oYkFXbp4kHI)
 <!-- YOUTUBE:END -->
 
 <details>
