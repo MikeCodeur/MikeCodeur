@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Claude Mythos trouve des ZERO DAY que personne n&#39;avait vues en 27 ans](https://www.youtube.com/watch?v=FofhGLjXUYo)
 - [Le BULLSHIT des Influenceurs IA, Mon VPS à 7€ Détruit leur Mac Mini](https://www.youtube.com/watch?v=t4P_W6K43h0)
 - [Anthropic vient de tuer OpenClaw &lpar;mais il existe une solution&rpar;](https://www.youtube.com/watch?v=zr32CLqF5tM)
 - [J&#39;ai trouvé 108 features cachées dans Claude Code](https://www.youtube.com/watch?v=HMx3OtNjdCI)
 - [Les 6 Niveaux de Maîtrise de Claude Code](https://www.youtube.com/watch?v=Gq5VAlFfC3M)
-- [Anthropic veut remplacer OpenClaw &lpar;j&#39;ai testé&rpar;](https://www.youtube.com/watch?v=SmyJMlcJRX0)
 <!-- YOUTUBE:END -->
 
 <details>
