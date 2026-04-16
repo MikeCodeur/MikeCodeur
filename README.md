@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [OpenClaw, Claude Code, SOC2 — Ce que l&#39;IA change VRAIMENT pour les devs &lpar;feat. Alex Soyer&rpar;](https://www.youtube.com/watch?v=SCvL-Tfd0lk)
 - [Publie tes Skills IA en Public pour Tous les Agents](https://www.youtube.com/watch?v=lRTlWtPnisE)
 - [Claude Mythos a trouvé en UNE NUIT ce que des experts cherchaient depuis 27 ans](https://www.youtube.com/watch?v=FofhGLjXUYo)
 - [Le BULLSHIT des Influenceurs IA, Mon VPS à 7€ Détruit leur Mac Mini](https://www.youtube.com/watch?v=t4P_W6K43h0)
 - [Anthropic vient de tuer OpenClaw &lpar;mais il existe une solution&rpar;](https://www.youtube.com/watch?v=zr32CLqF5tM)
-- [J&#39;ai trouvé 108 features cachées dans Claude Code](https://www.youtube.com/watch?v=HMx3OtNjdCI)
 <!-- YOUTUBE:END -->
 
 <details>
