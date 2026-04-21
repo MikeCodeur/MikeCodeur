@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [La valeur d&#39;un développeur évolue](https://www.youtube.com/shorts/vEYUtnm808Y)
 - [J’ai coupé 7 jours, puis Opus 4.7 et Claude Design sont sortis](https://www.youtube.com/watch?v=bOLm6YtZ7Uw)
 - [OpenClaw, Claude Code, SOC2 — Ce que l&#39;IA change VRAIMENT pour les devs &lpar;feat. Alex Soyer&rpar;](https://www.youtube.com/watch?v=SCvL-Tfd0lk)
 - [Publie tes Skills IA en Public pour Tous les Agents](https://www.youtube.com/watch?v=lRTlWtPnisE)
 - [Claude Mythos a trouvé en UNE NUIT ce que des experts cherchaient depuis 27 ans](https://www.youtube.com/watch?v=FofhGLjXUYo)
-- [Le BULLSHIT des Influenceurs IA, Mon VPS à 7€ Détruit leur Mac Mini](https://www.youtube.com/watch?v=t4P_W6K43h0)
 <!-- YOUTUBE:END -->
 
 <details>
