@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [La hype autour du Mac Mini expliquée !](https://www.youtube.com/shorts/UtZl4zX5yzk)
 - [Claude Design a tué Figma et Google Stitch ? Mon avis concret](https://www.youtube.com/watch?v=tQnbdeaOQZY)
 - [La valeur d&#39;un développeur évolue](https://www.youtube.com/shorts/vEYUtnm808Y)
 - [Déconnexion, burnout IA… puis Opus 4.7 et Claude Design débarquent](https://www.youtube.com/watch?v=bOLm6YtZ7Uw)
 - [OpenClaw, Claude Code, SOC2 — Ce que l&#39;IA change VRAIMENT pour les devs &lpar;feat. Alex Soyer&rpar;](https://www.youtube.com/watch?v=SCvL-Tfd0lk)
-- [Publie tes Skills IA en Public pour Tous les Agents](https://www.youtube.com/watch?v=lRTlWtPnisE)
 <!-- YOUTUBE:END -->
 
 <details>
