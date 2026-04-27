@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [GPT-5.5 vs Opus 4.7 : j&#39;ai testé les 2 sur mon SAAS](https://www.youtube.com/watch?v=OQZu38b1lEw)
 - [J&#39;ai testé les 15 nouvelles commandes Claude Code &lpar;voici celles qui valent le coup&rpar;](https://www.youtube.com/watch?v=SxJMQrlwADY)
 - [La hype autour du Mac Mini expliquée !](https://www.youtube.com/shorts/UtZl4zX5yzk)
 - [Claude Design : j&#39;ai redesigné mon onboarding SaaS en 10 min](https://www.youtube.com/watch?v=tQnbdeaOQZY)
 - [La valeur d&#39;un développeur évolue](https://www.youtube.com/shorts/vEYUtnm808Y)
-- [Déconnexion, burnout IA… puis Opus 4.7 et Claude Design débarquent](https://www.youtube.com/watch?v=bOLm6YtZ7Uw)
 <!-- YOUTUBE:END -->
 
 <details>
