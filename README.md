@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Amazon a supprimé 4 500 années de travail humain](https://www.youtube.com/shorts/BrCEpVg6JBI)
 - [Les devs vont détester ça &lpar;j ne code plus&rpar;](https://www.youtube.com/shorts/qIxK9BBWRGQ)
 - [GPT-5.5 vs Opus 4.7 : j&#39;ai testé les 2 sur mon SAAS](https://www.youtube.com/watch?v=OQZu38b1lEw)
 - [J&#39;ai testé les 15 nouvelles commandes Claude Code &lpar;voici celles qui valent le coup&rpar;](https://www.youtube.com/watch?v=SxJMQrlwADY)
 - [La hype autour du Mac Mini expliquée !](https://www.youtube.com/shorts/UtZl4zX5yzk)
-- [Claude Design : j&#39;ai redesigné mon onboarding SaaS en 10 min](https://www.youtube.com/watch?v=tQnbdeaOQZY)
 <!-- YOUTUBE:END -->
 
 <details>
