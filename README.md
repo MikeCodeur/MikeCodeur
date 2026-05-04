@@ -99,7 +99,7 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
-- [J&#39;ai rejoint Y Combinator &lpar;sans postuler&rpar;](https://www.youtube.com/watch?v=f7Ztngv_ADA)
+- [Le setup Claude Code que Garry Tan &lpar;YC&rpar; vient de leak](https://www.youtube.com/watch?v=f7Ztngv_ADA)
 - [Les embauches de devs repartent &lpar;mais pas pour tout le monde&rpar;](https://www.youtube.com/shorts/aF15TyM3ZKw)
 - [Le terminal pensé pour le dev AGENTIC &lpar;Ghostty c&#39;est fini&rpar;](https://www.youtube.com/watch?v=cq-_feXzwuA)
 - [Amazon a supprimé 4 500 années de travail humain](https://www.youtube.com/shorts/BrCEpVg6JBI)
