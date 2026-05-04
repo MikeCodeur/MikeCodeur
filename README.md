@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [J&#39;ai rejoint Y Combinator &lpar;sans postuler&rpar;](https://www.youtube.com/watch?v=f7Ztngv_ADA)
 - [Les embauches de devs repartent &lpar;mais pas pour tout le monde&rpar;](https://www.youtube.com/shorts/aF15TyM3ZKw)
 - [Le terminal pensé pour le dev AGENTIC &lpar;Ghostty c&#39;est fini&rpar;](https://www.youtube.com/watch?v=cq-_feXzwuA)
 - [Amazon a supprimé 4 500 années de travail humain](https://www.youtube.com/shorts/BrCEpVg6JBI)
 - [Les devs vont détester ça &lpar;j ne code plus&rpar;](https://www.youtube.com/shorts/qIxK9BBWRGQ)
-- [GPT-5.5 vs Opus 4.7 : j&#39;ai testé les 2 sur mon SAAS](https://www.youtube.com/watch?v=OQZu38b1lEw)
 <!-- YOUTUBE:END -->
 
 <details>
