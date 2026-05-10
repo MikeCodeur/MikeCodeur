@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Je viens de coder un truc de fou 🤯 un Agentic OS Claude Code #agenticdev](https://www.youtube.com/shorts/UhZ-zOB94cg)
 - [Mon Agentic OS fait tourner TOUT mon business &lpar;Claude Code&rpar;](https://www.youtube.com/watch?v=mlp4UN4OIGM)
 - [Le système MEMOIRE derrière un Agentic OS](https://www.youtube.com/watch?v=oudywvjPCls)
 - [J’ai automatisé tout mon business entier avec l’IA](https://www.youtube.com/shorts/Tz83C-D6sl0)
 - [Le setup Claude Code que Garry Tan &lpar;YC&rpar; vient de leak](https://www.youtube.com/watch?v=f7Ztngv_ADA)
-- [Les embauches de devs repartent &lpar;mais pas pour tout le monde&rpar;](https://www.youtube.com/shorts/aF15TyM3ZKw)
 <!-- YOUTUBE:END -->
 
 <details>
