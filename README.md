@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Le Multi-Agent Natif qu&#39;on attendait depuis 2 ans](https://www.youtube.com/watch?v=Pbc0gyk7jCU)
 - [L’IA négocie mes deals mieux que moi](https://www.youtube.com/shorts/BkWnDC0Rkus)
 - [Je viens de coder un truc de fou 🤯 un Agentic OS Claude Code #agenticdev](https://www.youtube.com/shorts/UhZ-zOB94cg)
 - [Mon Agentic OS fait tourner TOUT mon business &lpar;Claude Code&rpar;](https://www.youtube.com/watch?v=mlp4UN4OIGM)
 - [Le système MEMOIRE derrière un Agentic OS](https://www.youtube.com/watch?v=oudywvjPCls)
-- [J’ai automatisé tout mon business entier avec l’IA](https://www.youtube.com/shorts/Tz83C-D6sl0)
 <!-- YOUTUBE:END -->
 
 <details>
