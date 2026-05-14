@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Les développeurs vont devoir évoluer ou disparaitre](https://www.youtube.com/shorts/ZhQn2ibLq4Q)
+- [Stop l&#39;API Anthropic : construis un Harness Claude Code](https://www.youtube.com/watch?v=az7tc9uhSvY)
 - [Le Multi-Agent Natif qu&#39;on attendait depuis 2 ans](https://www.youtube.com/watch?v=Pbc0gyk7jCU)
 - [L’IA négocie mes deals mieux que moi](https://www.youtube.com/shorts/BkWnDC0Rkus)
 - [Je viens de coder un truc de fou 🤯 un Agentic OS Claude Code #agenticdev](https://www.youtube.com/shorts/UhZ-zOB94cg)
-- [Mon Agentic OS fait tourner TOUT mon business &lpar;Claude Code&rpar;](https://www.youtube.com/watch?v=mlp4UN4OIGM)
-- [Le système MEMOIRE derrière un Agentic OS](https://www.youtube.com/watch?v=oudywvjPCls)
 <!-- YOUTUBE:END -->
 
 <details>
