@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Le remplaçant du Markdown ?](https://www.youtube.com/watch?v=zNhhdgGuAOc)
 - [Anthropic vient de tuer le plan Claude Max ?](https://www.youtube.com/watch?v=4_H4oc-Rbfo)
 - [Les développeurs vont devoir évoluer ou disparaitre](https://www.youtube.com/shorts/ZhQn2ibLq4Q)
 - [Stop l&#39;API Anthropic : construis un Harness Claude Code](https://www.youtube.com/watch?v=az7tc9uhSvY)
 - [Le Multi-Agent Natif qu&#39;on attendait depuis 2 ans](https://www.youtube.com/watch?v=Pbc0gyk7jCU)
-- [L’IA négocie mes deals mieux que moi](https://www.youtube.com/shorts/BkWnDC0Rkus)
 <!-- YOUTUBE:END -->
 
 <details>
