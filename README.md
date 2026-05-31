@@ -99,7 +99,7 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
-- [Opus 4.8 : Dynamic Workflows permet de lancer 1000 Agents Swarm](https://www.youtube.com/watch?v=jud40rE312E)
+- [Anthropic a tué CrewAI avec Opus 4.8 + Dynamic Workflows](https://www.youtube.com/watch?v=jud40rE312E)
 - [Hermes Agent : de Zéro à ton Assistant IA Personnel — &lpar;Formation Complète 1h&rpar;](https://www.youtube.com/watch?v=KlMJGkZ00f4)
 - [Le workflow secret de Cloudflare avec Claude Mythos](https://www.youtube.com/watch?v=h0h6MKLv3rw)
 - [La Solution pour ne pas être Surfacturé après le 15 juin &lpar;Claude Code&rpar;](https://www.youtube.com/watch?v=eq1BHKRqW4A)
