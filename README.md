@@ -103,7 +103,7 @@ Actually:
 - [Claude Mythos : l’IA la plus dangereuse qu’on ne voit pas](https://www.youtube.com/shorts/qOQXUDUmiXU)
 - [Ce repo te met 6 mois d&#39;avance sur 90% des devs &lpar;Formation 1h&rpar;](https://www.youtube.com/watch?v=j1JDl_As-dY)
 - [Anthropic a tué CrewAI avec Opus 4.8 + Dynamic Workflows](https://www.youtube.com/watch?v=jud40rE312E)
-- [Hermes Agent : de Zéro à ton Assistant IA Personnel — &lpar;Formation Complète 1h&rpar;](https://www.youtube.com/watch?v=KlMJGkZ00f4)
+- [Tu dois utiliser Hermès IMMÉDIATEMENT ! &lpar;Adieu OpenClaw !!&rpar;](https://www.youtube.com/watch?v=KlMJGkZ00f4)
 <!-- YOUTUBE:END -->
 
 <details>
