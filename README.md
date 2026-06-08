@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Mais personne n&#39;utilise l&#39;IA en fait ?!](https://www.youtube.com/watch?v=fPhK2HnXqxo)
 - [Agents IA Parallèle vs Séquentiel : l&#39;erreur à ne pas commettre](https://www.youtube.com/watch?v=yNZeBi2Y-9k)
 - [Claude Mythos : l’IA la plus dangereuse qu’on ne voit pas](https://www.youtube.com/shorts/qOQXUDUmiXU)
 - [Ce repo te met 6 mois d&#39;avance sur 90% des devs &lpar;Formation 1h&rpar;](https://www.youtube.com/watch?v=j1JDl_As-dY)
 - [Anthropic a tué CrewAI avec Opus 4.8 + Dynamic Workflows](https://www.youtube.com/watch?v=jud40rE312E)
-- [Tu dois utiliser Hermès IMMÉDIATEMENT ! &lpar;Adieu OpenClaw !!&rpar;](https://www.youtube.com/watch?v=KlMJGkZ00f4)
 <!-- YOUTUBE:END -->
 
 <details>
