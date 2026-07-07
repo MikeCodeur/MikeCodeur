@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Les Agents IA ont définitivement tué le SaaS &lpar;Voici la suite&rpar;](https://www.youtube.com/watch?v=xI87VqDo8lg)
 - [Fable 5 est de RETOUR ! Tout savoir ...](https://www.youtube.com/watch?v=YGm8QYtPdo0)
 - [Le Shadow AI est partout &lpar;et les boîtes commencent à réagir&rpar;](https://www.youtube.com/watch?v=-Xal2ZkaaFk)
 - [Les designers sont en danger, l’IA fait déjà mieux](https://www.youtube.com/shorts/Cyt42eDUdGg)
 - [KAIROS travaille pendant que tu dors, sans s’arrêter](https://www.youtube.com/shorts/0Qwt5VZV4AQ)
-- [Mais personne n&#39;utilise l&#39;IA en fait ?!](https://www.youtube.com/watch?v=fPhK2HnXqxo)
 <!-- YOUTUBE:END -->
 
 <details>
