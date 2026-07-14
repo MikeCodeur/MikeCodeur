@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [J&#39;ai branché tous mes Agents IA sur le même Obsidian &lpar;Graphify&rpar;](https://www.youtube.com/watch?v=3RuzdZZQ8no)
 - [Fable 5 est de retour : lancez ces prompts avant le 19 juillet](https://www.youtube.com/watch?v=knQ118Bfbmg)
 - [Les Agents IA ont définitivement tué le SaaS &lpar;Voici la suite&rpar;](https://www.youtube.com/watch?v=xI87VqDo8lg)
 - [Fable 5 est de RETOUR ! Tout savoir ...](https://www.youtube.com/watch?v=YGm8QYtPdo0)
 - [Le Shadow AI est partout &lpar;et les boîtes commencent à réagir&rpar;](https://www.youtube.com/watch?v=-Xal2ZkaaFk)
-- [Les designers sont en danger, l’IA fait déjà mieux](https://www.youtube.com/shorts/Cyt42eDUdGg)
 <!-- YOUTUBE:END -->
 
 <details>
