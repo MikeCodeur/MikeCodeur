@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Hermes Agent : tous les use cases &amp; skills &lpar;guide complet 2026&rpar;](https://www.youtube.com/watch?v=OiaFxNJTvLU)
 - [Ton agent IA oublie tout : la solution des devs : les ADR](https://www.youtube.com/watch?v=0CZtRw0KrXo)
 - [Il n&#39;y a plus d&#39;artisanat dans le métier de développeur](https://www.youtube.com/watch?v=0sl8N0njSwA)
 - [J&#39;ai branché tous mes Agents IA sur le même Obsidian &lpar;Graphify&rpar;](https://www.youtube.com/watch?v=3RuzdZZQ8no)
 - [Fable 5 est de retour : lancez ces prompts avant le 19 juillet](https://www.youtube.com/watch?v=knQ118Bfbmg)
-- [Les Agents IA ont définitivement tué le SaaS &lpar;Voici la suite&rpar;](https://www.youtube.com/watch?v=xI87VqDo8lg)
 <!-- YOUTUBE:END -->
 
 <details>
