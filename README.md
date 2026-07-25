@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Opus 5 est-il meilleur que Fable 5 ?](https://www.youtube.com/watch?v=sB_TG9z0kN0)
 - [On a HACKÉ le SaaS de Benjamin Code &lpar;et le mien&rpar;](https://www.youtube.com/watch?v=WAsmcwBIqVc)
 - [Hermes Agent : tous les use cases &amp; skills &lpar;guide complet 2026&rpar;](https://www.youtube.com/watch?v=OiaFxNJTvLU)
 - [Ton agent IA oublie tout : la solution des devs : les ADR](https://www.youtube.com/watch?v=0CZtRw0KrXo)
 - [Il n&#39;y a plus d&#39;artisanat dans le métier de développeur](https://www.youtube.com/watch?v=0sl8N0njSwA)
-- [J&#39;ai branché tous mes Agents IA sur le même Obsidian &lpar;Graphify&rpar;](https://www.youtube.com/watch?v=3RuzdZZQ8no)
 <!-- YOUTUBE:END -->
 
 <details>
