@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Agentic Dev : je remplace n&#39;importe quel SaaS à 2 000 € avec cette méthode &lpar;formation complète&rpar;](https://www.youtube.com/watch?v=G3JN9X2Uiio)
 - [Le NoCode est enfin mort ?](https://www.youtube.com/watch?v=u6tIyRWxNVw)
 - [Opus 5 est-il meilleur que Fable 5 ?](https://www.youtube.com/watch?v=sB_TG9z0kN0)
 - [On a HACKÉ le SaaS de Benjamin Code &lpar;et le mien&rpar;](https://www.youtube.com/watch?v=WAsmcwBIqVc)
 - [Hermes Agent : tous les use cases &amp; skills &lpar;guide complet 2026&rpar;](https://www.youtube.com/watch?v=OiaFxNJTvLU)
-- [Ton agent IA oublie tout : la solution des devs : les ADR](https://www.youtube.com/watch?v=0CZtRw0KrXo)
 <!-- YOUTUBE:END -->
 
 <details>
