@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Claude Code sait enfin designer : j’ai testé /design &lpar;claude code cli&rpar;](https://www.youtube.com/watch?v=hcg7Q_Ydmag)
 - [J’ai créé le Mailchimp des agents IA](https://www.youtube.com/watch?v=uxrEU5TAVTw)
 - [Arrête le Vibe Coding : passe à l’Agentic Engineering](https://www.youtube.com/watch?v=WCufvACxXVU)
 - [Workslop : le nouveau fléau de l’IA envahit Internet](https://www.youtube.com/watch?v=J4B89xtPQm4)
 - [Les 2 skills de Stress Test que les Vibe-Codeurs n&#39;ont pas](https://www.youtube.com/watch?v=fkYwBcfqZWY)
-- [Agentic Dev : je remplace n&#39;importe quel SaaS à 2 000 € avec cette méthode &lpar;formation complète&rpar;](https://www.youtube.com/watch?v=G3JN9X2Uiio)
 <!-- YOUTUBE:END -->
 
 <details>
