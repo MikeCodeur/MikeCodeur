@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Ton Hermes sur mesure : un OS 100 % personnalisable](https://www.youtube.com/watch?v=ofTJXYQQbAg)
 - [Mon Hermes Agent avait 3 failles !](https://www.youtube.com/watch?v=MFkjP_Phi0U)
 - [Claude Code sait enfin designer : j’ai testé /design &lpar;claude code cli&rpar;](https://www.youtube.com/watch?v=hcg7Q_Ydmag)
 - [J’ai créé le Mailchimp des agents IA](https://www.youtube.com/watch?v=uxrEU5TAVTw)
 - [Arrête le Vibe Coding : passe à l’Agentic Engineering](https://www.youtube.com/watch?v=WCufvACxXVU)
-- [Workslop : le nouveau fléau de l’IA envahit Internet](https://www.youtube.com/watch?v=J4B89xtPQm4)
 <!-- YOUTUBE:END -->
 
 <details>
