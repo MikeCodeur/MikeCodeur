@@ -100,7 +100,7 @@ Actually:
 
 <!-- YOUTUBE:START -->
 - [Ton Hermes sur mesure : un OS 100 % personnalisable](https://www.youtube.com/watch?v=ofTJXYQQbAg)
-- [Mon Hermes Agent avait 3 failles !](https://www.youtube.com/watch?v=MFkjP_Phi0U)
+- [J’ai donné un VPS à mon agent IA : voici comment je garde le contrôle](https://www.youtube.com/watch?v=MFkjP_Phi0U)
 - [Claude Code sait enfin designer : j’ai testé /design &lpar;claude code cli&rpar;](https://www.youtube.com/watch?v=hcg7Q_Ydmag)
 - [J’ai créé le Mailchimp des agents IA](https://www.youtube.com/watch?v=uxrEU5TAVTw)
 - [Arrête le Vibe Coding : passe à l’Agentic Engineering](https://www.youtube.com/watch?v=WCufvACxXVU)
