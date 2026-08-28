@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [J’arrête Claude Code et Codex… je les remplace par ça](https://www.youtube.com/watch?v=4q2Di1UUNc8)
 - [Ton Hermes sur mesure : un OS 100 % personnalisable](https://www.youtube.com/watch?v=ofTJXYQQbAg)
 - [J’ai donné un VPS à mon agent IA : voici comment je garde le contrôle](https://www.youtube.com/watch?v=MFkjP_Phi0U)
 - [Claude Code sait enfin designer : j’ai testé /design &lpar;claude code cli&rpar;](https://www.youtube.com/watch?v=hcg7Q_Ydmag)
 - [J’ai créé le Mailchimp des agents IA](https://www.youtube.com/watch?v=uxrEU5TAVTw)
-- [Arrête le Vibe Coding : passe à l’Agentic Engineering](https://www.youtube.com/watch?v=WCufvACxXVU)
 <!-- YOUTUBE:END -->
 
 <details>
