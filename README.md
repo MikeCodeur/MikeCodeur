@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [GPT-6 Astra est incroyable : tout ce que tu dois savoir](https://www.youtube.com/watch?v=aaOjKVJWvRM)
 - [109 user stories, 497 agents : Codex, Claude ont construit mon nouveau SaaS](https://www.youtube.com/watch?v=6G8G245viBU)
 - [Pourquoi j’arrête Claude Code et Codex](https://www.youtube.com/watch?v=4q2Di1UUNc8)
 - [Ton Hermes sur mesure : un OS 100 % personnalisable](https://www.youtube.com/watch?v=ofTJXYQQbAg)
 - [J’ai donné un VPS à mon agent IA : voici comment je garde le contrôle](https://www.youtube.com/watch?v=MFkjP_Phi0U)
-- [Claude Code sait enfin designer : j’ai testé /design &lpar;claude code cli&rpar;](https://www.youtube.com/watch?v=hcg7Q_Ydmag)
 <!-- YOUTUBE:END -->
 
 <details>
