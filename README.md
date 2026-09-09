@@ -99,7 +99,7 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
-- [J’ai perdu 12 millions de tokens à cause de cette erreur](https://www.youtube.com/watch?v=aRQtWRGRR2Q)
+- [Pourquoi tu n’arrives pas à lancer plus de 4 agents en parallèle ?](https://www.youtube.com/watch?v=aRQtWRGRR2Q)
 - [GPT-6 Astra est incroyable : tout ce que tu dois savoir](https://www.youtube.com/watch?v=aaOjKVJWvRM)
 - [109 user stories, 497 agents : Codex, Claude ont construit mon nouveau SaaS](https://www.youtube.com/watch?v=6G8G245viBU)
 - [Pourquoi j’arrête Claude Code et Codex](https://www.youtube.com/watch?v=4q2Di1UUNc8)
