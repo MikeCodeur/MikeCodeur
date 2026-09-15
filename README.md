@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [4 jours pour une réponse du Support. 2 jours pour remplacer leur SaaS.](https://www.youtube.com/watch?v=RymVKRabNg8)
 - [Herdr + Hermes + VPS : si t’as pas ce setup, t’es en retard](https://www.youtube.com/watch?v=wBsRZ7E5lFA)
 - [Pourquoi tu n’arrives pas à lancer plus de 4 agents en parallèle ?](https://www.youtube.com/watch?v=aRQtWRGRR2Q)
 - [GPT-6 Astra est incroyable : tout ce que tu dois savoir](https://www.youtube.com/watch?v=aaOjKVJWvRM)
 - [109 user stories, 497 agents : Codex, Claude ont construit mon nouveau SaaS](https://www.youtube.com/watch?v=6G8G245viBU)
-- [Pourquoi j’arrête Claude Code et Codex](https://www.youtube.com/watch?v=4q2Di1UUNc8)
 <!-- YOUTUBE:END -->
 
 <details>
