@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Claude Opus 5.5 : je l’ai testé sur 10 benchmarks concrets](https://www.youtube.com/watch?v=OU3j4BFaXH8)
 - [JEV : la hype est-elle justifiée ?](https://www.youtube.com/watch?v=LB6kHTowL_A)
 - [VillaSlot est vibe codé ? Voici l’architecture complète](https://www.youtube.com/watch?v=GZlZ_7gmDgg)
 - [4 jours pour une réponse du Support. 2 jours pour remplacer leur SaaS.](https://www.youtube.com/watch?v=RymVKRabNg8)
 - [Herdr + Hermes + VPS : si t’as pas ce setup, t’es en retard](https://www.youtube.com/watch?v=wBsRZ7E5lFA)
-- [Pourquoi tu n’arrives pas à lancer plus de 4 agents en parallèle ?](https://www.youtube.com/watch?v=aRQtWRGRR2Q)
 <!-- YOUTUBE:END -->
 
 <details>
