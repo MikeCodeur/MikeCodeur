@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Le Remontada de Codex ?](https://www.youtube.com/watch?v=7Dd09QJk0vg)
 - [Claude Opus 5.5 : je l’ai testé sur 10 benchmarks concrets](https://www.youtube.com/watch?v=OU3j4BFaXH8)
 - [JEV : la hype est-elle justifiée ?](https://www.youtube.com/watch?v=LB6kHTowL_A)
 - [VillaSlot est vibe codé ? Voici l’architecture complète](https://www.youtube.com/watch?v=GZlZ_7gmDgg)
 - [4 jours pour une réponse du Support. 2 jours pour remplacer leur SaaS.](https://www.youtube.com/watch?v=RymVKRabNg8)
-- [Herdr + Hermes + VPS : si t’as pas ce setup, t’es en retard](https://www.youtube.com/watch?v=wBsRZ7E5lFA)
 <!-- YOUTUBE:END -->
 
 <details>
