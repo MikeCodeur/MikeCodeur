@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [J’ai testé Sonnet 5.5 contre Opus 5.5 sur 15 projets](https://www.youtube.com/watch?v=P72ElL0-xEA)
 - [Claude Code : la fin de l’hégémonie ?](https://www.youtube.com/watch?v=7Dd09QJk0vg)
 - [Claude Opus 5.5 : je l’ai testé sur 10 benchmarks concrets](https://www.youtube.com/watch?v=OU3j4BFaXH8)
 - [JEV : la hype est-elle justifiée ?](https://www.youtube.com/watch?v=LB6kHTowL_A)
 - [VillaSlot est vibe codé ? Voici l’architecture complète](https://www.youtube.com/watch?v=GZlZ_7gmDgg)
-- [4 jours pour une réponse du Support. 2 jours pour remplacer leur SaaS.](https://www.youtube.com/watch?v=RymVKRabNg8)
 <!-- YOUTUBE:END -->
 
 <details>
