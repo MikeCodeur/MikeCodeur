@@ -99,11 +99,11 @@ Actually:
 ### 📺 Last Youtube:
 
 <!-- YOUTUBE:START -->
+- [Développeurs : 10 règles pour garder l’avantage avec l’IA](https://www.youtube.com/watch?v=y5ST_XRxHFA)
 - [J’ai recodé mon propre After Effects avec Opus 5.5](https://www.youtube.com/watch?v=L6ZPKrL09_o)
 - [Opus 5.5 + HyperFrames + ElevenLabs : les motion designers devraient s&#39;inquiéter](https://www.youtube.com/watch?v=cXL_it6Zdyg)
 - [OpenAI DevDay 2026 : les 15 annonces qui comptent pour les développeurs](https://www.youtube.com/watch?v=TVbOHIfaefE)
 - [J’ai testé Sonnet 5.5 contre Opus 5.5 sur 15 projets](https://www.youtube.com/watch?v=P72ElL0-xEA)
-- [Claude Code : la fin de l’hégémonie ?](https://www.youtube.com/watch?v=7Dd09QJk0vg)
 <!-- YOUTUBE:END -->
 
 <details>
