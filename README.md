@@ -85,9 +85,9 @@ Actually:
 
 ### 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1623](https://github.com/Domain-Connect/Templates/pull/1623) in [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates)
-2. 💪 Opened PR [#1623](https://github.com/Domain-Connect/Templates/pull/1623) in [Domain-Connect/Templates](https://github.com/Domain-Connect/Templates)
-3. 🗣 Commented on [#3189](https://github.com/better-auth/better-auth/issues/3189#issuecomment-3022389779) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 🎉 Merged PR [#2](https://github.com/MikeCodeur/zero-to-prod/pull/2) in [MikeCodeur/zero-to-prod](https://github.com/MikeCodeur/zero-to-prod)
+2. 💪 Opened PR [#2](https://github.com/MikeCodeur/zero-to-prod/pull/2) in [MikeCodeur/zero-to-prod](https://github.com/MikeCodeur/zero-to-prod)
+3. 🎉 Merged PR [#1](https://github.com/MikeCodeur/zero-to-prod/pull/1) in [MikeCodeur/zero-to-prod](https://github.com/MikeCodeur/zero-to-prod)
 4. ❗ Opened issue [#3233](https://github.com/better-auth/better-auth/issues/3233) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 5. 🗣 Commented on [#1](https://github.com/MikeCodeur/typescript-expert/issues/1#issuecomment-2219188953) in [MikeCodeur/typescript-expert](https://github.com/MikeCodeur/typescript-expert)
 <!--END_SECTION:activity-->
